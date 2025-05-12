@@ -1,0 +1,42 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "Quest",
+    "description": "Quest w grze",
+    "type": "object",
+    "properties": {
+        "questId": {
+            "description": "Unikalny identyfikator questa",
+            "type": "integer"
+        },
+        "questName": {
+            "description": "Nazwa questa",
+            "type": "string"
+        },
+        "goal": {
+            "description": "Cel do znalezienia podczas questa",
+            "type": "string"
+        },
+        "goalAmount": {
+            "description": "Ilość wymaganych celów do znalezienia",
+            "type": "integer"
+        },
+        "goldReward": {
+            "description": "Ilość uzyskanego złota za wykonanie questa",
+            "type": "integer"
+        },
+        "expReward": {
+            "description": "Ilość uzyskanego doświadczenia za wykonanie questa",
+            "type": "integer"
+        }
+    },
+    "required": [
+        "questId",
+        "questName",
+        "goal",
+        "goalAmount",
+        "goldReward",
+        "expReward"
+    ],
+    "additionalProperties": false
+}
