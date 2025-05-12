@@ -15,9 +15,22 @@
             "maxLength": 16,
             "type": "string"
         },
-        "guildMembershipId": {
-            "description": "Identyfikator listy zawierającej członków gildii",
-            "type": "integer"
+        "members": {
+            "description": "Członkowie gildii",
+            "type": "array",
+            "items": {
+                "member": {
+                    "memberId": {
+                        "description": "Id postaci będącej członkiem gildii",
+                        "type": "integer"
+                    },
+                    "role": {
+                        "description": "Rola postaci w gildii",
+                        "type": "string",
+                        "enum": ["member", "officer", "leader"]
+                    }
+                }
+            }
         },
         "glory": {
             "description": "Cześć należąca do gildii",
