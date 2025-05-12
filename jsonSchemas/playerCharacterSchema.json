@@ -34,6 +34,16 @@
                 "nr"
             ]
         },
+        "level": {
+            "description": "Poziom postaci w grze",
+            "type": "integer",
+            "minimum": 0
+        },
+        "exp": {
+            "description": "Punkty doświadczenia postaci",
+            "type": "integer",
+            "minimum": 0
+        },
         "characterClass": {
             "description": "Klasa postaci w grze",
             "type": "string",
@@ -167,7 +177,7 @@
                     "description": "Przedmioty posiadane przez postać w plecaku",
                     "type": "object",
                     "patternProperties": {
-                        "itemId[1-9]+[0-9]+": {
+                        "itemId[1-9][0-9]+": {
                             "type": "integer"
                         }
                     }
