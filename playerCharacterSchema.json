@@ -1,0 +1,242 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "Player character",
+    "description": "Postać gracza w grze",
+    "type": "object",
+    "properties": {
+        "characterId": {
+            "description": "Unikalny identyfikator postaci",
+            "type": "integer"
+        },
+        "characterName": {
+            "description": "Nazwa postaci w grze",
+            "minLength": 6,
+            "maxLength": 16,
+            "type": "string"
+        },
+        "world": {
+            "description": "Świat, w którym znajduje się postać",
+            "type": "object",
+            "properties": {
+                "region": {
+                    "description": "Region w prawdziwym świecie",
+                    "type": "string",
+                    "enum": ["int", "eu", "am", "cz", "pl", "de", "fr", "hu"]
+                },
+                "nr": {
+                    "description": "Numer świata w danym regionie",
+                    "type": "integer"
+                }
+            },
+            "required": [
+                "region",
+                "nr"
+            ]
+        },
+        "characterClass": {
+            "description": "Klasa postaci w grze",
+            "type": "string",
+            "enum": ["warrior", "mage", "scout", "assasin", "battleMage", "berserker", "druid", "demonHunter", "bard"]
+        },
+        "race": {
+            "description": "Rasa postaci w grze",
+            "type": "string",
+            "enum": ["human", "elf", "dwarf", "gnome", "orc", "darkElf", "goblin", "demon"]
+        },
+        "ownGold": {
+            "description": "Złoto posiadane przez postać",
+            "type": "integer"
+        },
+        "ownMushrooms": {
+            "description": "Grzyby posiadane przez postać",
+            "type": "integer"
+        },
+        "glory": {
+            "description": "Cześć posiadana na arenie",
+            "type": "integer"
+        },
+        "characterStatistics": {
+            "description": "Statystyki postaci (bez uwzględniania ekwipunku)",
+            "type": "object",
+            "properties": {
+                "strength": {
+                    "description": "Punkty siły posiadane przez postać",
+                    "type": "integer",
+                    "minimum": 0
+                },
+                "agility": {
+                    "description": "Punkty zręczności posiadane przez postać",
+                    "type": "integer",
+                    "minimum": 0
+                },
+                "intelligence": {
+                    "description": "Punkty inteligencji posiadane przez postać",
+                    "type": "integer",
+                    "minimum": 0
+                },
+                "constitution": {
+                    "description": "Punkty wytrzymałości posiadane przez postać",
+                    "type": "integer",
+                    "minimum": 0
+                },
+                "luck": {
+                    "description": "Punkty szczęścia posiadane przez postać",
+                    "type": "integer",
+                    "minimum": 0
+                },
+                "hp": {
+                    "description": "Punkty życia posiadane przez postać",
+                    "type": "integer",
+                    "minimum": 0
+                }
+            },
+            "required": [
+                "strength",
+                "agility",
+                "intelligence",
+                "constitution",
+                "luck",
+                "hp"
+            ]
+        },
+        "equipment": {
+            "description": "Ekwipunek postaci. Zawiera aktualnie założone przedmioty oraz przedmioty w plecaku",
+            "type": "object",
+            "properties": {
+                "equippedItems": {
+                    "description": "Przedmioty znajdujące się na danym slocie",
+                    "type": "object",
+                    "properties": {
+                        "headItemId": {
+                            "description": "Przedmiot znajdujący się na slocie hełmu",
+                            "type": "integer",
+                            "format": "uuid"
+                        },
+                        "armorItemId": {
+                            "description": "Przedmiot znajdujący się na slocie zbroi",
+                            "type": "integer",
+                            "format": "uuid"
+                        },
+                        "glovesItemId": {
+                            "description": "Przedmiot znajdujący się na slocie rękawiczek",
+                            "type": "integer",
+                            "format": "uuid"
+                        },
+                        "bootsItemId": {
+                            "description": "Przedmiot znajdujący się na slocie butów",
+                            "type": "integer",
+                            "format": "uuid"
+                        },
+                        "necklaceItemId": {
+                            "description": "Przedmiot znajdujący się na slocie naszyjnika",
+                            "type": "integer",
+                            "format": "uuid"
+                        },
+                        "beltItemId": {
+                            "description": "Przedmiot znajdujący się na slocie hełmu",
+                            "type": "integer",
+                            "format": "uuid"
+                        },
+                        "ringItemId": {
+                            "description": "Przedmiot znajdujący się na slocie pierścienia",
+                            "type": "integer",
+                            "format": "uuid"
+                        },
+                        "tinketItemId": {
+                            "description": "Przedmiot znajdujący się na slocie bibelotu",
+                            "type": "integer",
+                            "format": "uuid"
+                        },
+                        "leftHandItemId": {
+                            "description": "Przedmiot znajdujący się na slocie lewej ręki",
+                            "type": "integer",
+                            "format": "uuid"
+                        },
+                        "rightHandItemId": {
+                            "description": "Przedmiot znajdujący się na slocie prawej ręki",
+                            "type": "integer",
+                            "format": "uuid"
+                        }
+                    }
+                },
+                "backpack": {
+                    "description": "Przedmioty posiadane przez postać w plecaku",
+                    "type": "array",
+                    "items": {
+                        "type": "integer",
+                        "maxItems": 10
+                    }
+                    
+                }
+            },
+            "required": [
+                "equippedItems",
+                "backpack"
+            ]
+        },
+        "shops_offers": {
+            "description": "Zawiera oferty sklepów",
+            "type": "object",
+            "properties": {
+                "armsShopOffer": {
+                    "description": "Oferta sklepu zbrojniczego",
+                    "type": "array",
+                    "items": {
+                        "type": "integer",
+                        "minItems": 6,
+                        "maxItems": 6
+                    }
+                },
+                "magicShopOffer": {
+                    "description": "Oferta sklepu magicznego",
+                    "type": "array",
+                    "items": {
+                        "type": "integer",
+                        "minItems": 6,
+                        "maxItems": 6
+                    }
+                }
+            },
+            "required": [
+                "armsShopOffer",
+                "magicShopOffer"
+            ]
+        },
+        "guildMembership": {
+            "description": "Zawiera informacje o należeniu do gildii",
+            "type": "integer",
+            "format": "uuid"
+        },
+        "quest": {
+            "description": "Zawiera informacje o wykonywanych queście",
+            "type": "object",
+            "properties": {
+                "questId": {
+                    "description": "Unikalny identyfikator questu",
+                    "type": "integer"
+                },
+                "questTravelTime": {
+                    "description": "Czas wyprawy na questa",
+                    "type": "string",
+                    "format": "dateTime"
+                }
+            }
+        }
+    },
+    "required": [
+        "characterId",
+        "characterName",
+        "world",
+        "characterClass",
+        "race",
+        "ownGold",
+        "ownMushrooms",
+        "glory",
+        "characterStatistics",
+        "equipment",
+        "shops_offers",
+        "guildMembership",
+        "quest"
+    ]
+}
