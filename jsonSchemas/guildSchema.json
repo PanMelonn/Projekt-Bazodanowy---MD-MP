@@ -26,7 +26,6 @@
                     },
                     "role": {
                         "description": "Rola postaci w gildii",
-                        "type": "string",
                         "enum": ["member", "officer", "leader"]
                     }
                 }

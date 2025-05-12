@@ -1,0 +1,84 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "Item",
+    "description": "Ogólny przedmiot w grze",
+    "type": "object",
+    "properties": {
+        "itemId": {
+            "description": "Unikalny identyfikator przedmiotu",
+            "type": "integer"
+        },
+        "itemName": {
+            "description": "Nazwa przedmiotu",
+            "type": "string"
+        },
+        "type": {
+            "description": "Hasło używane do zalogowania się na konto",
+            "type": "string",
+            "enum": ["weapon, armor, potion"]
+        },
+        "classBelonging": {
+            "type": "array",
+            "items": {
+                "enum": ["warrior", "mage", "scout", "assasin", "battleMage", "berserker", "druid", "demonHunter", "bard"]
+            }
+        },
+        "strength": {
+            "description": "Punkty siły posiadane przez przedmiot",
+            "type": "integer",
+            "minimum": 1
+        },
+        "agility": {
+            "description": "Punkty zręczności posiadane przez przedmiot",
+            "type": "integer",
+            "minimum": 1
+        },
+        "intelligence": {
+            "description": "Punkty inteligencji posiadane przez przedmiot",
+            "type": "integer",
+            "minimum": 1
+        },
+        "constitution": {
+            "description": "Punkty wytrzymałości posiadane przez przedmiot",
+            "type": "integer",
+            "minimum": 1
+        },
+        "luck": {
+            "description": "Punkty szczęścia posiadane przez przedmiot",
+            "type": "integer",
+            "minimum": 1
+        },
+        "armor": {
+            "description": "Punkty pancerzu posiadane przez przedmiot",
+            "type": "integer",
+            "minimum": 1
+        },
+        "damage": {
+            "description": "Punkty obrażeń posiadane przez przedmiot",
+            "type": "integer",
+            "minimum": 1
+        },
+        "level": {
+            "description": "Poziom wymagany przez postać do znalezienia",
+            "type": "integer",
+            "minimum": 1
+        },
+        "rarity": {
+            "description": "Rzadkość przedmiotu",
+            "enum": ["common", "uncommon", "legendary"]
+        },
+        "duration": {
+            "description": "Czas w minutach ile przedmiot będzie działać",
+            "type": "integer",
+            "minimum": 1
+        }
+    },
+    "required": [
+        "itemId",
+        "itemName",
+        "type",
+        "rarity"
+    ],
+    "additionalProperties": false
+}
