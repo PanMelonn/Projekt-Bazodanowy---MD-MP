@@ -7,7 +7,6 @@
     "properties": {
         "accountId": {
             "description": "Unikalny identyfikator konta",
-            "format": "uuid",
             "type": "integer"
         },
         "login": {
@@ -30,5 +29,6 @@
         "login",
         "password",
         "email"
-    ]
+    ],
+    "additionalProperties": false
 }

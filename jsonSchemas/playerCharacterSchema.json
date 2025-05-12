@@ -46,15 +46,18 @@
         },
         "ownGold": {
             "description": "Złoto posiadane przez postać",
-            "type": "integer"
+            "type": "integer",
+            "minimum": 0
         },
         "ownMushrooms": {
             "description": "Grzyby posiadane przez postać",
-            "type": "integer"
+            "type": "integer",
+            "minimum": 0
         },
         "glory": {
             "description": "Cześć posiadana na arenie",
-            "type": "integer"
+            "type": "integer",
+            "minimum": 0
         },
         "characterStatistics": {
             "description": "Statystyki postaci (bez uwzględniania ekwipunku)",
@@ -162,12 +165,12 @@
                 },
                 "backpack": {
                     "description": "Przedmioty posiadane przez postać w plecaku",
-                    "type": "array",
-                    "items": {
-                        "type": "integer",
-                        "maxItems": 10
+                    "type": "object",
+                    "patternProperties": {
+                        "itemId[1-9]+[0-9]+": {
+                            "type": "integer"
+                        }
                     }
-                    
                 }
             },
             "required": [
@@ -181,21 +184,27 @@
             "properties": {
                 "armsShopOffer": {
                     "description": "Oferta sklepu zbrojniczego",
-                    "type": "array",
-                    "items": {
-                        "type": "integer",
-                        "minItems": 6,
-                        "maxItems": 6
-                    }
+                    "type": "object",
+                    "patternProperties": {
+                        "itemId[1-6]": {
+                            "type": "integer"
+                        }
+                    },
+                    "minProperties": 6,
+                    "maxProperties": 6,
+                    "additionalProperties": "false"
                 },
                 "magicShopOffer": {
                     "description": "Oferta sklepu magicznego",
-                    "type": "array",
-                    "items": {
-                        "type": "integer",
-                        "minItems": 6,
-                        "maxItems": 6
-                    }
+                    "type": "object",
+                    "patternProperties": {
+                        "itemId[1-6]": {
+                            "type": "integer"
+                        }
+                    },
+                    "minProperties": 6,
+                    "maxProperties": 6,
+                    "additionalProperties": false
                 }
             },
             "required": [
@@ -208,8 +217,8 @@
             "type": "integer",
             "format": "uuid"
         },
-        "quest": {
-            "description": "Zawiera informacje o wykonywanych queście",
+        "questInProgress": {
+            "description": "Zawiera informacje o wykonywanym queście",
             "type": "object",
             "properties": {
                 "questId": {
@@ -219,9 +228,19 @@
                 "questTravelTime": {
                     "description": "Czas wyprawy na questa",
                     "type": "string",
-                    "format": "dateTime"
+                    "format": "date-time"
+                },
+                "goalsDone": {
+                    "description": "Ilość wykonanych celów questa",
+                    "type": "integer"
                 }
-            }
+            },
+            "required": [
+                "questId",
+                "questTravelTime",
+                "goalsDone"
+            ],
+            "additionalProperties": false
         }
     },
     "required": [
@@ -235,8 +254,7 @@
         "glory",
         "characterStatistics",
         "equipment",
-        "shops_offers",
-        "guildMembership",
-        "quest"
-    ]
+        "shops_offers"
+    ],
+    "additionalProperties": false
 }

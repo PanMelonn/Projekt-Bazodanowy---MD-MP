@@ -1,0 +1,66 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "Guild",
+    "description": "Gildia w grze",
+    "type": "object",
+    "properties": {
+        "guildId": {
+            "description": "Unikalny identyfikator gildii",
+            "type": "integer"
+        },
+        "guildName": {
+            "description": "Nazwa gildii",
+            "minLength": 3,
+            "maxLength": 16,
+            "type": "string"
+        },
+        "guildMembershipId": {
+            "description": "Identyfikator listy zawierającej członków gildii",
+            "type": "integer"
+        },
+        "glory": {
+            "description": "Cześć należąca do gildii",
+            "type": "integer",
+            "minimum": 0
+
+        },
+        "trainerLevel": {
+            "description": "Poziom trenera gildii",
+            "type": "integer",
+            "minimum": 0
+        },
+        "treasuryLevel": {
+            "description": "Poziom skarbca gildii",
+            "type": "integer",
+            "minimum": 0
+        },
+        "attackedGuildId": {
+            "description": "Identyfikator atakowanej gildii",
+            "type": "integer"
+        },
+        "attackTime": {
+            "description": "Czas atakowania innej gildii",
+            "type": "string",
+            "format": "date-time"
+        },
+        "attackingGuildId": {
+            "description": "Identyfikator atakującej gildii",
+            "type": "integer"
+        },
+        "defendTime": {
+            "description": "Czas bronienia własnej gildii przed inną glidią",
+            "type": "string",
+            "format": "date-time"
+        }
+    },
+    "required": [
+        "guildId",
+        "guildName",
+        "guildMembershipId",
+        "glory",
+        "trainerLevel",
+        "treasuryLevel"
+    ],
+    "additionalProperties": false
+}
