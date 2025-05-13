@@ -7,9 +7,15 @@
     "properties": {
         "characterId": {
             "description": "Unikalny identyfikator postaci",
-            "type": "integer"
+            "type": "string",
+            "format": "uuid"
         },
-        "characterName": {
+        "accountId": {
+            "description": "Unikalny identyfikator konta do którego należy postać",
+            "type": "string",
+            "format": "uuid"
+        },
+        "name": {
             "description": "Nazwa postaci w grze",
             "minLength": 6,
             "maxLength": 16,
@@ -21,7 +27,6 @@
             "properties": {
                 "region": {
                     "description": "Region w prawdziwym świecie",
-                    "type": "string",
                     "enum": ["int", "eu", "am", "cz", "pl", "de", "fr", "hu"]
                 },
                 "nr": {
@@ -46,12 +51,10 @@
         },
         "characterClass": {
             "description": "Klasa postaci w grze",
-            "type": "string",
             "enum": ["warrior", "mage", "scout", "assasin", "battleMage", "berserker", "druid", "demonHunter", "bard"]
         },
         "race": {
             "description": "Rasa postaci w grze",
-            "type": "string",
             "enum": ["human", "elf", "dwarf", "gnome", "orc", "darkElf", "goblin", "demon"]
         },
         "ownGold": {
@@ -202,7 +205,7 @@
                     },
                     "minProperties": 6,
                     "maxProperties": 6,
-                    "additionalProperties": "false"
+                    "additionalProperties": false
                 },
                 "magicShopOffer": {
                     "description": "Oferta sklepu magicznego",
@@ -224,7 +227,7 @@
         },
         "guildMembership": {
             "description": "Zawiera informacje o należeniu do gildii",
-            "type": "integer",
+            "type": "string",
             "format": "uuid"
         },
         "questInProgress": {

@@ -7,9 +7,10 @@
     "properties": {
         "itemId": {
             "description": "Unikalny identyfikator przedmiotu",
-            "type": "integer"
+            "type": "string",
+            "format": "uuid"
         },
-        "itemName": {
+        "name": {
             "description": "Nazwa przedmiotu",
             "type": "string"
         },
@@ -18,10 +19,10 @@
             "type": "string",
             "enum": ["weapon, armor, potion"]
         },
-        "classBelonging": {
+        "classTypeBelonging": {
             "type": "array",
             "items": {
-                "enum": ["warrior", "mage", "scout", "assasin", "battleMage", "berserker", "druid", "demonHunter", "bard"]
+                "enum": ["ranged, melee, magic"]
             }
         },
         "strength": {

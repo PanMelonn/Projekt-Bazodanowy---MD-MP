@@ -9,33 +9,16 @@
             "description": "Unikalny identyfikator gildii",
             "type": "integer"
         },
-        "guildName": {
+        "name": {
             "description": "Nazwa gildii",
             "minLength": 3,
             "maxLength": 16,
             "type": "string"
         },
-        "members": {
-            "description": "Członkowie gildii",
-            "type": "array",
-            "items": {
-                "member": {
-                    "memberId": {
-                        "description": "Id postaci będącej członkiem gildii",
-                        "type": "integer"
-                    },
-                    "role": {
-                        "description": "Rola postaci w gildii",
-                        "enum": ["member", "officer", "leader"]
-                    }
-                }
-            }
-        },
         "glory": {
             "description": "Cześć należąca do gildii",
             "type": "integer",
             "minimum": 0
-
         },
         "trainerLevel": {
             "description": "Poziom trenera gildii",
@@ -69,7 +52,6 @@
     "required": [
         "guildId",
         "guildName",
-        "guildMembershipId",
         "glory",
         "trainerLevel",
         "treasuryLevel"

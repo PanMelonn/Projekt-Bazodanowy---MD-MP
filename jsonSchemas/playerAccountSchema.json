@@ -7,7 +7,8 @@
     "properties": {
         "accountId": {
             "description": "Unikalny identyfikator konta",
-            "type": "integer"
+            "type": "string",
+            "format": "uuid"
         },
         "login": {
             "description": "Login używany do zalogowania się na konto",

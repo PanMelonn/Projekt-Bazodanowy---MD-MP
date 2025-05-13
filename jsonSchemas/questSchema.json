@@ -7,9 +7,10 @@
     "properties": {
         "questId": {
             "description": "Unikalny identyfikator questa",
-            "type": "integer"
+            "type": "string",
+            "format" : "uuid"
         },
-        "questName": {
+        "name": {
             "description": "Nazwa questa",
             "type": "string"
         },

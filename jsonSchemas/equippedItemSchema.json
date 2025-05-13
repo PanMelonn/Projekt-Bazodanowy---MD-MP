@@ -1,0 +1,23 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "Equipped items",
+    "description": "Przedmioty zaekwipowane przez postać",
+    "properties": {
+        "playerId": {
+            "description": "Id postaci należącej do gildii",
+            "type": "string",
+            "format": "uuid"
+        },
+        "itemId": {
+            "description": "Id gildii do której należy postać",
+            "type": "string",
+            "format": "uuid"
+        },
+        "required": [
+            "playerId",
+            "guildId"
+        ],
+        "additionalProperties": false
+    }
+}

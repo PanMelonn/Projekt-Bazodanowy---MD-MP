@@ -1,0 +1,53 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "Equipped items",
+    "description": "Przedmioty zaekwipowane przez postać",
+    "properties": {
+        "itemId": {
+            "description": "Unikalny identyfikator przedmiotu",
+            "type": "string",
+            "format": "uuid"
+        },
+        "damage": {
+            "description": "Punkty obrażeń posiadane przez przedmiot",
+            "type": "integer",
+            "minimum": 1
+        },
+        "strength": {
+            "description": "Punkty siły posiadane przez przedmiot",
+            "type": "integer",
+            "minimum": 1
+        },
+        "agility": {
+            "description": "Punkty zręczności posiadane przez przedmiot",
+            "type": "integer",
+            "minimum": 1
+        },
+        "intelligence": {
+            "description": "Punkty inteligencji posiadane przez przedmiot",
+            "type": "integer",
+            "minimum": 1
+        },
+        "constitution": {
+            "description": "Punkty wytrzymałości posiadane przez przedmiot",
+            "type": "integer",
+            "minimum": 1
+        },
+        "luck": {
+            "description": "Punkty szczęścia posiadane przez przedmiot",
+            "type": "integer",
+            "minimum": 1
+        },
+        "required": [
+            "itemId",
+            "strength",
+            "agility",
+            "intelligence",
+            "constitution",
+            "luck",
+            "damage"
+        ],
+        "additionalProperties": false
+    }
+}

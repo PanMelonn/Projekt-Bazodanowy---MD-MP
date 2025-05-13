@@ -1,0 +1,28 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "Guild membership",
+    "description": "Zbiór należeń danych postaci do danej gildii wraz z rolą",
+    "properties": {
+        "playerId": {
+            "description": "Id postaci należącej do gildii",
+            "type": "string",
+            "format": "uuid"
+        },
+        "guildId": {
+            "description": "Id gildii do której należy postać",
+            "type": "string",
+            "format": "uuid"
+        },
+        "role": {
+            "description": "Rola postaci w gildii",
+            "enum": ["member", "officer", "leader"]
+        },
+        "required": [
+            "playerId",
+            "guildId",
+            "role"
+        ],
+        "additionalProperties": false
+    }
+}
