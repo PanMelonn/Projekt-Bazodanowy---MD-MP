@@ -1,53 +1,53 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "$id": "https://example.com/product.schema.json",
-    "title": "Equipped items",
-    "description": "Przedmioty zaekwipowane przez postać",
+    "title": "Armor item",
+    "description": "Przedmiot zbrojny",
     "properties": {
         "itemId": {
             "description": "Unikalny identyfikator przedmiotu",
             "type": "string",
             "format": "uuid"
         },
+        "type": {
+            "description": "Typ zbrojnego przedmiotu",
+            "enum": ["helmet", "armor", "gloves", "boots", "necklace", "belt", "ring", "trinket"]
+        },
         "armor": {
             "description": "Punkty pancerzu posiadane przez przedmiot",
             "type": "integer",
-            "minimum": 1
+            "minimum": 0
         },
         "strength": {
             "description": "Punkty siły posiadane przez przedmiot",
             "type": "integer",
-            "minimum": 1
+            "minimum": 0
         },
         "agility": {
             "description": "Punkty zręczności posiadane przez przedmiot",
             "type": "integer",
-            "minimum": 1
+            "minimum": 0
         },
         "intelligence": {
             "description": "Punkty inteligencji posiadane przez przedmiot",
             "type": "integer",
-            "minimum": 1
+            "minimum": 0
         },
         "constitution": {
             "description": "Punkty wytrzymałości posiadane przez przedmiot",
             "type": "integer",
-            "minimum": 1
+            "minimum": 0
         },
         "luck": {
             "description": "Punkty szczęścia posiadane przez przedmiot",
             "type": "integer",
-            "minimum": 1
-        },
-        "required": [
-            "itemId",
-            "strength",
-            "agility",
-            "intelligence",
-            "constitution",
-            "luck",
-            "damage"
-        ],
-        "additionalProperties": false
-    }
+            "minimum": 0
+        }
+    },
+    "required": [
+        "itemId",
+        "type",
+        "damage"
+    ],
+    "additionalProperties": false
 }

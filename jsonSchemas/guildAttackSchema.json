@@ -1,0 +1,30 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "Guild",
+    "description": "Gildia w grze",
+    "type": "object",
+    "properties": {
+        "attackingGuildId": {
+            "description": "Unikalny identyfikator gildii",
+            "type": "string",
+            "format": "uuid"
+        },
+        "defendingGuildId": {
+            "description": "Unikalny identyfikator gildii",
+            "type": "string",
+            "format": "uuid"
+        },
+        "attackTime": {
+            "description": "Czas zaatakowania gildii",
+            "type": "string",
+            "format": "date-time"
+        }
+    },
+    "required": [
+        "attackingGuildId",
+        "defendingGuildId",
+        "attackTime"
+    ],
+    "additionalProperties": false
+}

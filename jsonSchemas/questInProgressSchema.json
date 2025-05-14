@@ -1,0 +1,30 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "Quest progression",
+    "description": "Informacja o wykonywaniu questa przez daną postać",
+    "type": "object",
+    "properties": {
+        "questId": {
+            "description": "Unikalny identyfikator questa",
+            "type": "string",
+            "format" : "uuid"
+        },
+        "characterId": {
+            "description": "Unikalny identyfikator postaci",
+            "type": "string",
+            "format": "uuid"
+        },
+        "goalsDone": {
+            "description": "Ilość znalezionych questów",
+            "type": "integer",
+            "minimum": 0
+        }
+    },
+    "required": [
+        "questId",
+        "characterId",
+        "goalsDone"
+    ],
+    "additionalProperties": false
+}

@@ -31,7 +31,8 @@
                 },
                 "nr": {
                     "description": "Numer świata w danym regionie",
-                    "type": "integer"
+                    "type": "integer",
+                    "minimum": 1
                 }
             },
             "required": [
@@ -42,7 +43,7 @@
         "level": {
             "description": "Poziom postaci w grze",
             "type": "integer",
-            "minimum": 0
+            "minimum": 1
         },
         "exp": {
             "description": "Punkty doświadczenia postaci",
@@ -115,145 +116,6 @@
                 "luck",
                 "hp"
             ]
-        },
-        "equipment": {
-            "description": "Ekwipunek postaci. Zawiera aktualnie założone przedmioty oraz przedmioty w plecaku",
-            "type": "object",
-            "properties": {
-                "equippedItems": {
-                    "description": "Przedmioty znajdujące się na danym slocie",
-                    "type": "object",
-                    "properties": {
-                        "headItemId": {
-                            "description": "Przedmiot znajdujący się na slocie hełmu",
-                            "type": "integer",
-                            "format": "uuid"
-                        },
-                        "armorItemId": {
-                            "description": "Przedmiot znajdujący się na slocie zbroi",
-                            "type": "integer",
-                            "format": "uuid"
-                        },
-                        "glovesItemId": {
-                            "description": "Przedmiot znajdujący się na slocie rękawiczek",
-                            "type": "integer",
-                            "format": "uuid"
-                        },
-                        "bootsItemId": {
-                            "description": "Przedmiot znajdujący się na slocie butów",
-                            "type": "integer",
-                            "format": "uuid"
-                        },
-                        "necklaceItemId": {
-                            "description": "Przedmiot znajdujący się na slocie naszyjnika",
-                            "type": "integer",
-                            "format": "uuid"
-                        },
-                        "beltItemId": {
-                            "description": "Przedmiot znajdujący się na slocie hełmu",
-                            "type": "integer",
-                            "format": "uuid"
-                        },
-                        "ringItemId": {
-                            "description": "Przedmiot znajdujący się na slocie pierścienia",
-                            "type": "integer",
-                            "format": "uuid"
-                        },
-                        "tinketItemId": {
-                            "description": "Przedmiot znajdujący się na slocie bibelotu",
-                            "type": "integer",
-                            "format": "uuid"
-                        },
-                        "leftHandItemId": {
-                            "description": "Przedmiot znajdujący się na slocie lewej ręki",
-                            "type": "integer",
-                            "format": "uuid"
-                        },
-                        "rightHandItemId": {
-                            "description": "Przedmiot znajdujący się na slocie prawej ręki",
-                            "type": "integer",
-                            "format": "uuid"
-                        }
-                    }
-                },
-                "backpack": {
-                    "description": "Przedmioty posiadane przez postać w plecaku",
-                    "type": "object",
-                    "patternProperties": {
-                        "itemId[1-9][0-9]+": {
-                            "type": "integer"
-                        }
-                    }
-                }
-            },
-            "required": [
-                "equippedItems",
-                "backpack"
-            ]
-        },
-        "shops_offers": {
-            "description": "Zawiera oferty sklepów",
-            "type": "object",
-            "properties": {
-                "armsShopOffer": {
-                    "description": "Oferta sklepu zbrojniczego",
-                    "type": "object",
-                    "patternProperties": {
-                        "itemId[1-6]": {
-                            "type": "integer"
-                        }
-                    },
-                    "minProperties": 6,
-                    "maxProperties": 6,
-                    "additionalProperties": false
-                },
-                "magicShopOffer": {
-                    "description": "Oferta sklepu magicznego",
-                    "type": "object",
-                    "patternProperties": {
-                        "itemId[1-6]": {
-                            "type": "integer"
-                        }
-                    },
-                    "minProperties": 6,
-                    "maxProperties": 6,
-                    "additionalProperties": false
-                }
-            },
-            "required": [
-                "armsShopOffer",
-                "magicShopOffer"
-            ]
-        },
-        "guildMembership": {
-            "description": "Zawiera informacje o należeniu do gildii",
-            "type": "string",
-            "format": "uuid"
-        },
-        "questInProgress": {
-            "description": "Zawiera informacje o wykonywanym queście",
-            "type": "object",
-            "properties": {
-                "questId": {
-                    "description": "Unikalny identyfikator questu",
-                    "type": "integer"
-                },
-                "questTravelTime": {
-                    "description": "Czas wyprawy na questa",
-                    "type": "string",
-                    "format": "date-time"
-                },
-                "goalsDone": {
-                    "description": "Ilość wykonanych celów questa",
-                    "type": "integer"
-                }
-            },
-            "required": [
-                "questId",
-                "questTravelTime",
-                "goalsDone"
-            ],
-            "additionalProperties": false
         }
     },
     "required": [
@@ -265,9 +127,7 @@
         "ownGold",
         "ownMushrooms",
         "glory",
-        "characterStatistics",
-        "equipment",
-        "shops_offers"
+        "characterStatistics"
     ],
     "additionalProperties": false
 }

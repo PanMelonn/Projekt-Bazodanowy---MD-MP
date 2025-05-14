@@ -18,9 +18,10 @@
             "description": "Cel do znalezienia podczas questa",
             "type": "string"
         },
-        "goalAmount": {
+        "goalsDoneRequired": {
             "description": "Ilość wymaganych celów do znalezienia",
-            "type": "integer"
+            "type": "integer",
+            "minimum": 1
         },
         "goldReward": {
             "description": "Ilość uzyskanego złota za wykonanie questa",
@@ -35,7 +36,7 @@
         "questId",
         "questName",
         "goal",
-        "goalAmount",
+        "goalsDoneRequired",
         "goldReward",
         "expReward"
     ],

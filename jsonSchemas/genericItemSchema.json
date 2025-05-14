@@ -1,0 +1,38 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "Generic item",
+    "description": "Ogólna baza dla przedmiotów w grze",
+    "type": "object",
+    "properties": {
+        "itemTypeId": {
+            "description": "Unikalny identyfikator przedmiotu",
+            "type": "string",
+            "format": "uuid"
+        },
+        "name": {
+            "description": "Nazwa przedmiotu",
+            "type": "string"
+        },
+        "type": {
+            "description": "Hasło używane do zalogowania się na konto",
+            "type": "string",
+            "enum": ["weapon", "armor"]
+        },
+        "classTypeBelonging": {
+            "type": "string",
+            "enum": ["ranged", "melee", "magic"]
+        },
+        "rarity": {
+            "description": "Rzadkość przedmiotu",
+            "enum": ["common", "uncommon", "legendary"]
+        }
+    },
+    "required": [
+        "itemId",
+        "itemName",
+        "type",
+        "rarity"
+    ],
+    "additionalProperties": false
+}

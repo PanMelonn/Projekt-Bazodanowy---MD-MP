@@ -7,7 +7,8 @@
     "properties": {
         "guildId": {
             "description": "Unikalny identyfikator gildii",
-            "type": "integer"
+            "type": "string",
+            "format": "uuid"
         },
         "name": {
             "description": "Nazwa gildii",
@@ -23,30 +24,14 @@
         "trainerLevel": {
             "description": "Poziom trenera gildii",
             "type": "integer",
-            "minimum": 0
+            "minimum": 1,
+            "maximum": 1000
         },
         "treasuryLevel": {
             "description": "Poziom skarbca gildii",
             "type": "integer",
-            "minimum": 0
-        },
-        "attackedGuildId": {
-            "description": "Identyfikator atakowanej gildii",
-            "type": "integer"
-        },
-        "attackTime": {
-            "description": "Czas atakowania innej gildii",
-            "type": "string",
-            "format": "date-time"
-        },
-        "attackingGuildId": {
-            "description": "Identyfikator atakującej gildii",
-            "type": "integer"
-        },
-        "defendTime": {
-            "description": "Czas bronienia własnej gildii przed inną glidią",
-            "type": "string",
-            "format": "date-time"
+            "minimum": 1,
+            "maximum": 1000
         }
     },
     "required": [

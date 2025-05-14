@@ -1,0 +1,35 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "Arms shop offer",
+    "description": "Oferta w sklepie magicznym dla danej postaci",
+    "properties": {
+        "playerId": {
+            "description": "Id postaci dla której oferta jest przedstawiana",
+            "type": "string",
+            "format": "uuid"
+        },
+        "itemId": {
+            "description": "Przedmiot w ofercie",
+            "type": "string",
+            "format": "uuid"
+        },
+        "shop": {
+            "description": "Informacja o tym do którego sklepu należy oferta",
+            "enum": ["arms", "magic"]
+        },
+        "slot": {
+            "description": "Miejsce w ofercie na którym znajduje się przedmiot",
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 6
+        }
+    },
+    "required": [
+        "playerId",
+        "itemId",
+        "shop",
+        "slot"
+    ],
+    "additionalProperties": false
+}
