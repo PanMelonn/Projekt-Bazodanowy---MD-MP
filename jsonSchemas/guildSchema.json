@@ -16,6 +16,25 @@
             "maxLength": 16,
             "type": "string"
         },
+        "world": {
+            "description": "Świat, w którym znajduje się gildia",
+            "type": "object",
+            "properties": {
+                "region": {
+                    "description": "Region w prawdziwym świecie",
+                    "enum": ["int", "eu", "am", "cz", "pl", "de", "fr", "hu"]
+                },
+                "nr": {
+                    "description": "Numer świata w danym regionie",
+                    "type": "integer",
+                    "minimum": 1
+                }
+            },
+            "required": [
+                "region",
+                "nr"
+            ]
+        },
         "glory": {
             "description": "Cześć należąca do gildii",
             "type": "integer",
