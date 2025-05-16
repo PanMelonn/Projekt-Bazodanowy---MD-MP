@@ -1,0 +1,10 @@
+1. Lista postaci na świecie
+2. Lista gildii na świecie
+3. Informacje o ekwipunku danej postaci
+4. Informacje o łącznych statysykach danej postaci
+5. Lista członków danej gildii
+6. Liczba postaci powyżej 100 poziomu
+7. Liczba postaci posiadających więcej niż 200 grzybów
+8. Questy które są najczęściej wykonywane
+9. Liczba postaci posiadających legendarne przedmioty
+10. Liczba postaci danej klasy
