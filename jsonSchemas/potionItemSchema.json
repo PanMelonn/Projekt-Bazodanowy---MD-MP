@@ -1,0 +1,43 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/potionItem.schema.json",
+    "title": "Potion item",
+    "description": "Przedmiot będący miksturą",
+    "properties": {
+      "itemId": {
+        "description": "Unikalny identyfikator przedmiotu",
+        "type": "string",
+        "format": "uuid"
+      },
+      "effectType": {
+        "description": "Rodzaj efektu mikstury",
+        "type": "string",
+        "enum": [
+          "healing",
+          "mana",
+          "strength",
+          "agility",
+          "intelligence",
+          "luck"
+        ]
+      },
+      "potency": {
+        "description": "Moc działania mikstury (bonus w procentach)",
+        "type": "integer",
+        "minimum": 0
+      },
+      "duration": {
+        "description": "Czas trwania efektu w sekundach",
+        "type": "integer",
+        "minimum": 0
+      }
+    },
+    "required": [
+      "itemId",
+      "effectType",
+      "potency",
+      "duration"
+    ],
+    "additionalProperties": false
+  }
+  
