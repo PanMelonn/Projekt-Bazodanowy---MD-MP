@@ -1,0 +1,30 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "Potion affected character",
+    "description": "Informacja o wypiciu mikstury przez daną postać",
+    "type": "object",
+    "properties": {
+        "characterId": {
+            "description": "Unikalny identyfikator postaci",
+            "type": "string",
+            "format": "uuid"
+        },
+        "itemId": {
+            "description": "Unikalny identyfikator przedmioty (mikstury)",
+            "type": "string",
+            "format": "uuid"
+        },
+        "expiryTime": {
+            "description": "Czas zakończenia działania mikstury",
+            "type": "string",
+            "format": "date-time"
+        }
+    },
+    "required": [
+        "characterId",
+        "itemId",
+        "expiryTime"
+    ],
+    "additionalProperties": false
+}

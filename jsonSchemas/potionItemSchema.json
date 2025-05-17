@@ -13,11 +13,10 @@
         "description": "Rodzaj efektu mikstury",
         "type": "string",
         "enum": [
-          "healing",
-          "mana",
           "strength",
           "agility",
           "intelligence",
+          "constitution",
           "luck"
         ]
       },
