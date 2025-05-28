@@ -1,0 +1,200 @@
+Ancient Amulet of the Bear
+Ancient Choker of Fury
+Ancient Gorget of Thunder
+Ancient Locket of the Undead
+Ancient Medallion of Thunder
+Ancient Talisman of Madness
+Ancient Talisman of Silence
+Arcane Pendant of Doom
+Blessed Amulet of Agony
+Blessed Charm of Nightmares
+Blessed Locket of the Leviathan
+Blessed Medallion of Glory
+Blessed Medallion of Silence
+Blessed Necklace of the Ancients
+Bloodstained Charm of Agony
+Bloodstained Collar of Madness
+Bloodstained Collar of the Fallen
+Bloodstained Gorget of Destiny
+Bloodstained Gorget of Shadows
+Bloodstained Necklace of Shadows
+Bloodstained Pendant of Fury
+Bloodstained Torque of the Warlord
+Bonecarved Chain of Thunder
+Bonecarved Gorget of the Undead
+Bonecarved Locket of the Ancients
+Bonecarved Medallion of the Serpent
+Bonecarved Medallion of the Storm
+Bonecarved Pendant of the Raven
+Bonecarved Talisman of Nightmares
+Bonecarved Talisman of the Mage
+Bonecarved Torque of Madness
+Cursed Charm of the Warlord
+Cursed Choker of Madness
+Cursed Choker of the Mage
+Cursed Locket of the Serpent
+Cursed Medallion of the Undead
+Cursed Necklace of Twilight
+Cursed Necklace of the Forgotten
+Cursed Pendant of Glory
+Cursed Torque of Agony
+Doomed Charm of Thunder
+Doomed Collar of the Serpent
+Doomed Locket of the Phoenix
+Doomed Necklace of Doom
+Dragonhide Amulet of Madness
+Dragonhide Amulet of the Ancients
+Dragonhide Choker of the Forgotten
+Dragonhide Collar of Silence
+Dragonhide Gorget of the Raven
+Dragonhide Pendant of Fury
+Dragonhide Talisman of Shadows
+Emberwoven Choker of Doom
+Emberwoven Medallion of Fury
+Emberwoven Talisman of the Raven
+Forgotten Choker of Glory
+Forgotten Gorget of Fury
+Forgotten Locket of Glory
+Forgotten Medallion of Doom
+Forgotten Necklace of Reckoning
+Frostbound Chain of Doom
+Frostbound Choker of Thunder
+Frostbound Locket of the Ancients
+Frostbound Medallion of Shadows
+Frostbound Necklace of the Bear
+Ghostly Collar of Twilight
+Ghostly Gorget of Glory
+Ghostly Locket of Reckoning
+Ghostly Locket of the Moon
+Ghostly Medallion of Doom
+Ghostly Medallion of Madness
+Ghostly Necklace of the Serpent
+Gilded Charm of Fury
+Gilded Choker of Agony
+Gilded Choker of the Ancients
+Gilded Gorget of the Storm
+Gilded Medallion of Doom
+Gilded Medallion of Twilight
+Gilded Necklace of Thunder
+Gilded Pendant of the Forgotten
+Gilded Talisman of Agony
+Gilded Talisman of the Leviathan
+Haunted Choker of the Mage
+Haunted Collar of Glory
+Haunted Collar of Shadows
+Haunted Gorget of Twilight
+Haunted Locket of the Ancients
+Haunted Medallion of the Raven
+Haunted Talisman of Agony
+Infernal Chain of the Moon
+Infernal Gorget of Reckoning
+Infernal Talisman of Fury
+Ironbound Choker of Glory
+Ironbound Collar of Destiny
+Ironbound Medallion of the Ancients
+Ironbound Medallion of the Forgotten
+Ironbound Medallion of the Raven
+Lunar Chain of the Ancients
+Lunar Choker of Destiny
+Lunar Locket of Agony
+Lunar Medallion of Doom
+Lunar Necklace of Glory
+Lunar Torque of Reckoning
+Mystic Chain of Doom
+Mystic Choker of Doom
+Mystic Collar of Silence
+Mystic Gorget of the Undead
+Mystic Gorget of the Void
+Mystic Necklace of Fury
+Obsidian Charm of Agony
+Obsidian Medallion of Thunder
+Obsidian Pendant of the Serpent
+Obsidian Talisman of Agony
+Obsidian Torque of Silence
+Phantom Charm of Silence
+Phantom Collar of the Fallen
+Phantom Collar of the Storm
+Phantom Gorget of Madness
+Phantom Talisman of the Bear
+Phantom Talisman of the Fallen
+Phantom Talisman of the Serpent
+Phantom Torque of Agony
+Phantom Torque of Reckoning
+Radiant Chain of the Storm
+Radiant Charm of the Warlord
+Radiant Medallion of Silence
+Radiant Torque of the Leviathan
+Radiant Torque of the Serpent
+Royal Amulet of Twilight
+Royal Chain of Silence
+Royal Chain of Twilight
+Royal Chain of the Phoenix
+Royal Choker of Twilight
+Royal Gorget of the Moon
+Royal Necklace of Glory
+Royal Talisman of the Storm
+Runed Amulet of the Phoenix
+Runed Medallion of Destiny
+Runed Medallion of the Warlord
+Runed Necklace of Silence
+Runed Pendant of the Storm
+Runed Torque of Madness
+Savage Amulet of Reckoning
+Savage Medallion of the Leviathan
+Savage Necklace of the Leviathan
+Savage Necklace of the Void
+Savage Torque of Destiny
+Shadow Chain of Doom
+Shadow Chain of the Undead
+Shadow Charm of Destiny
+Shadow Gorget of Madness
+Shadow Locket of Destiny
+Shadow Locket of Thunder
+Shadow Necklace of Destiny
+Shadow Necklace of Silence
+Shadow Torque of Reckoning
+Shadow Torque of the Mage
+Soulforged Chain of Destiny
+Soulforged Gorget of Fury
+Soulforged Gorget of Madness
+Soulforged Pendant of Doom
+Soulforged Pendant of the Storm
+Soulforged Torque of Shadows
+Stormforged Collar of Agony
+Stormforged Gorget of Reckoning
+Stormforged Locket of the Leviathan
+Stormforged Necklace of the Undead
+Titanic Amulet of Fury
+Titanic Choker of Nightmares
+Titanic Choker of Thunder
+Titanic Choker of the Ancients
+Titanic Locket of Thunder
+Twilight Choker of Fury
+Twilight Choker of the Storm
+Twilight Choker of the Void
+Twilight Collar of the Mage
+Twilight Gorget of the Bear
+Twilight Pendant of the Forgotten
+Twilight Pendant of the Leviathan
+Twilight Pendant of the Moon
+Twilight Talisman of the Fallen
+Twilight Torque of the Bear
+Venomous Collar of the Bear
+Venomous Necklace of Destiny
+Venomous Pendant of Madness
+Venomous Pendant of the Ancients
+Vile Chain of Thunder
+Vile Chain of the Serpent
+Vile Charm of the Fallen
+Vile Collar of the Forgotten
+Vile Gorget of Reckoning
+Vile Necklace of the Raven
+Vile Pendant of Twilight
+Vile Talisman of Reckoning
+Wicked Chain of Reckoning
+Wicked Choker of the Forgotten
+Wicked Gorget of the Phoenix
+Wicked Locket of Madness
+Wicked Necklace of Nightmares
+Wicked Necklace of the Serpent
+Wicked Pendant of Madness

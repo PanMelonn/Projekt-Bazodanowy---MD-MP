@@ -1,0 +1,200 @@
+Ancient Fistguards of Silence
+Ancient Gloves of Doom
+Ancient Grips of Madness
+Ancient Grips of Twilight
+Ancient Mitts of Nightmares
+Ancient Wristguards of Nightmares
+Arcane Fistguards of the Void
+Arcane Grips of Agony
+Arcane Grips of Madness
+Arcane Grips of the Forgotten
+Arcane Handguards of Nightmares
+Arcane Handguards of the Mage
+Arcane Handwraps of the Ancients
+Arcane Handwraps of the Warlord
+Blessed Bracers of the Ancients
+Blessed Fistwraps of Thunder
+Blessed Gloves of Agony
+Blessed Grips of the Undead
+Blessed Handguards of Fury
+Blessed Handguards of the Forgotten
+Blessed Handwraps of Fury
+Blessed Knuckleguards of Fury
+Blessed Wristguards of Glory
+Bloodstained Clutches of the Fallen
+Bloodstained Gauntlets of Thunder
+Bloodstained Handguards of Agony
+Bloodstained Knuckleguards of the Leviathan
+Bonecarved Clutches of Thunder
+Bonecarved Fistwraps of the Undead
+Bonecarved Knuckleguards of Shadows
+Bonecarved Knuckleguards of Silence
+Bonecarved Wristguards of the Forgotten
+Cursed Clutches of the Storm
+Cursed Fistguards of Madness
+Cursed Fistwraps of the Void
+Cursed Gauntlets of Fury
+Cursed Gloves of Doom
+Cursed Handwraps of Reckoning
+Cursed Knuckleguards of the Fallen
+Cursed Mitts of the Forgotten
+Cursed Wristguards of the Serpent
+Cursed Wristguards of the Warlord
+Doomed Fistwraps of Glory
+Doomed Gauntlets of the Serpent
+Doomed Handguards of the Storm
+Doomed Wristguards of Shadows
+Dragonhide Bracers of Twilight
+Dragonhide Bracers of the Moon
+Dragonhide Clutches of the Serpent
+Dragonhide Fistguards of the Phoenix
+Dragonhide Gauntlets of Nightmares
+Dragonhide Gauntlets of the Undead
+Dragonhide Grips of Destiny
+Dragonhide Grips of Glory
+Dragonhide Handguards of the Raven
+Dragonhide Mitts of Nightmares
+Dragonhide Wristguards of Agony
+Emberwoven Clutches of the Leviathan
+Emberwoven Fistguards of Agony
+Emberwoven Fistguards of Reckoning
+Emberwoven Fistguards of the Leviathan
+Emberwoven Gauntlets of Thunder
+Emberwoven Knuckleguards of the Phoenix
+Emberwoven Wristguards of the Phoenix
+Emberwoven Wristguards of the Serpent
+Frostbound Clutches of the Leviathan
+Frostbound Fistguards of Doom
+Frostbound Fistwraps of Glory
+Frostbound Fistwraps of Shadows
+Frostbound Fistwraps of the Bear
+Frostbound Fistwraps of the Leviathan
+Frostbound Fistwraps of the Serpent
+Frostbound Grips of the Undead
+Frostbound Knuckleguards of Fury
+Frostbound Knuckleguards of the Phoenix
+Ghostly Clutches of the Leviathan
+Ghostly Fistguards of the Phoenix
+Ghostly Gloves of Destiny
+Ghostly Mitts of the Raven
+Ghostly Wristguards of Thunder
+Gilded Fistwraps of the Warlord
+Gilded Gauntlets of the Raven
+Gilded Grips of Madness
+Gilded Handwraps of Silence
+Gilded Knuckleguards of the Fallen
+Gilded Mitts of the Ancients
+Gilded Wristguards of Reckoning
+Haunted Fistwraps of the Fallen
+Haunted Gloves of Agony
+Haunted Handguards of Destiny
+Haunted Handguards of Shadows
+Haunted Handwraps of the Mage
+Haunted Knuckleguards of Reckoning
+Haunted Wristguards of Silence
+Infernal Bracers of the Void
+Infernal Clutches of the Fallen
+Infernal Fistguards of the Leviathan
+Infernal Fistguards of the Moon
+Infernal Fistwraps of Reckoning
+Infernal Gauntlets of Doom
+Infernal Gauntlets of Silence
+Infernal Gauntlets of the Fallen
+Infernal Handguards of Fury
+Infernal Handwraps of the Raven
+Ironbound Clutches of the Forgotten
+Ironbound Clutches of the Undead
+Ironbound Gauntlets of Glory
+Ironbound Gauntlets of Thunder
+Ironbound Gloves of Agony
+Ironbound Gloves of the Undead
+Ironbound Mitts of the Void
+Lunar Bracers of Reckoning
+Lunar Clutches of the Bear
+Lunar Grips of Reckoning
+Lunar Handguards of the Phoenix
+Lunar Knuckleguards of Madness
+Mystic Bracers of the Forgotten
+Mystic Gauntlets of the Leviathan
+Mystic Handguards of Nightmares
+Mystic Knuckleguards of the Void
+Mystic Wristguards of Glory
+Obsidian Clutches of Madness
+Obsidian Fistwraps of the Forgotten
+Obsidian Gauntlets of Thunder
+Phantom Clutches of the Phoenix
+Phantom Fistwraps of Twilight
+Phantom Gloves of the Fallen
+Phantom Grips of the Mage
+Phantom Handguards of the Leviathan
+Phantom Knuckleguards of Twilight
+Phantom Knuckleguards of the Undead
+Phantom Mitts of Reckoning
+Radiant Fistguards of the Mage
+Radiant Gauntlets of Agony
+Radiant Grips of the Phoenix
+Radiant Handguards of Thunder
+Radiant Handwraps of the Leviathan
+Radiant Knuckleguards of Destiny
+Royal Fistguards of the Moon
+Royal Gauntlets of the Mage
+Royal Grips of the Warlord
+Royal Handwraps of Shadows
+Runed Bracers of Fury
+Runed Bracers of Madness
+Runed Clutches of the Storm
+Runed Fistguards of Thunder
+Runed Fistwraps of Reckoning
+Runed Handguards of Twilight
+Runed Handguards of the Moon
+Runed Wristguards of the Forgotten
+Runed Wristguards of the Raven
+Savage Fistguards of the Leviathan
+Savage Gauntlets of Agony
+Savage Gauntlets of the Ancients
+Savage Knuckleguards of Twilight
+Shadow Clutches of Glory
+Shadow Clutches of Shadows
+Shadow Clutches of the Phoenix
+Shadow Gloves of the Forgotten
+Shadow Gloves of the Mage
+Shadow Grips of Silence
+Shadow Knuckleguards of the Leviathan
+Shadow Wristguards of Glory
+Soulforged Fistwraps of the Fallen
+Soulforged Gloves of Destiny
+Soulforged Gloves of the Serpent
+Soulforged Grips of the Fallen
+Soulforged Knuckleguards of Madness
+Soulforged Mitts of Silence
+Stormforged Bracers of the Ancients
+Stormforged Gloves of the Ancients
+Stormforged Gloves of the Phoenix
+Titanic Clutches of the Bear
+Titanic Fistguards of the Warlord
+Titanic Gloves of the Forgotten
+Titanic Gloves of the Warlord
+Titanic Grips of Shadows
+Titanic Handguards of Agony
+Titanic Handwraps of Thunder
+Twilight Fistguards of the Undead
+Twilight Handguards of Agony
+Venomous Bracers of Nightmares
+Venomous Clutches of the Ancients
+Venomous Gloves of Madness
+Venomous Grips of Madness
+Venomous Grips of the Raven
+Venomous Wristguards of the Bear
+Venomous Wristguards of the Mage
+Vile Bracers of the Raven
+Vile Fistguards of Doom
+Vile Gauntlets of the Bear
+Vile Gloves of Silence
+Vile Grips of Silence
+Vile Handwraps of the Serpent
+Vile Knuckleguards of the Undead
+Vile Wristguards of Fury
+Wicked Fistguards of the Warlord
+Wicked Grips of the Leviathan
+Wicked Knuckleguards of Madness
+Wicked Wristguards of Reckoning
