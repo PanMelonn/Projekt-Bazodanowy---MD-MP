@@ -1,0 +1,10 @@
+helmet
+armor
+gloves
+boots
+necklace
+belt
+ring
+trinket
+helmet
+armor
