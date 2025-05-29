@@ -1,0 +1,200 @@
+Ancient Band of the Serpent
+Ancient Cord of the Moon
+Ancient Cord of the Storm
+Ancient Girdle of Reckoning
+Ancient Strap of Twilight
+Ancient Waistguard of Glory
+Ancient Waistguard of the Forgotten
+Ancient Wrap of Doom
+Arcane Binder of Madness
+Arcane Binder of the Ancients
+Arcane Cord of Reckoning
+Arcane Girdle of Silence
+Arcane Girdle of the Forgotten
+Arcane Strap of the Raven
+Arcane Strap of the Undead
+Arcane Strap of the Void
+Blessed Girdle of the Moon
+Blessed Girdle of the Warlord
+Blessed Sash of the Ancients
+Bloodstained Binder of the Mage
+Bloodstained Buckler of the Storm
+Bloodstained Girdle of Twilight
+Bloodstained Sash of the Warlord
+Bloodstained Waistguard of the Mage
+Bloodstained Wrap of Glory
+Bonecarved Belt of Shadows
+Bonecarved Buckler of Thunder
+Bonecarved Waistguard of the Undead
+Cursed Belt of the Moon
+Cursed Belt of the Storm
+Cursed Binder of the Phoenix
+Cursed Buckler of the Fallen
+Cursed Cincher of Destiny
+Cursed Cord of Agony
+Cursed Sash of Agony
+Doomed Binder of the Raven
+Doomed Buckler of the Bear
+Doomed Girdle of Shadows
+Doomed Waistguard of the Raven
+Dragonhide Belt of the Mage
+Dragonhide Buckler of the Moon
+Dragonhide Cord of the Forgotten
+Dragonhide Sash of the Undead
+Emberwoven Cincher of the Phoenix
+Emberwoven Cord of the Raven
+Emberwoven Waistguard of the Forgotten
+Forgotten Cord of the Fallen
+Forgotten Cord of the Storm
+Forgotten Sash of Destiny
+Forgotten Waistguard of Agony
+Forgotten Waistguard of Twilight
+Forgotten Wrap of the Forgotten
+Forgotten Wrap of the Storm
+Frostbound Belt of Thunder
+Frostbound Binder of Shadows
+Frostbound Buckler of Shadows
+Frostbound Cord of Nightmares
+Frostbound Girdle of Madness
+Frostbound Waistguard of the Undead
+Frostbound Wrap of the Undead
+Ghostly Band of the Mage
+Ghostly Sash of Twilight
+Ghostly Waistguard of Agony
+Ghostly Waistguard of the Ancients
+Ghostly Wrap of the Serpent
+Gilded Band of Doom
+Gilded Band of the Forgotten
+Gilded Band of the Phoenix
+Gilded Belt of Destiny
+Gilded Buckler of the Fallen
+Gilded Buckler of the Serpent
+Gilded Girdle of Agony
+Gilded Waistguard of Twilight
+Gilded Waistguard of the Undead
+Haunted Band of Destiny
+Haunted Band of the Phoenix
+Haunted Belt of Thunder
+Haunted Belt of the Storm
+Haunted Binder of the Ancients
+Haunted Cord of the Leviathan
+Haunted Girdle of Nightmares
+Haunted Girdle of Reckoning
+Haunted Girdle of the Fallen
+Infernal Belt of the Forgotten
+Infernal Binder of Silence
+Infernal Binder of the Void
+Infernal Chainbelt of Fury
+Infernal Girdle of the Moon
+Infernal Strap of the Ancients
+Infernal Waistguard of the Phoenix
+Ironbound Band of the Serpent
+Ironbound Belt of the Ancients
+Ironbound Cincher of Destiny
+Ironbound Girdle of Thunder
+Ironbound Strap of the Void
+Ironbound Wrap of Doom
+Lunar Belt of Doom
+Lunar Belt of Nightmares
+Lunar Belt of Thunder
+Lunar Binder of Fury
+Lunar Buckler of Reckoning
+Lunar Buckler of Shadows
+Lunar Chainbelt of the Fallen
+Lunar Chainbelt of the Storm
+Lunar Cincher of the Void
+Lunar Girdle of Glory
+Lunar Sash of Silence
+Lunar Sash of the Storm
+Lunar Strap of Nightmares
+Lunar Wrap of Fury
+Lunar Wrap of the Moon
+Mystic Band of Doom
+Mystic Band of the Bear
+Mystic Band of the Phoenix
+Mystic Band of the Serpent
+Mystic Binder of Twilight
+Mystic Buckler of Shadows
+Mystic Strap of Silence
+Obsidian Binder of Glory
+Obsidian Buckler of the Serpent
+Obsidian Chainbelt of Agony
+Obsidian Sash of the Ancients
+Obsidian Strap of Fury
+Obsidian Strap of the Forgotten
+Obsidian Waistguard of Fury
+Phantom Belt of the Void
+Phantom Binder of Madness
+Phantom Chainbelt of Nightmares
+Phantom Cincher of Agony
+Phantom Cord of Fury
+Phantom Sash of the Raven
+Phantom Waistguard of the Raven
+Phantom Wrap of Silence
+Phantom Wrap of the Phoenix
+Radiant Chainbelt of the Leviathan
+Radiant Girdle of Reckoning
+Radiant Strap of Shadows
+Radiant Strap of the Void
+Royal Band of the Serpent
+Royal Belt of Thunder
+Royal Girdle of Shadows
+Royal Wrap of the Mage
+Runed Band of Fury
+Runed Strap of Fury
+Savage Belt of the Storm
+Savage Cincher of Fury
+Savage Cincher of Thunder
+Savage Cord of Destiny
+Savage Girdle of Glory
+Savage Girdle of the Storm
+Savage Waistguard of the Void
+Savage Wrap of Destiny
+Savage Wrap of Madness
+Shadow Sash of Thunder
+Soulforged Chainbelt of the Forgotten
+Soulforged Chainbelt of the Mage
+Soulforged Wrap of the Fallen
+Stormforged Belt of Fury
+Stormforged Wrap of Nightmares
+Titanic Band of Agony
+Titanic Band of the Serpent
+Titanic Cincher of Shadows
+Titanic Cincher of Silence
+Titanic Cord of the Forgotten
+Titanic Girdle of Reckoning
+Titanic Girdle of the Ancients
+Titanic Sash of the Serpent
+Titanic Strap of Doom
+Titanic Wrap of Fury
+Titanic Wrap of the Raven
+Titanic Wrap of the Void
+Twilight Chainbelt of the Moon
+Twilight Girdle of the Ancients
+Twilight Sash of the Fallen
+Twilight Strap of the Forgotten
+Twilight Waistguard of Agony
+Twilight Waistguard of Glory
+Twilight Wrap of Nightmares
+Twilight Wrap of Reckoning
+Venomous Chainbelt of the Phoenix
+Venomous Cincher of the Forgotten
+Venomous Cord of Thunder
+Venomous Wrap of the Ancients
+Vile Cincher of Agony
+Vile Cincher of the Fallen
+Vile Cord of Agony
+Vile Waistguard of the Void
+Wicked Band of the Serpent
+Wicked Chainbelt of Doom
+Wicked Chainbelt of Madness
+Wicked Chainbelt of Thunder
+Wicked Chainbelt of the Warlord
+Wicked Cord of the Void
+Wicked Girdle of the Ancients
+Wicked Sash of the Serpent
+Wicked Sash of the Storm
+Wicked Strap of Glory
+Wicked Waistguard of the Fallen
+Wicked Waistguard of the Undead
+Wicked Wrap of the Forgotten

@@ -23,6 +23,11 @@
             "type": "integer",
             "minimum": 1
         },
+        "travelTime": {
+            "description": "Czas wymagany do ukończenia wyprawy na questa w sekundach",
+            "type": "integer",
+            "minimum": 15
+        },
         "goldReward": {
             "description": "Ilość uzyskanego złota za wykonanie questa",
             "type": "integer"
@@ -34,9 +39,10 @@
     },
     "required": [
         "questId",
-        "questName",
+        "name",
         "goal",
         "goalsDoneRequired",
+        "travelTime",
         "goldReward",
         "expReward"
     ],

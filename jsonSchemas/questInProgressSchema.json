@@ -19,12 +19,18 @@
             "description": "Ilość znalezionych questów",
             "type": "integer",
             "minimum": 0
+        },
+        "travelEndTime": {
+            "description": "Czas zakończenia wyprawy na questa",
+            "type": "string",
+            "format": "date-time"
         }
     },
     "required": [
         "questId",
         "characterId",
-        "goalsDone"
+        "goalsDone",
+        "travelEndTime"
     ],
     "additionalProperties": false
 }
