@@ -13,7 +13,7 @@
         "name": {
             "description": "Nazwa gildii",
             "minLength": 3,
-            "maxLength": 16,
+            "maxLength": 32,
             "type": "string"
         },
         "world": {
@@ -55,7 +55,7 @@
     },
     "required": [
         "guildId",
-        "guildName",
+        "name",
         "glory",
         "trainerLevel",
         "treasuryLevel"

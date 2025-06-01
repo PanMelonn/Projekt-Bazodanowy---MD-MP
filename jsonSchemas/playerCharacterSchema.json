@@ -73,7 +73,7 @@
             "type": "integer",
             "minimum": 0
         },
-        "characterStatistics": {
+        "baseStatistics": {
             "description": "Statystyki postaci (bez uwzględniania ekwipunku)",
             "type": "object",
             "properties": {
@@ -120,14 +120,14 @@
     },
     "required": [
         "characterId",
-        "characterName",
+        "name",
         "world",
         "characterClass",
         "race",
         "ownGold",
         "ownMushrooms",
         "glory",
-        "characterStatistics"
+        "baseStatistics"
     ],
     "additionalProperties": false
 }

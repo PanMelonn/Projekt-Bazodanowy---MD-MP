@@ -5,7 +5,7 @@
     "description": "Ogólna baza dla przedmiotów w grze",
     "type": "object",
     "properties": {
-        "itemTypeId": {
+        "itemId": {
             "description": "Unikalny identyfikator przedmiotu",
             "type": "string",
             "format": "uuid"
@@ -14,10 +14,14 @@
             "description": "Nazwa przedmiotu",
             "type": "string"
         },
+        "level": {
+            "description": "Poziom potrzeby do użycia przedmiotu",
+            "type": "integer"
+        },
         "type": {
             "description": "Hasło używane do zalogowania się na konto",
             "type": "string",
-            "enum": ["weapon", "armor"]
+            "enum": ["weapon", "armor", "belt", "boots", "gloves", "helmet", "necklace", "ring", "trinket", "shield", "potion"]
         },
         "classTypeBelonging": {
             "type": "string",
@@ -25,12 +29,12 @@
         },
         "rarity": {
             "description": "Rzadkość przedmiotu",
-            "enum": ["common", "uncommon", "legendary"]
+            "enum": ["common", "epic", "legendary"]
         }
     },
     "required": [
         "itemId",
-        "itemName",
+        "name",
         "type",
         "rarity"
     ],

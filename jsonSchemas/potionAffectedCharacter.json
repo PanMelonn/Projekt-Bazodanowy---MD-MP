@@ -18,7 +18,7 @@
         "expiryTime": {
             "description": "Czas zakończenia działania mikstury",
             "type": "string",
-            "format": "date-time"
+            "format": "Date-time"
         }
     },
     "required": [

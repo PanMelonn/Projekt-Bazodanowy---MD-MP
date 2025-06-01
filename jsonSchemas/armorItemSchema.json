@@ -9,45 +9,48 @@
             "type": "string",
             "format": "uuid"
         },
-        "type": {
-            "description": "Typ zbrojnego przedmiotu",
-            "enum": ["helmet", "armor", "gloves", "boots", "necklace", "belt", "ring", "trinket"]
-        },
-        "armor": {
-            "description": "Punkty pancerzu posiadane przez przedmiot",
-            "type": "integer",
-            "minimum": 0
-        },
-        "strength": {
-            "description": "Punkty siły posiadane przez przedmiot",
-            "type": "integer",
-            "minimum": 0
-        },
-        "agility": {
-            "description": "Punkty zręczności posiadane przez przedmiot",
-            "type": "integer",
-            "minimum": 0
-        },
-        "intelligence": {
-            "description": "Punkty inteligencji posiadane przez przedmiot",
-            "type": "integer",
-            "minimum": 0
-        },
-        "constitution": {
-            "description": "Punkty wytrzymałości posiadane przez przedmiot",
-            "type": "integer",
-            "minimum": 0
-        },
-        "luck": {
-            "description": "Punkty szczęścia posiadane przez przedmiot",
-            "type": "integer",
-            "minimum": 0
+        "statistics": {
+            "description": "Statystyki przedmiotu",
+            "type": "object",
+            "properties": {
+                "armor": {
+                    "description": "Punkty zbroi posiadane przez przedmiot",
+                    "type": "integer",
+                    "minimum": 1
+                },
+                "strength": {
+                    "description": "Punkty siły posiadane przez przedmiot",
+                    "type": "integer",
+                    "minimum": 0
+                },
+                "agility": {
+                    "description": "Punkty zręczności posiadane przez przedmiot",
+                    "type": "integer",
+                    "minimum": 0
+                },
+                "intelligence": {
+                    "description": "Punkty inteligencji posiadane przez przedmiot",
+                    "type": "integer",
+                    "minimum": 0
+                },
+                "constitution": {
+                    "description": "Punkty wytrzymałości posiadane przez przedmiot",
+                    "type": "integer",
+                    "minimum": 0
+                },
+                "luck": {
+                    "description": "Punkty szczęścia posiadane przez przedmiot",
+                    "type": "integer",
+                    "minimum": 0
+                }
+            },
+            "required": ["armor"],
+            "additionalProperties": false
         }
     },
     "required": [
         "itemId",
-        "type",
-        "damage"
+        "statistics"
     ],
     "additionalProperties": false
 }

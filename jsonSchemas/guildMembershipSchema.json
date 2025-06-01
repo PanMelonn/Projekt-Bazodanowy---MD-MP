@@ -4,7 +4,7 @@
     "title": "Guild membership",
     "description": "Informacja o należeniu postaci do danej gildii wraz z rolą",
     "properties": {
-        "playerId": {
+        "characterId": {
             "description": "Id postaci należącej do gildii",
             "type": "string",
             "format": "uuid"
@@ -20,7 +20,7 @@
         }
     },
     "required": [
-        "playerId",
+        "characterId",
         "guildId",
         "role"
     ],
