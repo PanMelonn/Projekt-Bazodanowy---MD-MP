@@ -30,13 +30,30 @@
         "rarity": {
             "description": "Rzadkość przedmiotu",
             "enum": ["common", "epic", "legendary"]
+        },
+        "value": {
+            "description": "Wartość przedmiotu",
+            "type": "object",
+            "properties": {
+                "gold": {
+                    "description": "Wartość w złocie",
+                    "type": "integer"
+                },
+                "mushrooms": {
+                    "description": "Wartość w grzybkach",
+                    "type": "integer"
+                }
+            },
+            "required": ["gold", "mushrooms"],
+            "additionalProperties": false
         }
     },
     "required": [
         "itemId",
         "name",
         "type",
-        "rarity"
+        "rarity",
+        "value"
     ],
     "additionalProperties": false
 }

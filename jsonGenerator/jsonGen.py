@@ -140,7 +140,7 @@ def guildAttackGen():
                 defenceCandidates.remove(defender)
             attackCandidates.remove(attacker)
     
-    print("Generated " + str(i - 1) + " guild attacks json files.")
+    print("Generated " + str(i - 1) + " guild attack json files.")
 
 def genericItemGen():
     i = 1
@@ -160,12 +160,17 @@ def genericItemGen():
             id = uuid.uuid4()
             level = random.randint(1, 300)
             rarity = random.choice(rarities)
+            goldValue = level * 100 + random.randint(0, 10 * level)
+            mushroomsValue = random.randint(0, 20)
+            value = {"gold": goldValue,
+                    "mushrooms": mushroomsValue}
             jsonDict = {"itemId": str(id),
                         "name": name.strip(),
                         "level": level,
                         "type": "weapon",
                         "classTypeBelonging": "melee",
-                        "rarity": rarity}
+                        "rarity": rarity,
+                        "value": value}
             with open("../jsonInstances/genericItems/genericItem" + str(i) + ".json", "w") as file:
                 file.write(json.dumps(jsonDict))
                 i += 1
@@ -444,6 +449,8 @@ def potionAffectedCharacterGen():
         if random.random() < 0.7:
             continue 
         potionIds = [k for k in potions.keys() if potions[k][0] <= characters[characterId]]
+        if len(potionIds) == 0:
+            continue
         potionId = random.choice(potionIds)
         duration = potions[potionId][1]
         expiryTime = faker.date_time_between(start_date=datetime.datetime.now(), end_date="+" + str(duration) + "s")
