@@ -4,10 +4,11 @@ import os
 path = "../jsonInstances"
 
 for directory in os.listdir(path):
+    print("Działanie w folderze: " + directory + ".")
     combinedPath = os.path.join(path, directory)
     if os.path.isdir(combinedPath):
         try:
-            os.mkdir(directory)
+            os.mkdir(os.path.join(os.getcwd(), directory))
         except FileExistsError:
             pass
         except PermissionError:
@@ -26,3 +27,5 @@ for directory in os.listdir(path):
                         flatJsonDict[key] = value
             with open(os.path.join(directory, jsonPath), "w") as flatJsonFile:
                 flatJsonFile.write(json.dumps(flatJsonDict))
+        
+print("Gotowe.")
