@@ -610,7 +610,6 @@ def equippedItemGen():
     i = 1
     characters = {}
     items = {}
-    weapons = {}
     itemClassTypeBelongingToCharacterClass = {"melee": ("warrior", "assasin", "berserker", "battleMage"),
                                             "ranged": ("scout", "demonHunter"),
                                             "magic": ("mage", "druid", "bard")}
