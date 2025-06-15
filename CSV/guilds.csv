@@ -1,0 +1,501 @@
+guildId,name,region,nr,glory,trainerLevel,treasuryLevel
+b473f6a8-a138-47c0-a9df-dc26f9c44159,Shadowborn Vanguard,pl,2,7508,131,23
+4f7aef35-3b07-4e83-b399-9077c82c762c,Vermilion Vow,int,1,555,806,162
+930f7396-bf7f-48ca-bcb4-b2dd2ac80d39,Thunderveil Order,cz,1,1694,790,232
+d3832097-b193-47a6-a0c7-3d11ecac4413,Blazing Demons Vanguard,pl,2,649,521,877
+e1e2cb07-4510-4250-bfd3-891fb7715d80,Giants Brotherhood Emerald,de,2,8278,421,31
+c1f665c1-e9eb-4b16-b84b-7902f552fa79,Silent Demons Vanguard,de,2,1671,885,718
+0868c4e5-7adc-4678-90e3-7809dd0e95e9,Phantoms Eternal Guardians,hu,1,4322,888,171
+92eeee14-f354-41a5-84a5-9301363f7fa4,Circle Unbroken Demons,fr,2,2949,998,855
+a5f02902-bbfe-46d0-a1b1-1b8c687798a1,Feral Demons Order,pl,1,4778,934,32
+14dc52f4-dc8c-486e-9228-e2a25d824bd0,Mystic Ancient Lions,eu,1,5026,78,669
+dbc66fc1-e413-4726-88b9-989fd2b3e589,Angels Sacred Guardians,eu,2,5081,226,509
+f7e9117f-7265-46d5-903c-65d5507ddcb5,Wardens Twilight Wolves,cz,2,4879,241,647
+dc5f7602-0ef8-4751-b093-7412f6ce56dd,Stormforge Legion,fr,2,3796,722,334
+1f0506bf-7be0-4906-b863-1a98f0d3ecfb,Radiant Demons Lost,de,2,539,592,442
+be48c3c4-fd60-42d0-9f34-dfd76e7c605d,Ravens Forgotten Wardens,eu,1,9145,656,142
+e672f977-cbf6-4fb0-99bf-08f7bc502aa4,Mystic Prime Guardians,int,1,332,659,874
+82689639-2f89-44a3-a560-57fb34a196f5,Savage Dragons Emerald,cz,1,8833,496,595
+7f324e54-ae5f-4253-957b-32a6f6d82ff9,Order Forgotten Lions,fr,1,7244,767,229
+36bd7177-112e-4660-b5b5-b3826f65d20f,Archons Twilight Wanderers,cz,1,9063,684,793
+9ab784ee-0086-44d1-ae0b-dea8d76df858,Forgotten Lions Circle,hu,1,9080,858,401
+7d12b38d-52ef-4fe1-ad11-b14fcccaea32,Guardians Archons Lost,cz,2,2153,919,974
+e8e38f40-7316-42e2-9199-b155ed684824,Wardens Azure Unbroken,am,1,6680,659,341
+c4cc057a-da3d-4630-8eb0-c0d315e8861b,Prime Sentinels Lions,cz,1,2778,711,308
+02da254d-bd0c-43bb-88fe-29491845b31b,Duskfall Collective,cz,2,3153,472,133
+35b4ca09-c7d6-484e-b492-4618b64d5acc,Knights Alliance Storm,int,2,256,5,61
+7ab8d2b3-3b03-46c7-aaf3-4c3b82b59fd8,Storm Titans Hidden,pl,1,5537,757,66
+3019b187-0380-4fe3-834f-c567a2171ad4,Angels Brotherhood Golden,am,2,4231,878,582
+d6bdfd0c-bf2a-4d06-b61b-5f5d6dada979,Fury Frost Vanguard,am,2,2189,233,801
+16d252ee-fea5-4b37-a59a-2b3b9c39f613,Circle Unbroken Banshees,am,1,199,786,937
+157ed812-6397-4e8c-bb95-63a55e556b39,Reapers Mystic Guardians,de,1,8392,261,566
+96307a5a-9f24-4503-86df-2831e0a05c84,Ravens Crimson Alliance,pl,2,1277,184,879
+875126e1-6d40-4342-a536-4dfa507c36fb,Titans Guardians Ancient,cz,1,8818,231,904
+baa481c7-6e77-4435-a937-dcde1b09e408,Celestial Feral Hunters,pl,2,3970,526,578
+a581588e-ab60-4a7e-9e27-01e67cff1c2b,Infinite Serpents Obsidian,fr,2,4919,111,36
+030f0ed1-fc30-45d8-b4a2-95efb56f70a1,Onyx Dragons,pl,1,627,217,617
+9bfbc8a4-ae4e-4dc7-a940-1fd9cbb18af4,Demons Eternal Golden,fr,2,7836,99,404
+0162271d-fb38-4783-a525-eafe333e42c1,Silent Angels Fabled,cz,2,582,700,348
+0c129da6-3fcd-4af5-bcdd-df5ab113c754,Azure Dragons Order,hu,1,9781,743,117
+65654108-9093-477f-8d53-4d9cd0f86db1,Giants Radiant Crusaders,de,2,6067,481,322
+09d56fde-5aa3-4e6c-885e-62eb5dd889f9,Hidden Titans Storm,de,1,8065,652,145
+93b00b00-41ee-4414-958a-e41b66b07165,Sentinels Serpents Chosen,am,2,4420,535,151
+e4e2b547-2c40-4215-bc0d-281e5f1226fd,Circle Forgotten Emerald,hu,1,5026,220,653
+0106f00c-f37f-4841-817a-edfa772c2782,Fabled Brotherhood Reapers,fr,1,4938,70,118
+65b4cfd6-8e66-412e-8c24-7568bb8c548b,Infinite Twilight Sentinels,am,2,4519,295,354
+0ea8a978-5fa5-4963-b19b-3a7f3b23ee1b,Infinite Circle Storm,hu,1,9673,925,489
+73848946-05eb-4453-b5ca-3245de5c1967,Astral Crusaders,cz,2,4656,45,244
+a654f375-a88c-49b5-b8fb-0d5ce0aa9fe0,Celestial Savage Keepers,de,1,9347,66,978
+eeab0d65-688b-4a2c-8499-01210ccfecf6,Mystic Order Wolves,fr,1,5610,53,910
+ceaa94e0-82d2-4b8a-ad9c-cbd8fda76029,Guardians Golden Archons,int,2,1664,817,519
+a71d83f9-6eeb-4b78-8736-12c23ead735b,Blazing Wraiths Unbroken,int,1,637,510,977
+449f3ad6-c1db-4417-be4e-e35b960a8bbe,Sacred Storm Crusaders,eu,2,4249,325,711
+f52a1d15-4ee0-4090-a34b-3d2157229b28,Coven Ravens Shadow,am,2,8271,278,323
+b2f653ed-39a9-4066-92f4-1519a9fab4db,Archons Fabled Golden,pl,1,4828,447,178
+d88391a1-055c-4574-897d-82e536c8c711,Fury Lost Order,int,2,9928,181,619
+276ef103-5157-470a-ba0b-12b30429897d,Ancient Banshees Keepers,pl,2,3106,331,62
+561bdce1-838b-4b04-aeea-9fcfe6a33026,Silent Bound Fury,int,2,2801,141,816
+1aa814a5-7fa0-45d7-adbf-564af6c0c4ed,Emberborn Pact,pl,2,2891,521,916
+5bf30f6d-2780-4728-af02-9ccc046c23f9,Titans Hidden Brotherhood,int,2,2185,827,101
+868f7667-cec6-481b-b3b8-68873c54d9d2,Keepers Wolves Mystic,de,1,6203,26,576
+dbbbc2df-16dd-479a-a61d-f943065f7986,Blazing Crusaders Demons,cz,2,7649,236,815
+cb7d3e28-0805-4cb2-a037-ad1c816718c8,Ancient Hunters Dragons,pl,2,6233,917,725
+6b638241-5583-4b30-9dce-0a489e684e63,Giants Radiant Savage,hu,2,8359,469,206
+958737ce-0955-4761-9caa-aee8fc1235f7,Forgotten Silent Order,int,2,7281,712,446
+fa03fdb4-ccc2-416d-b6d4-458e952b55f0,Blazing Hidden Vanguard,am,2,3294,91,138
+eb332d83-e654-4f5e-819d-2bd919854b32,Giants Unbroken Alliance,fr,2,9926,757,717
+60a78025-6ede-4900-aa71-9783bb774249,Vanguard Infinite Giants,cz,1,1603,260,412
+23c56cda-7c47-4304-bf69-808d09a3bbdf,Hunters Reapers Hidden,cz,1,7625,858,69
+05339fae-fd09-46fb-80d8-4c99bb6f5de2,Thunderwolf Clan,cz,2,3198,689,61
+51114727-90fb-4020-a730-b9c7f3665a53,Fabled Hunters Ravens,am,1,352,772,999
+21ca5c13-507d-460c-a716-8face60ae0ce,Banshees Forgotten Golden,de,1,9376,241,742
+155001b3-23f8-4451-9fab-f557cd02148f,Prime Reapers Crimson,de,1,4598,974,884
+c93bf50d-9391-49b2-aced-17a1f440c6b3,Lions Celestial Prime,hu,2,9923,306,828
+66fd3614-93cc-4c30-aade-e2925862efd2,Noble Order Serpents,de,2,1448,321,798
+a2af290f-2921-4828-881a-81afb90c1686,Prime Vanguard Demons,cz,2,2875,267,54
+f09e5dbb-a858-4f8e-b220-3341a501d431,Guardians Wolves Infinite,am,1,5586,612,979
+44f54584-ab8f-4a79-9cd9-7589cf543bba,Serpents Feral Keepers,pl,1,197,884,218
+d96d5f2d-51e1-4d31-b342-6bf9c1dd9767,Frost Prime Ravens,am,1,6694,830,365
+f7d8d57a-4826-42c3-8621-adcde351687d,Crusaders Chosen Fury,hu,2,1046,770,937
+ce4b56ca-668a-4255-8ab2-e170c2610a83,Serpent's Kiss,hu,1,2533,193,684
+0f80c4de-7ef3-437f-8528-542e88eba36a,Fabled Phantoms Coven,eu,2,846,834,572
+cade1908-0f84-43fb-9238-e682cf756690,Silent Sacred Archons,cz,2,7099,595,796
+a2c384cd-737f-445d-9370-145327b334c6,Noble Obsidian Reapers,fr,1,5636,190,803
+f2831c0c-46ae-41ca-adf8-13155116e4d5,Wraiths Golden Archons,am,2,6732,852,100
+5013ad54-5261-43e3-86d6-596655bf5617,Demons Azure Wanderers,eu,1,2985,637,781
+64fe9a2d-4d65-4170-b06b-33fd5c447087,Celestial Savage Circle,int,2,592,879,361
+5a6c44ff-359e-42df-ade8-4858b263e8a8,Legion Fury Eternal,eu,1,3885,221,622
+ebac3c84-7976-446b-9704-8f3856f52d59,Sentinels Knights Prime,fr,1,6197,557,214
+bbde33fe-1a00-4fa5-b012-6396f7a24ecb,Ravens Bound Guardians,fr,1,2885,347,971
+f78f069b-d163-474b-801b-eb38e836c1b4,Storm Sentinels Unbroken,pl,2,7821,835,991
+6d706fc5-1e0b-409c-89ce-3f8ce74d9c3d,Moonlight Vanguard,de,1,3093,418,323
+83cd7cc9-558c-474b-a726-fd44c6ff0eca,Alliance Eternal Reapers,cz,2,75,181,284
+fa77928b-9762-4061-842d-b58eca9d0712,Angels Coven Shadow,pl,1,3393,134,343
+c0992e25-0769-494d-a0a7-b6e1ff2aa4e0,Sentinels Obsidian Prime,eu,2,3983,75,259
+8c8e8568-4078-4031-acfa-f2c6b3f39fe6,Blazing Chosen Lions,int,2,7564,463,506
+5fa76018-a9cb-4b76-9e03-67756dcb618c,Fabled Mystic Wanderers,de,2,1148,529,104
+b7e9ff48-4de5-4344-9624-a505bfb2f2f9,Lions Radiant Infinite,am,1,279,584,224
+5212d81b-8a34-432c-87d9-d7525aeb45df,Keepers Twilight Ravens,am,1,9554,111,274
+7d924f6d-b703-4fdd-b3d6-bb1fa287ccfc,Order Infinite Iron,de,1,6890,467,344
+dd3c4caf-d4ea-48eb-bf92-595c1f6cb6be,Storm Vanguard Phantoms,eu,2,2288,5,324
+3eb97814-aca4-4ce2-87d7-a43792d2196b,Hunters Fabled Golden,fr,2,8013,756,923
+b6437769-bca6-4555-8a27-5b77c7fac5d0,Bloodstone Marauders,pl,1,4939,9,968
+a617ca78-673f-403c-9586-91a8a0f6a77d,Eternal Reapers Vanguard,cz,1,7448,858,316
+c66078af-6de7-4976-b8f9-70bfba71b7df,Unbroken Titans Keepers,eu,1,2434,639,162
+12e331a7-9181-4219-981c-4d9f777628aa,Shadow Serpents Wanderers,eu,2,3833,243,775
+7c1e0159-3ae9-4f90-bc55-d4a2901d50d2,Banshees Golden Alliance,int,2,3113,882,824
+a9fa38a4-2344-459e-bac5-6789798957ca,Knights Hidden Legion,eu,1,1559,838,17
+ede5abac-46a7-43d5-8378-5eb12c6d9bf3,Twilight Angels Bound,hu,1,6687,316,289
+237d777b-53ca-4833-afbb-1cd17293c0b5,Hunters Blazing Eternal,cz,2,2382,803,718
+40d41b8c-0cc1-4d5a-88cb-5e2aa8d9a625,Golden Sentinels Giants,int,1,9776,228,674
+7f87609e-a111-472a-b37d-d0de3c19e603,Circle Demons Lost,pl,2,4661,550,732
+072954c4-98a5-4e92-8140-3911f709895f,Radiant Titans Wanderers,eu,2,2172,892,968
+c8572cc5-67ec-43f8-b33e-9791e5a08322,Eternal Phoenix Order,int,2,4944,161,559
+563a3d3e-9b61-45d0-a9aa-a4993861ffc9,Nebula Reapers,fr,2,8761,61,943
+bddb151a-f2ad-4476-abc4-c0fbe6ff89cf,Eternal Crusaders Phantoms,cz,1,6717,379,145
+f4e9074e-4643-4da3-a950-8b6dffab4ecf,Hidden Order Titans,int,2,8334,529,919
+89f39192-91a2-4b12-a475-fa01c7dd3e84,Storm Serpents Wanderers,de,2,8066,938,53
+7abb39aa-55c4-4116-9b60-6d10c43d8882,Noble Titans Keepers,int,1,8657,607,792
+fb055756-d504-41a9-bd8a-e20d6d00497c,Twilight Reapers Feral,cz,1,6945,3,916
+ad66c00c-ccb5-4384-8a31-9d92978ce3fa,Ancient Celestial Keepers,hu,1,9010,216,680
+d9b4e583-15ad-43b1-aa46-e683c0fff62f,Titans Emerald Hidden,de,1,8210,301,545
+ebe1e040-78d8-403a-92a9-fb61fc8d500f,Radiant Wardens Phantoms,cz,1,2497,272,175
+94491c9a-ccb4-426e-b89c-c63322295146,Vanguard Ravens Frost,int,1,3616,368,755
+6234bed6-54fe-43bc-899e-5d82bce8b504,Order Wolves Feral,de,1,3377,102,917
+3b5819aa-3940-4374-a0ab-e4a8e6189d1f,Frostbane Covenant,am,2,5788,949,844
+b2e93279-2483-4697-a818-35070b00d070,Angels Brotherhood Twilight,cz,2,2053,249,465
+fc7f1752-fce1-407b-a292-c2fb269f771f,Blazing Crusaders Fury,cz,2,4791,847,803
+e9e37693-7bac-4486-900f-1ec5af18296a,Shadow Sentinels Savage,int,1,1863,822,255
+1cc5ad78-958b-4667-880c-917b949fd5f2,Bound Radiant Reapers,int,2,1338,207,597
+db641596-9bbf-43ac-8fb7-3f154fc4256b,Chosen Obsidian Titans,int,2,5512,442,353
+571e4e92-f4a2-4524-ad25-a8c0b568fcc0,Silent Hidden Wolves,am,1,700,647,112
+6ae4948f-2beb-41aa-a6cc-f0923116630d,Radiant Vanguard Archons,int,1,8922,892,135
+64314be5-c59a-4ce6-b29c-d334d71953e9,Angels Wardens Feral,int,1,5051,949,974
+dfdcdbe6-9855-49b5-be9e-43c9f518ad0d,Crusaders Giants Prime,de,1,4982,973,16
+8ef0fedb-7bf7-41b1-a630-f27bf9096db4,Wardens Blazing Knights,am,2,9544,60,801
+035243eb-598a-44b6-8e52-36582e906255,Radiant Dawn,int,1,2813,455,969
+5d7005bb-aadb-4f9a-9f44-01e2ae32ca07,Crusaders Banshees Golden,fr,1,1404,868,706
+a95e0a2f-3925-4d6c-941c-347605a9cda8,Order Iron Noble,cz,2,2254,808,505
+11e6aab3-744d-4f21-b8ed-65aeb3286fa3,Emerald Wolves Hunters,int,2,4620,986,9
+2c4547a7-3b4a-4d80-ae68-4ae793aee13c,Crimson Angels Wraiths,int,2,1064,195,669
+968fcb25-5936-4bb7-b679-679fe822d119,Crusaders Infinite Frost,int,1,5360,865,283
+8b9dff61-b9ca-46a0-8d91-89d27a95aace,Angels Hidden Radiant,cz,1,4668,645,581
+a0cd8760-26f3-4a68-a23f-965282779ffc,Bound Phantoms Radiant,de,2,6874,831,64
+c3baf446-5186-4cc6-a26b-3e13a14e71d6,Blazing Circle Dragons,eu,2,9123,501,464
+e963187d-59c4-4e51-8de8-f42dac2095b3,Archons Infinite Coven,de,1,6789,397,22
+62a2608b-93b5-4efe-800f-4c27ff82813d,Savage Ravens Emerald,int,1,8035,615,340
+d5969bac-0bed-40e5-8dbf-2db14416be5b,Blackthorn Society,am,2,3316,710,830
+19329ea0-0aaf-4164-9523-078f3a11a10d,Hidden Crimson Angels,de,2,3322,93,846
+44856f80-4b27-491e-9f95-e54602235f28,Frost Angels Bound,fr,1,3682,432,670
+2df18424-5780-46d3-af7a-271be72d00c1,Ravens Crusaders Bound,pl,1,7502,596,546
+74966664-b981-4e80-801c-62c6075123e2,Brotherhood Storm Demons,am,2,2371,22,795
+5eedd030-b73e-4826-bf61-1eae85da98f3,Feral Lions Sentinels,fr,2,5428,64,282
+2833b837-0a22-46f0-9d83-8b9384ad1bf5,Unbroken Titans Twilight,cz,2,9502,210,86
+3ef336f2-82a6-4b66-9470-d4638e8bd837,Azure Wardens Demons,int,1,7932,704,461
+5b39e40a-a574-4fc2-9e4c-d44dc4d681d7,Radiant Alliance Reapers,fr,1,5320,814,714
+687f6361-8fe6-4958-9d24-6a59abcba01a,Frost Feral Circle,hu,2,9910,985,884
+37fb2a49-d00e-4a89-98a4-02c426e37e84,Lions Hunters Eternal,de,2,6598,95,675
+5aeff0e4-bfc5-4305-8a62-cf53381596a8,Solar Flare Syndicate,cz,1,411,76,469
+78bd8f02-5813-473b-840b-6854aeb3a5cc,Phantoms Storm Infinite,eu,2,9001,945,984
+13a7f786-6030-4de0-bb6e-79d6a7b7f7e3,Sacred Shadow Wardens,pl,2,9921,386,977
+53bd49de-4b45-42d1-aa70-674dc95e1a61,Reapers Feral Coven,eu,1,3228,133,98
+e7c0f908-594f-4f68-a98a-5c53ee13ff25,Lost Angels Brotherhood,de,2,6761,197,650
+607f9d3b-ef06-48e1-9cd6-e48dd4a11637,Fury Ancient Crusaders,hu,1,5234,1,252
+a63281b2-37e7-4dc8-9d9d-c5cbe694488b,Feral Demons Emerald,int,1,7903,806,184
+c3ece589-031e-4da4-8646-e5467655db7f,Shadow Demons Brotherhood,fr,1,1000,82,463
+36865c18-2a6c-4b1b-affd-ca76c528c07d,Silent Noble Titans,cz,2,1571,452,379
+8237246a-e74a-46ed-bf46-dbc8dbd1489a,Circle Archons Twilight,hu,2,7333,494,959
+d9187c69-1cbe-4f55-903e-5e4e9424b28f,Sacred Storm Legion,am,2,4046,927,88
+2f5c0c03-9f0a-43dd-b472-dbec0c4ed8de,Eclipse Wanderers,fr,2,5270,977,669
+6d3f8898-a6b1-4bd8-8216-46edef2b1d03,Guardians Crimson Reapers,eu,2,9649,152,831
+f7298c23-5364-43ad-aa3a-156a37b4b055,Azure Knights Guardians,hu,1,2450,870,344
+5d5f59b4-b0d7-4aba-aed6-3df8a511f855,Frost Sentinels Savage,cz,1,5684,266,675
+6d1befe8-4ac8-4077-89c3-54456dca044c,Mystic Vanguard Savage,eu,2,2949,922,806
+f98c9090-3cb0-47dc-9e9e-6083a8102bda,Order Iron Infinite,cz,2,1816,915,926
+41b807d0-52df-4fd8-8a29-64507744323c,Golden Crusaders Lions,int,1,6565,383,791
+a4855317-5140-494d-96c5-c6962dff4de9,Serpents Vanguard Celestial,cz,1,7970,27,985
+a86d44be-f6e2-4a59-a026-04e6247ec8f5,Angels Eternal Twilight,am,1,4494,698,979
+c44418e7-400f-4891-ba78-508ea6f16bc3,Unbroken Lions Blazing,eu,2,3504,510,292
+f89718f1-32dd-4503-811f-93bc94ba95c7,Crimson Lions Legion,int,1,7878,322,33
+d4d79ea8-60e3-4620-9c08-2237c7725bd4,Dragonheart Battalion,int,1,5397,790,826
+2e572ae7-ed27-4431-be00-9f06d6849a39,Fury Eternal Obsidian,pl,1,2516,584,635
+3fe195bb-8f6d-4ff5-a0de-6c077b4b57b6,Silent Wolves Hidden,pl,2,9371,320,316
+655bd0a3-647c-4650-96ac-89f5a1ff7f96,Reapers Unbroken Sentinels,hu,2,2461,732,106
+18fc2aff-c86a-4b86-9efa-796078affbbf,Unbroken Silent Coven,pl,2,1649,14,278
+db2473ed-55f4-4dbe-a11e-8ba897437a13,Wardens Banshees Azure,eu,2,7358,392,121
+b88681cf-8e59-4208-89cc-221239da5868,Reapers Unbroken Legion,eu,2,3338,900,271
+aa5d3a90-d7f3-400c-9636-e5b31223f199,Crimson Brotherhood Savage,fr,2,7552,410,8
+c3637064-8471-48fc-b155-00561de840c5,Keepers Archons Chosen,cz,2,5145,884,757
+8fe89630-06b5-4b21-aa7e-4a53c942e0fe,Coven Phantoms Eternal,fr,2,5271,941,785
+600bc99d-f72a-44cb-a840-31786179c2ef,Banshees Prime Wanderers,de,2,1290,618,978
+7c3d4af4-0bf9-4a50-bff9-e3e147e1be47,Silent Storm,int,2,9171,779,773
+331327b8-14eb-47a5-9550-656df62435aa,Fury Noble Legion,am,1,7434,182,213
+9bb4dd4f-779f-43e5-8f65-0076d522bbd2,Alliance Eternal Silent,cz,2,7932,784,39
+5b9e4855-fca2-4e2a-90b1-8bd22a3e19e2,Silent Ancient Circle,pl,2,2658,747,488
+e55589d3-afa6-4c39-a447-a50a2293fe51,Ravens Prime Hunters,am,2,2215,82,481
+15d5bf62-dcda-4ff8-ac51-607d801159c6,Wraiths Chosen Banshees,eu,2,271,601,17
+c630a3f0-53de-4f27-a429-b0e4cbbfc63b,Ravens Alliance Frost,int,1,281,876,313
+ee88828e-1df9-469f-b215-dc57ded6ef0d,Prime Obsidian Vanguard,pl,1,9413,35,351
+d0d50549-2048-4bb0-9cdc-1bde1770ba39,Demons Shadow Crusaders,de,1,7844,224,317
+cbb75d38-606e-4166-829f-e38c2c2b6cd6,Crusaders Forgotten Angels,de,1,983,392,566
+9de779b6-0aa2-40b9-bda5-68548bcaaa20,Coven Hidden Crimson,de,2,9876,156,719
+1b093480-035c-4fec-8c85-66dc81e7d931,Warborn Outriders,eu,1,4411,270,365
+b390d731-d426-44a9-be1d-c92cf947cbf3,Emerald Wanderers Infinite,cz,1,9597,498,475
+8c0e2188-00c3-4d53-af42-a8204ea46f29,Celestial Wolves Legion,int,1,648,224,125
+90179c68-b338-4426-841a-c9a13af20090,Titans Unbroken Twilight,fr,2,2273,64,614
+ee0a26f4-0151-419c-b75d-6cdf4a7b25fa,Noble Knights Keepers,cz,1,2515,666,406
+c7060682-ba9c-42a5-9dd9-93b439df09d6,Archons Forgotten Mystic,am,2,2902,86,81
+a277a4e9-31a4-4e97-9ced-d80b3825b68b,Feral Archons Crusaders,am,1,6922,50,224
+a71b789e-90af-48a2-9524-164a03d72d2d,Feral Brotherhood Wolves,int,1,6623,306,935
+61209d3f-4fe5-459e-8aa9-0f173fe92009,Crimson Knights Infinite,cz,1,6308,768,214
+759d0cd7-4fc9-4bc6-a736-b1bccbc09f12,Mystic Unbroken Keepers,eu,1,4590,322,404
+c6f61a7d-9f5e-46e5-aee8-8a72ff0dd74f,Brotherhood Obsidian Serpents,hu,1,7216,652,787
+aee072b4-8b7a-4f70-8143-f341f4fe8081,Phoenix Ascendant,cz,2,7290,400,498
+115dc78f-b056-4a70-8e48-2e478fade2a7,Keepers Wolves Sacred,eu,2,1031,654,193
+7a33de13-4a9c-48b4-93d5-6cb0797b771a,Banshees Golden Vanguard,am,2,3363,661,825
+a3552bd7-ba95-4505-976e-76512f7c3f27,Radiant Angels Brotherhood,pl,2,4318,739,692
+1b934dd1-e162-487c-a122-6e2ff6178132,Fury Prime Emerald,hu,2,8087,203,869
+dc3c8b70-a32e-4353-a5f7-71a861ab193a,Eternal Guardians Silent,pl,1,2629,782,677
+7c091030-1d1b-4f66-b1cc-4447500146c1,Archons Prime Keepers,eu,2,9148,867,291
+20f151ae-ae8f-47b5-9dc5-25d0ec23232b,Silent Ravens Eternal,pl,2,5084,399,567
+0cd43c0b-9b2e-41b9-bb5c-3842307897c2,Chosen Wanderers Dragons,fr,1,9458,516,8
+8aded344-a4e0-453b-ab71-3b16d504e242,Twilight Feral Guardians,hu,2,8568,88,744
+728159f9-8741-429d-a2ef-a07a1bbf1720,Phantoms Mystic Prime,pl,2,6263,894,83
+13add6a2-ac00-4aad-a91b-a66a91c9b651,Obsidian Serpents,cz,1,2854,316,467
+c4e6cb9c-e064-4339-9502-68e80637b3b2,Abyssal Watchers,am,1,3033,429,357
+dc083f6a-0573-4ef4-99e5-615b62072538,Keepers Prime Reapers,pl,1,3310,358,132
+7308dbaf-4654-47fe-897c-e528c72db9fa,Obsidian Lost Circle,cz,2,1825,682,888
+d14dc193-4ae0-4f43-b3f9-3e3b37b66f5d,Blazing Savage Lions,am,2,8509,979,124
+425bc6d9-4746-4ae5-9f79-19df9a09b9a4,Frost Infinite Ravens,eu,1,8391,147,304
+933473d2-3f5d-4d88-bcc7-d1feb7d83209,Ancient Legion Serpents,cz,2,2982,211,875
+cf3a0f6b-f79c-45b8-b4ff-c6ebacd91096,Unbroken Golden Crusaders,cz,2,7186,849,239
+e9a4cef0-d4e2-4767-867c-5e8dedbde016,Infinite Twilight Dragons,cz,1,3407,241,563
+93d506bd-d1d8-44ea-9a90-5b05d6a1a4d9,Dragons Unbroken Frost,hu,1,9626,891,308
+e70907e4-061e-4dfd-a492-06668b3d1d68,Legion Blazing Fabled,am,2,5986,462,82
+f353fb48-6219-4e9a-8352-ec6ca7e64d5c,Storm Banshees Hidden,hu,1,8565,675,461
+32e49687-f5fa-4947-b1b3-8af30f475bbb,Valiant Horizon,pl,2,9584,627,341
+124b4f19-428a-4b22-800a-18e2a07f2f4e,Chosen Iron Angels,pl,1,8383,988,35
+7c77c538-c67d-4f71-9bca-3f8b5f08a6fc,Twilight Noble Coven,de,2,8940,345,217
+49e00d70-34bc-40c3-86ca-c15a6e20af23,Ravens Hunters Eternal,pl,2,106,524,732
+4e922bd0-0885-4ea4-9481-cb2a92c704e9,Alliance Sacred Radiant,eu,2,6390,529,663
+b5db15e6-9a02-4966-87c8-d340752e426a,Iron Phantoms Fabled,int,2,3747,110,786
+7a7a813f-f2c9-4c77-95af-1cb2948b71d1,Sacred Twilight Angels,eu,2,5244,444,765
+6bc1976b-d8b6-47a9-a273-4465a27d89b8,Giants Emerald Crusaders,de,2,8575,5,178
+3e27e3de-e085-4b5d-9cad-08d168cdffee,Forgotten Knights Emerald,pl,2,4408,323,268
+4712408d-1182-4b7a-b7f6-54aff2f9f1d0,Dragons Eternal Silent,hu,1,4090,120,978
+b3a5f931-5019-43e7-9327-adfd24c1baa7,Fabled Reapers Vanguard,am,2,9263,489,885
+a5c29784-0fa5-4d34-9e89-ae710ff8b0dd,Nightshade Brotherhood,cz,1,4265,666,565
+b347a95c-ca8b-41ea-9f29-6783366551d6,Titans Unbroken Wardens,pl,2,8525,807,599
+2bdaf1c4-7558-4a29-9018-a9015de9365d,Hunters Crimson Feral,int,2,1587,5,422
+c23c3560-efec-45fc-a13c-c0a2c30e643e,Ravens Iron Guardians,fr,2,1424,428,719
+a77e67df-f12f-4e99-92d0-7ea532b26df5,Coven Silent Phantoms,eu,1,3910,707,63
+adbd45af-5bfd-43dd-b89f-465c3c1f6d1b,Prime Fury Keepers,pl,2,31,828,408
+fcecffb0-f0f0-4cf7-ae77-4e12e3a906f3,Titans Storm Unbroken,cz,1,3,526,679
+4adace96-e5a3-4975-a436-6a8594b5ef57,Mystic Lost Wanderers,int,1,4832,379,748
+b6280edc-5687-4826-8264-2ea7327d2be8,Emerald Wraiths Demons,fr,2,2304,464,466
+d92d79a5-8dfa-4de2-97d5-220151da3fd1,Crimson Guardians Angels,hu,2,6180,241,631
+4be31cbb-4e16-419a-9cd3-8da6d5bd8652,Hunters Storm Knights,fr,1,8143,771,49
+acc898a5-7d78-416b-bcb8-37e8a869b9ee,Ironfang Warband,de,2,6851,362,287
+a610646b-b793-42cc-83f9-22fb514e499e,Alliance Silent Infinite,am,2,9488,576,564
+5d3df395-3289-4cf4-9d5e-3cd5ae2adb09,Ravens Mystic Keepers,eu,2,7613,138,28
+f493bbf8-b532-4f3c-bde2-be7ddc4cf906,Knights Sacred Radiant,fr,1,8740,641,756
+a29dad8a-ec7c-4fb0-94e6-1a00771c257a,Wardens Golden Bound,hu,2,8153,468,439
+ad24d3d7-116c-4407-94bc-27b46ce3d434,Dragons Infinite Frost,fr,1,9598,537,661
+3b5a7d4f-6497-49ea-8616-8b303d32b1df,Ravens Iron Prime,pl,2,4734,458,296
+26689a22-d91f-47a0-ba4b-eb48981ef405,Noble Knights Crimson,de,1,1444,236,768
+fc27cdfe-dca7-46d5-bdf0-4f1923a38548,Angels Sacred Celestial,fr,1,2120,804,747
+523d1ea1-02bc-4285-ac7e-99fa6900cba1,Golden Brotherhood Prime,de,2,8589,172,119
+271d966a-e937-487f-b449-d897748a82d7,Circle Ancient Fury,hu,1,6167,330,189
+6d90a4b9-a931-479a-8a8a-9f03230a5458,Celestial Arbiters,de,1,6275,917,541
+58d1f057-6682-4bba-a745-eaa88052e4f8,Twilight Circle Ancient,fr,2,3754,708,705
+f7febd12-0dd5-45e5-b438-5104954dbcc2,Order Azure Savage,eu,2,4509,930,627
+83865513-cd69-4bda-9160-80918dc2dbe7,Twilight Crusaders Eternal,de,1,2416,870,948
+5f5cf90b-db21-47c1-bc95-5a641e12fe21,Lost Wanderers Wolves,am,1,1981,187,912
+c755206f-95ed-4418-be94-f963b9d57dfe,Emerald Crusaders Hidden,am,2,3222,406,502
+93a67374-3927-44af-80dd-f82dc0ff5736,Wanderers Chosen Iron,pl,1,6656,402,679
+054aebc9-b51b-4980-8b65-20af43de982f,Sentinels Feral Fury,int,2,8436,77,534
+4037182b-1b3f-448e-b2cc-a4af5b4cf281,Chosen Radiant Lions,eu,1,8140,121,552
+fbe7bd55-5797-4291-b2f1-4922446091ef,Blazing Hidden Ravens,pl,2,6110,341,864
+f9ae8cf6-9fb8-45c3-b0c0-516e0d939f6e,Savage Radiant Archons,fr,2,2978,41,575
+4b3d7807-7d3c-43cb-a360-9fd1458ad081,Crimson Oath,hu,2,6622,155,196
+495f6fe7-a269-4a80-b273-b83147076e05,Ancient Shadow Order,de,1,3689,841,838
+3fc25e1f-1a48-4237-9a93-bbd932ab993f,Demons Feral Circle,hu,1,24,679,80
+34896dbe-bf69-4fb4-a3cd-ea0cdd5c1adb,Wardens Fury Ancient,int,2,5935,373,409
+36af79d5-e241-4430-b5d4-fb869bce7645,Storm Knights Hidden,eu,1,3469,40,845
+88ce267a-a6a5-4f32-abcb-efbc296a497c,Knights Crimson Sacred,fr,2,9345,523,396
+4a536fec-4e32-4d89-825f-b3a53ab1b930,Radiant Giants Guardians,pl,1,2491,995,986
+fea12edb-cf5f-4916-a153-44301f365280,Fury Golden Bound,hu,1,3452,647,129
+39a3f8f0-fcd5-4e1c-9934-21fd58235108,Chosen Alliance Archons,int,2,9353,73,996
+c4e71773-1876-4965-b013-6e35a954bbd3,Fabled Guardians Serpents,cz,1,4215,683,212
+b26a7e70-43c0-48ae-9ff2-ac59d8f39a55,Lions Keepers Silent,pl,1,8418,737,39
+12de9031-ed03-4325-b5e4-7c884ce4a546,Stormborn Exiles,am,1,6676,237,939
+fd80c5da-02fb-4bd4-9535-1b9a9440c4db,Prime Sentinels Archons,pl,1,2408,238,711
+84febee6-e462-43a3-847c-f54c3e4d0d31,Banshees Circle Storm,fr,1,8044,785,462
+861f9fe6-2549-45a9-9ccd-61e7ffd4a539,Eternal Dragons Circle,de,2,3074,402,753
+d0dcefd0-f001-4f63-aeb6-dd8fc73576d2,Wolves Vanguard Prime,fr,2,2304,358,28
+8f877871-ec92-46cb-84bb-f62101332a57,Azure Wolves Wraiths,int,1,3070,508,618
+e2769ad5-3ce3-4ed2-940f-1e7850286c49,Mystic Lost Wolves,am,1,5304,512,174
+b6037751-88f8-4ca0-9ec1-e6ef063867fd,Sentinels Ancient Titans,de,1,1834,651,492
+29e4584d-ccbd-40a6-b616-022329069d2f,Emerald Crusaders Demons,eu,2,3197,948,276
+13788cbb-5f34-41e1-b436-8e0e7179e46e,Wraiths Iron Lions,int,2,2458,344,806
+b3330560-4b64-4f41-9981-47478a855bb9,Radiant Banshees Hidden,de,2,2372,507,670
+322bb433-f8e3-435b-a015-6a2d1411ed68,Voidborn Collective,hu,1,4690,845,637
+17d75077-489c-4aa3-bb3b-d2eea50c7bcc,Coven Emerald Ravens,am,1,3144,568,36
+a3dfc4ec-5f16-47c9-8d85-e80a4ca82c2c,Feral Twilight Demons,hu,1,354,952,912
+98ca852f-ff7e-434e-9bea-39367be6f27b,Azure Titans Wanderers,hu,1,2662,597,24
+c180b40a-1bac-431e-81e5-bd14dbfcc25c,Prime Blazing Knights,de,1,3383,854,904
+db1355d3-90e3-4484-af52-a2f7736e8932,Archons Blazing Infinite,am,2,9267,586,513
+c9d48605-d0ab-496a-a5e4-340347d8368d,Reapers Fabled Silent,eu,1,2637,850,275
+ff252ea3-417d-4ad3-af93-50078067b399,Alliance Shadow Eternal,cz,2,541,399,4
+1737b86d-ed6c-46d0-a179-1405ae814239,Hidden Wanderers Phantoms,fr,1,3706,998,992
+602e8591-cf1d-4491-aa31-9524c569d9a5,Savage Giants Storm,fr,1,6972,824,610
+6b7f8958-d998-4ea4-b0f9-db37c76ab715,Brotherhood Savage Demons,cz,1,4398,185,899
+dd08ca9d-2b7e-4421-9b50-f1411867654a,Eternal Watch,am,1,4934,678,567
+6790cb65-5108-40cc-bf19-983a7cb8fb9b,Forgotten Obsidian Vanguard,hu,2,7779,290,796
+61e7b1a5-6554-4874-b974-72bd4666cdb5,Ancient Azure Brotherhood,cz,1,4353,115,888
+59b13988-5c60-454d-9aaf-1a10979694ff,Order Golden Eternal,eu,1,1771,304,947
+1aba8ffb-eca4-45c6-b074-715be7c5cd43,Emerald Serpents Circle,de,2,8947,624,561
+198d5c63-a7cc-461c-93a0-a1c6c24228d4,Wolves Chosen Crimson,de,1,72,526,920
+5b7b3b3b-c607-4f94-9f67-7de2c888b29e,Azure Hidden Keepers,de,1,6026,730,916
+81a7c6fa-ba98-4ed6-8ecf-b6235894d811,Legion Fury Forgotten,hu,2,3097,874,584
+018e8577-96a1-40f6-a31b-c0fb38b3423c,Shadow Giants Guardians,hu,1,6583,723,793
+0683efd8-dda1-487a-b319-200867e70006,Shadow Crusaders Demons,am,2,3576,913,600
+653a4331-2fb8-4396-b047-13cd3f261f9f,Knights Celestial Noble,pl,2,8346,147,518
+573098f2-4d41-4c35-a67e-1bce98775933,Onyx Vanguard,pl,2,4784,553,343
+00dc8d03-6369-4784-adc3-7b6349e54881,Infinite Obsidian Titans,fr,1,2011,625,587
+03651b8d-3ef8-401d-b57c-bbeff0f0cb18,Phantoms Hidden Crusaders,int,2,5490,525,988
+3d2c3963-44b0-439f-b977-c518fde4acd4,Lions Golden Forgotten,fr,1,4113,323,281
+a498d55d-e29a-4c6b-bc21-5e472965451b,Sacred Phantoms Iron,eu,2,88,821,669
+707b6993-7e11-4f92-81e8-b5c581179cab,Wanderers Eternal Azure,pl,1,3355,662,126
+9593b855-7414-4b9e-83ae-9eef64d9f2f4,Emerald Unbroken Reapers,de,2,1475,310,131
+7e911955-e63a-4391-9e54-15c05290eb4e,Ancient Azure Archons,am,1,5492,140,808
+1359bff1-3b0f-47eb-803c-c44cec8a28d9,Savage Brotherhood Radiant,cz,2,3506,267,377
+71742d67-4f23-4823-bff7-6eb58bfbd232,Giants Sacred Guardians,eu,2,7877,895,437
+2cde2b18-e038-4ef9-8aa1-14a5bfcab0e1,Order Frost Serpents,hu,1,9432,648,79
+dd7fe7cb-cfb8-4055-928b-87ada99d59bc,Celestial Harbingers,de,1,2941,943,753
+f9e0db9c-e52e-46cb-b1ab-dfa692853f95,Duskrend Raiders,de,1,6252,495,320
+d1c6fedf-2812-4414-b042-7a7f7ab99163,Twilight Reapers Legion,cz,2,1154,26,378
+4a39420f-0bf1-4990-8c91-2f6b72e94d41,Shadow Keepers Serpents,eu,1,904,11,729
+461c78ca-a4ed-4b32-bbb0-08b4413475d5,Reapers Crusaders Unbroken,am,2,595,41,613
+ca0ddc9c-9614-4897-90e5-10954960bf79,Emerald Vanguard Titans,am,1,739,674,94
+4cca6302-9de4-4afc-b042-84d3ac625f11,Reapers Crusaders Crimson,am,2,4056,80,587
+eb5a44d4-b35b-4800-af7f-d6a7d5f7515f,Fury Alliance Unbroken,eu,2,2530,575,405
+3bdf886a-d23e-4e8c-81fe-74523dde9b0f,Wardens Forgotten Radiant,pl,2,9805,607,553
+331cc41b-03bc-4159-9a16-a57774080803,Chosen Titans Frost,int,1,181,836,153
+7f51220a-4b43-4e3a-9c0b-f0f36d4e134f,Lost Crusaders Obsidian,int,2,2144,963,323
+aeec9a99-faa9-4490-8f2d-35d1a3dd11a9,Vanguard Angels Mystic,int,1,7546,175,958
+276e178b-7678-4ae9-b762-2c278f0ad410,Sanguine Circle,de,1,3000,750,830
+cf9b4305-1569-4b50-932d-53eaab86cb2d,Fury Obsidian Keepers,fr,2,3732,847,865
+32caf159-3fa0-412a-b3e5-83dfd7b339b2,Lions Hunters Ancient,am,2,1786,343,372
+bd5a240b-72c2-4ba5-a757-267050b17b11,Lions Wardens Azure,am,2,7541,388,416
+df075e28-4e7e-44fe-b31c-80b4867848ab,Twilight Wanderers Titans,int,2,8256,111,91
+00429573-7da7-41c1-9a9c-50efecbca723,Silent Guardians Wolves,am,1,2952,846,754
+26207583-c3c1-4d96-bc6a-15fa3ac5bdde,Blazing Noble Knights,eu,1,6510,511,113
+ee2cd7b7-1658-4e8f-b0c3-27d48a7c4dde,Order Chosen Titans,eu,1,199,147,555
+ad0a697a-4405-4a2e-957e-178d2caa3f46,Crimson Wolves Infinite,pl,1,7193,393,680
+09cefa65-02a8-4ea8-befc-4c769fd3cd13,Mystic Savage Banshees,fr,2,5611,507,809
+1634cdd1-dfa3-4c81-a0e0-84f458eef96f,Fabled Circle Reapers,hu,1,6258,333,824
+ee502d95-efab-474a-b816-9406a1aae6d8,Astral Defenders,de,2,5226,275,37
+aef3017c-cfc1-4125-9185-f75d64ad9f01,Hunters Eternal Iron,am,2,4829,762,760
+788e8427-3f17-44cf-8341-cb34635dd50e,Crusaders Azure Sacred,int,1,2093,155,494
+828f3468-1e58-4bb7-adbe-0863c1b63120,Radiant Keepers Chosen,hu,1,9437,464,635
+c53d31eb-357b-4a1a-808b-bbc215018c98,Noble Shadow Fury,pl,2,2299,29,469
+2d030d50-e078-4ce7-878a-39fdc2fc30ac,Wraiths Serpents Infinite,eu,1,9085,902,190
+b7105359-934f-4c9a-a67f-ec9007cef35e,Lions Iron Infinite,pl,2,2960,896,422
+3a9aeae6-95ea-4292-b5dc-2653249a3398,Sentinels Emerald Archons,am,1,3078,66,457
+a4971906-e854-41df-8c85-cb1a19b0216d,Vanguard Sacred Titans,pl,2,7967,197,279
+bec19f9d-94e3-45ed-8b15-d0c7a0404e97,Wardens Iron Dragons,int,2,3889,126,50
+957d5748-8c49-43e5-a275-8e13349c2589,Fabled Obsidian Order,hu,1,2398,361,783
+cf6c81fc-db91-4436-97d0-aaf5e2963218,Emberfang Tribe,int,1,4674,961,980
+4ddd6468-9054-4f60-a11d-3d2cae8ff5a3,Obsidian Demons Chosen,cz,2,32,996,102
+9e51b37a-49d8-4127-b6ba-65da834c98c5,Hidden Banshees Wanderers,int,1,4540,746,7
+97e44387-6de3-4c57-afd4-819c83928045,Wardens Forgotten Demons,cz,1,5847,711,767
+8df58251-34a6-4b41-b564-d5602c0e6d37,Silent Order Archons,hu,2,35,547,565
+1d52b9c3-8594-4e21-b567-ec0f246a6e36,Celestial Bound Legion,cz,1,1988,85,567
+208e42bd-c960-4d21-a827-7f9ca9ed602b,Sacred Storm Wanderers,de,2,9728,101,856
+b71cef6c-c409-44c2-9f07-be8de6ab4dbf,Frost Guardians Lions,pl,2,8208,992,463
+8950b246-8aa8-4448-a4ad-f9a44e6f8ebe,Feral Ravens Brotherhood,pl,2,4775,231,831
+bd2445d7-0e40-420b-a3a7-66f4358bece2,Feral Obsidian Fury,pl,1,5245,822,606
+f6f69ceb-90ff-473b-bdf0-dc37f3e8b90d,Storm Fabled Vanguard,de,2,8916,97,255
+f484a796-6105-4969-9044-2f548b28bc28,Thunderpeak Sentinels,int,1,3209,150,817
+b1ae1b46-ee73-4676-b6f5-cdb4419851bc,Golden Unbroken Banshees,pl,2,3599,698,2
+e52a78e6-659d-4ad1-bf0e-4188e34d460b,Wanderers Ancient Angels,fr,1,8837,710,767
+e37282ab-49b0-4603-8fb7-3c70a2ab819f,Wraiths Silent Demons,hu,1,7926,655,1000
+7b4930e7-f1f4-4fa8-be87-5564fd35e328,Prime Wanderers Banshees,eu,1,2472,650,356
+589a2f84-76d0-42f7-a739-039bd11ba335,Ravens Storm Wraiths,fr,1,3484,192,413
+bb4cb80b-363a-4589-9e7a-31c1e330b4ac,Twilight Fabled Wraiths,cz,2,3804,900,474
+53d1d6dc-fad5-41cd-9e46-11485cba4ac4,Prime Dragons Crusaders,pl,1,4295,93,190
+2c3784d5-54ba-4baf-8adb-df2802e27687,Wraiths Twilight Infinite,hu,2,1992,83,669
+f18d2395-f1d6-4b68-9e5a-3d4702b771d3,Forgotten Wolves Obsidian,hu,2,2030,87,916
+f64cc140-a095-49fe-9c00-72b5ce7d2537,Wraiths Forgotten Shadow,am,2,2005,819,849
+e0e78d15-92cd-4887-b54b-044c9028c076,Serpent's Fang,am,2,9197,521,866
+7cadc7fc-f469-403a-90d4-168577bd5c5b,Legion Crimson Knights,fr,1,1091,116,31
+6ab6ea8e-1569-4c91-a27a-1ddb268c09f9,Crusaders Lost Ravens,am,2,9639,686,242
+5f3d97bf-1a27-42d7-a3c8-dd2c49d877fa,Crusaders Chosen Crimson,cz,1,7643,282,332
+fbb930aa-eeb0-43fe-bed5-9049b551cf7f,Iron Guardians Savage,int,1,2854,124,277
+5ec2765d-16cb-486a-9154-b5a18d1cfa2d,Silent Ravens Coven,eu,1,6184,437,863
+58275317-31d7-4282-861f-3ce3a7497b8e,Lions Azure Forgotten,cz,1,891,626,990
+29e25208-4d95-4e3d-8a16-3fdfa95f7c97,Blazing Ancient Titans,eu,2,6121,310,791
+aa23f228-a785-4ce4-9e1f-a390a62349bc,Coven Golden Chosen,eu,1,9736,6,204
+d5d2f8b8-7638-40af-b665-bac1e88b7317,Wardens Phantoms Silent,de,2,7751,60,504
+536d1e73-791b-4ce2-8ce4-a5566cae92c8,Golden Circle Ancient,eu,2,7680,233,326
+e3096e28-9fa2-4635-88ea-5cfb399b6cb8,Moonshadow Enclave,hu,1,414,334,75
+bc3905e2-a977-403a-a134-22c3c4a92717,Giants Wanderers Chosen,de,1,7602,554,39
+a666a68a-9f39-4252-8799-86920152a358,Forgotten Emerald Reapers,eu,2,8278,840,727
+9d1b82fe-4c5e-4586-bfc3-b16f81f5513d,Wanderers Dragons Mystic,de,1,2928,471,245
+df455f2b-3f45-417a-b3c2-759d979ccb27,Fabled Dragons Guardians,fr,2,4296,835,528
+96728405-c631-4ec9-bcdd-21567e33bd00,Lions Prime Mystic,pl,2,4432,647,76
+78cc6a99-7cea-4dd5-a04d-d0defda60dcf,Angels Unbroken Sentinels,pl,2,9547,427,515
+1f4acd6b-8382-403c-9566-a537459ff150,Demons Shadow Forgotten,eu,2,3162,591,610
+1443deff-f87c-48fd-af61-6c1f9cd29361,Giants Hidden Order,hu,2,2823,689,21
+fd16e93d-7b4f-4869-ae5f-2c99854d5656,Frost Eternal Phantoms,cz,1,6877,234,712
+0bc56c49-5b42-4c1a-a579-549bdc49c964,Serpents Brotherhood Prime,fr,1,180,576,260
+a55b665f-1f95-4eed-9891-2d6fb09bd987,Bloodmoon Hunters,hu,1,5807,627,628
+76819984-1acf-48d7-8392-f23ea94f6570,Wolves Shadow Circle,pl,1,9182,562,36
+75bb63f7-eb0f-4f5c-a13c-79b06b0ef37e,Iron Phantoms Sacred,de,1,2395,335,956
+7fe12097-80f6-4e8b-8965-db95ce03fed9,Giants Golden Crusaders,hu,1,8084,26,311
+b9fc694c-aa17-4d3b-b0cb-f9b3b1586c31,Giants Noble Azure,de,2,1560,936,744
+17d13a9c-a310-44fc-9607-198d7366b7b5,Silent Keepers Serpents,de,2,8429,226,803
+91862f26-6477-41a7-9389-23b4deae010f,Wolves Silent Sacred,cz,1,3049,473,831
+84b13496-9b92-4e0d-9d90-58ee1df8a311,Storm Bound Coven,hu,2,6160,47,602
+03dad06a-1bae-44a6-a1ba-8ef8c38d7459,Mystic Angels Wraiths,int,2,5962,75,246
+e7046923-10ea-4726-812e-ffe27956a931,Vanguard Eternal Celestial,cz,2,133,190,796
+3dd6bcf6-6252-4ed7-b496-40f0b84f27a3,Celestial Wraiths Ravens,fr,2,482,156,483
+71fcf715-7898-4bff-8d11-2a95fb82a6ba,Nova Vanguard,eu,2,9638,677,881
+e8e58e31-d96c-4b53-9aef-e04863bf9eef,Infinite Emerald Coven,int,2,8451,321,320
+08d0555e-defa-4f89-bb4d-06e8f6fbb30b,Twilight Sacred Keepers,pl,1,4882,243,714
+ab81f33d-f8ca-4d21-ac59-d7a45984eb61,Coven Giants Unbroken,am,1,9499,623,152
+93f999e9-b70a-4d7d-9407-46c311fb65d4,Brotherhood Azure Fabled,eu,2,3471,923,816
+14108422-33bd-4ca8-9113-43a0a8efdabf,Lost Alliance Reapers,de,2,7898,521,185
+ecbc79da-0b75-4e25-8674-336311df0861,Ancient Silent Brotherhood,am,2,371,346,106
+9883340a-dbad-4201-8840-705dbf60739f,Wardens Iron Feral,hu,1,4509,289,905
+39cf86f1-a550-401d-92bc-2d667c9e6ac2,Chosen Guardians Ravens,eu,2,7118,173,820
+c7bde2d2-89c1-43ac-8a69-72732ed40a1e,Archons Circle Lost,fr,1,8157,496,869
+8a2a6c14-8341-4588-840d-42724ef96875,Storm Brotherhood Fabled,int,1,3001,326,591
+ad5b11f0-4590-41e1-80e3-f752867ae702,Frostveil Order,eu,1,4528,58,837
+0b58916a-5c6b-4317-8020-9832416fec46,Banshees Storm Noble,eu,2,5744,545,63
+1944b2e2-7a8f-49c4-8f43-bb1dd3558b8d,Hunters Crimson Demons,int,1,6688,968,671
+111d8f46-c3d2-4f3c-b6eb-dac80c474910,Noble Radiant Coven,cz,1,3689,223,928
+3b3d515c-82e3-440c-8629-cbd7ab392628,Frost Archons Lost,hu,2,2216,490,471
+bc39ee10-26af-4dbd-b2cf-f9d99932a029,Wraiths Infinite Demons,hu,2,6271,655,276
+e47d6981-f6b1-4ad9-8b7b-ce98829dd48a,Vanguard Iron Fury,de,1,7291,329,805
+803e527b-f3d1-4215-919c-a21aeb0fb8e5,Crimson Circle Titans,fr,1,1534,321,984
+d69942b1-2dcc-45bb-98cf-b42976f6dae1,Mystic Titans Wanderers,int,1,7478,601,229
+ee7376ef-46fb-4cbd-bb03-7f9b34605354,Brotherhood Ravens Celestial,int,2,2204,493,160
+9f169d4c-7e15-41f6-9bad-f742205e0640,Mystic Feral Demons,int,2,8523,535,262
+656e2275-a80f-4507-a640-6e1e7a202264,Crimson Dawn Brigade,int,2,3794,332,59
+2df4e8f0-ac9f-4840-bc26-3e60f541b858,Radiant Crusade,fr,2,5432,291,938
+06863d34-ca87-47de-b0b2-036c1990a677,Keepers Azure Serpents,de,1,4983,799,781
+7395e545-329e-4a86-8c44-27375bfe8974,Blackwater Corsairs,am,2,9859,59,660
+f69df16a-86be-472e-a211-7910a69426de,Solaris Conclave,pl,1,2916,819,799
+3a253025-0dae-45e9-9ddb-412d0e81f040,Eclipse Phantoms,fr,1,9214,242,969
+470b4d53-db4c-4eca-aeb1-a8bc8e40a17a,Dragonclaw Alliance,de,2,1983,36,333
+c818d991-5450-4d52-ad6b-a20cdd947bff,Silent Tempest,cz,1,9222,25,224
+305d2a07-54df-460c-90ba-5b007fdccfa5,Warbringer Clan,eu,1,9702,311,502
+aca1623a-0b15-4d16-bc03-6e0e42621db5,Phoenix Vow,hu,2,5809,494,76
+7185b2c3-ecd3-42ae-bb66-5d1a2a98ae5e,Abyssal Legion,cz,2,939,946,216
+ddcbadca-b223-4e12-b10f-11838312ddbf,Valiant Storm,pl,2,3618,200,124
+66dd209f-bd41-4e38-a737-1949ba617d6b,Voidwalkers Syndicate,am,2,710,404,387
+ed9fe279-71d9-4b10-a1b1-9d2e25466386,Nightfall Syndicate,hu,2,8168,953,957
+7a00a8ab-257b-46eb-8155-5555b043b99f,Ironstorm Brotherhood,eu,1,9220,123,936
+3bb8b718-b254-4231-b712-8b63b2fea2e0,Celestial Dawn,hu,1,1993,680,486
+79fd8598-69b0-41be-b205-8ec1a591cfb1,Crimson Talons,de,2,3343,429,446
+33db0efc-1fcd-46bd-8c2e-49c2fd1883f3,Stormchaser Guild,eu,2,3080,684,811
+a2628fbe-0cd6-4dd0-befd-3f3380a611c4,Voidwalker Pact,cz,2,4468,138,281
+627bc3f2-b447-4d7d-875d-997bdaaca628,Eternal Flame,eu,2,5914,95,809
+5469c24f-e170-48d9-bc01-e662350ea21e,Onyx Harbingers,eu,1,9301,733,550
+c860dd3f-ec28-4a34-8c98-717da02dbeb8,Duskveil Sentinels,pl,2,9429,13,329
+6e281a3c-e8d4-4bf1-befc-065ddc881a70,Sanguine Tide,de,1,1286,206,219
+20a0bea0-0062-46c1-9b75-8d5063f4b311,Ironclad Brotherhood,cz,2,871,737,519
+365af4dc-0207-4f22-8247-2c72eee0e368,Astral Reavers,de,1,5957,842,189
+dd49debe-4616-4258-9190-b8adaf40495a,Emberstorm Collective,hu,2,1079,718,943
+7b37739d-13f3-4d00-9700-7b853a09593f,Thunderhead Marauders,de,2,4455,610,260
+97d28e97-59c1-482a-ad12-9e783fbca14c,Serpent's Wrath,hu,2,7611,942,116
+97bf8f03-0cb0-4c85-af4b-6968891bc945,Moonflare Order,eu,2,9569,469,315
+1def31c1-44bb-4356-a312-85570806eafd,Bloodthorn Vanguard,pl,2,8289,539,162
+ca44df77-18ec-439c-bb44-dfec934a62bd,Nebula Sentinels,cz,1,6546,734,430
+99a4a8d8-a461-4339-8051-a3821b893605,Frostgale Syndicate,hu,1,9441,119,632
+5bb2faab-51b4-4e19-a4f6-5364bf0d67e6,Radiant Phoenix,am,2,2966,982,681
+51408483-a298-4ce6-ab7c-e92c0d452f30,Blackscale Warband,cz,1,57,469,252
+ec49cc05-b13c-45bb-8046-8136d28656a0,Arcane Tempest,cz,1,6353,664,601
+3b4d92f0-af4c-48ab-a76e-6b3caeb7e628,Solarflare Enigma,hu,2,9271,595,831
+4e190d14-b182-4e95-b943-8cf34f9b3966,Eclipse Revenants,pl,2,5229,728,434
+021bcc70-92e8-4625-95fc-7b19174b29e8,Dragonfang Brotherhood,am,2,4952,341,396
+ca62583c-04e6-4a44-bf38-4b24059d1773,Silent Dawn,cz,2,1440,831,917
+50a226d7-2962-4a44-a0ae-f05d9cffe88d,Warborn Phoenix,hu,1,6233,179,770
+76459725-bbfe-416f-8ff6-c1e29f3850e4,Phoenix Dominion,pl,2,5215,38,777
+7860d72c-3596-49fe-886b-edb015747ad3,Abyssal Storm,cz,1,9115,886,793
+1cc9c3db-a0d5-4a56-b57b-a023084827ba,Valiant Vanguard,eu,1,8356,467,177
+650e4f6e-0d10-4d5e-8429-622a01268fa8,Nightshade Phantoms,cz,1,582,843,218
+beb77faf-33f0-499e-aad8-10e1e3153c13,Ironclad Crusaders,am,1,1037,264,943
+6b590041-65eb-46b6-8230-2976e7cd9fc4,Sapphire Sentinels,int,2,6359,450,109
+71be0821-6a89-4d89-a833-1a84fe93c183,Celestial Storm,eu,1,1889,407,334
+3d9542eb-0e7b-430b-a23d-a533ca5c8bf1,Crimson Fang,am,1,9586,608,335
+d0fb1573-9d3c-457c-a5bb-143774c0f681,Stormborn Vow,int,1,7979,540,320
+d44855bf-45a4-493e-a895-c5c6fd8ab974,Voidrend Collective,cz,1,1384,852,391
+ef772693-b366-47ba-abb3-6f9cda3be6f3,Eternal Serpents,eu,1,7812,936,49
+8831bb1d-5d28-4e05-bb08-1e4532ddd916,Onyx Tempest,pl,2,9695,654,797
+d06bb550-146b-48fe-9b77-d5ff88cc579d,Duskfall Harbingers,hu,2,2695,523,109
+42f211e4-a82e-4516-b442-a3b326868737,Sanguine Storm,de,2,5284,951,577
+dc67fce7-dc1b-4594-b2a8-d6bdae1e0ecc,Astral Vanguard,am,2,7364,771,28
+6f540ed7-dc02-4616-b1b9-1969b073e603,Emberclaw Syndicate,am,2,3242,340,324

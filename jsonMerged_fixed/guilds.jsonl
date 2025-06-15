@@ -1,0 +1,500 @@
+{"guildId":"b473f6a8-a138-47c0-a9df-dc26f9c44159","name":"Shadowborn Vanguard","world":{"region":"pl","nr":2},"glory":7508,"trainerLevel":131,"treasuryLevel":23}
+{"guildId":"4f7aef35-3b07-4e83-b399-9077c82c762c","name":"Vermilion Vow","world":{"region":"int","nr":1},"glory":555,"trainerLevel":806,"treasuryLevel":162}
+{"guildId":"930f7396-bf7f-48ca-bcb4-b2dd2ac80d39","name":"Thunderveil Order","world":{"region":"cz","nr":1},"glory":1694,"trainerLevel":790,"treasuryLevel":232}
+{"guildId":"d3832097-b193-47a6-a0c7-3d11ecac4413","name":"Blazing Demons Vanguard","world":{"region":"pl","nr":2},"glory":649,"trainerLevel":521,"treasuryLevel":877}
+{"guildId":"e1e2cb07-4510-4250-bfd3-891fb7715d80","name":"Giants Brotherhood Emerald","world":{"region":"de","nr":2},"glory":8278,"trainerLevel":421,"treasuryLevel":31}
+{"guildId":"c1f665c1-e9eb-4b16-b84b-7902f552fa79","name":"Silent Demons Vanguard","world":{"region":"de","nr":2},"glory":1671,"trainerLevel":885,"treasuryLevel":718}
+{"guildId":"0868c4e5-7adc-4678-90e3-7809dd0e95e9","name":"Phantoms Eternal Guardians","world":{"region":"hu","nr":1},"glory":4322,"trainerLevel":888,"treasuryLevel":171}
+{"guildId":"92eeee14-f354-41a5-84a5-9301363f7fa4","name":"Circle Unbroken Demons","world":{"region":"fr","nr":2},"glory":2949,"trainerLevel":998,"treasuryLevel":855}
+{"guildId":"a5f02902-bbfe-46d0-a1b1-1b8c687798a1","name":"Feral Demons Order","world":{"region":"pl","nr":1},"glory":4778,"trainerLevel":934,"treasuryLevel":32}
+{"guildId":"14dc52f4-dc8c-486e-9228-e2a25d824bd0","name":"Mystic Ancient Lions","world":{"region":"eu","nr":1},"glory":5026,"trainerLevel":78,"treasuryLevel":669}
+{"guildId":"dbc66fc1-e413-4726-88b9-989fd2b3e589","name":"Angels Sacred Guardians","world":{"region":"eu","nr":2},"glory":5081,"trainerLevel":226,"treasuryLevel":509}
+{"guildId":"f7e9117f-7265-46d5-903c-65d5507ddcb5","name":"Wardens Twilight Wolves","world":{"region":"cz","nr":2},"glory":4879,"trainerLevel":241,"treasuryLevel":647}
+{"guildId":"dc5f7602-0ef8-4751-b093-7412f6ce56dd","name":"Stormforge Legion","world":{"region":"fr","nr":2},"glory":3796,"trainerLevel":722,"treasuryLevel":334}
+{"guildId":"1f0506bf-7be0-4906-b863-1a98f0d3ecfb","name":"Radiant Demons Lost","world":{"region":"de","nr":2},"glory":539,"trainerLevel":592,"treasuryLevel":442}
+{"guildId":"be48c3c4-fd60-42d0-9f34-dfd76e7c605d","name":"Ravens Forgotten Wardens","world":{"region":"eu","nr":1},"glory":9145,"trainerLevel":656,"treasuryLevel":142}
+{"guildId":"e672f977-cbf6-4fb0-99bf-08f7bc502aa4","name":"Mystic Prime Guardians","world":{"region":"int","nr":1},"glory":332,"trainerLevel":659,"treasuryLevel":874}
+{"guildId":"82689639-2f89-44a3-a560-57fb34a196f5","name":"Savage Dragons Emerald","world":{"region":"cz","nr":1},"glory":8833,"trainerLevel":496,"treasuryLevel":595}
+{"guildId":"7f324e54-ae5f-4253-957b-32a6f6d82ff9","name":"Order Forgotten Lions","world":{"region":"fr","nr":1},"glory":7244,"trainerLevel":767,"treasuryLevel":229}
+{"guildId":"36bd7177-112e-4660-b5b5-b3826f65d20f","name":"Archons Twilight Wanderers","world":{"region":"cz","nr":1},"glory":9063,"trainerLevel":684,"treasuryLevel":793}
+{"guildId":"9ab784ee-0086-44d1-ae0b-dea8d76df858","name":"Forgotten Lions Circle","world":{"region":"hu","nr":1},"glory":9080,"trainerLevel":858,"treasuryLevel":401}
+{"guildId":"7d12b38d-52ef-4fe1-ad11-b14fcccaea32","name":"Guardians Archons Lost","world":{"region":"cz","nr":2},"glory":2153,"trainerLevel":919,"treasuryLevel":974}
+{"guildId":"e8e38f40-7316-42e2-9199-b155ed684824","name":"Wardens Azure Unbroken","world":{"region":"am","nr":1},"glory":6680,"trainerLevel":659,"treasuryLevel":341}
+{"guildId":"c4cc057a-da3d-4630-8eb0-c0d315e8861b","name":"Prime Sentinels Lions","world":{"region":"cz","nr":1},"glory":2778,"trainerLevel":711,"treasuryLevel":308}
+{"guildId":"02da254d-bd0c-43bb-88fe-29491845b31b","name":"Duskfall Collective","world":{"region":"cz","nr":2},"glory":3153,"trainerLevel":472,"treasuryLevel":133}
+{"guildId":"35b4ca09-c7d6-484e-b492-4618b64d5acc","name":"Knights Alliance Storm","world":{"region":"int","nr":2},"glory":256,"trainerLevel":5,"treasuryLevel":61}
+{"guildId":"7ab8d2b3-3b03-46c7-aaf3-4c3b82b59fd8","name":"Storm Titans Hidden","world":{"region":"pl","nr":1},"glory":5537,"trainerLevel":757,"treasuryLevel":66}
+{"guildId":"3019b187-0380-4fe3-834f-c567a2171ad4","name":"Angels Brotherhood Golden","world":{"region":"am","nr":2},"glory":4231,"trainerLevel":878,"treasuryLevel":582}
+{"guildId":"d6bdfd0c-bf2a-4d06-b61b-5f5d6dada979","name":"Fury Frost Vanguard","world":{"region":"am","nr":2},"glory":2189,"trainerLevel":233,"treasuryLevel":801}
+{"guildId":"16d252ee-fea5-4b37-a59a-2b3b9c39f613","name":"Circle Unbroken Banshees","world":{"region":"am","nr":1},"glory":199,"trainerLevel":786,"treasuryLevel":937}
+{"guildId":"157ed812-6397-4e8c-bb95-63a55e556b39","name":"Reapers Mystic Guardians","world":{"region":"de","nr":1},"glory":8392,"trainerLevel":261,"treasuryLevel":566}
+{"guildId":"96307a5a-9f24-4503-86df-2831e0a05c84","name":"Ravens Crimson Alliance","world":{"region":"pl","nr":2},"glory":1277,"trainerLevel":184,"treasuryLevel":879}
+{"guildId":"875126e1-6d40-4342-a536-4dfa507c36fb","name":"Titans Guardians Ancient","world":{"region":"cz","nr":1},"glory":8818,"trainerLevel":231,"treasuryLevel":904}
+{"guildId":"baa481c7-6e77-4435-a937-dcde1b09e408","name":"Celestial Feral Hunters","world":{"region":"pl","nr":2},"glory":3970,"trainerLevel":526,"treasuryLevel":578}
+{"guildId":"a581588e-ab60-4a7e-9e27-01e67cff1c2b","name":"Infinite Serpents Obsidian","world":{"region":"fr","nr":2},"glory":4919,"trainerLevel":111,"treasuryLevel":36}
+{"guildId":"030f0ed1-fc30-45d8-b4a2-95efb56f70a1","name":"Onyx Dragons","world":{"region":"pl","nr":1},"glory":627,"trainerLevel":217,"treasuryLevel":617}
+{"guildId":"9bfbc8a4-ae4e-4dc7-a940-1fd9cbb18af4","name":"Demons Eternal Golden","world":{"region":"fr","nr":2},"glory":7836,"trainerLevel":99,"treasuryLevel":404}
+{"guildId":"0162271d-fb38-4783-a525-eafe333e42c1","name":"Silent Angels Fabled","world":{"region":"cz","nr":2},"glory":582,"trainerLevel":700,"treasuryLevel":348}
+{"guildId":"0c129da6-3fcd-4af5-bcdd-df5ab113c754","name":"Azure Dragons Order","world":{"region":"hu","nr":1},"glory":9781,"trainerLevel":743,"treasuryLevel":117}
+{"guildId":"65654108-9093-477f-8d53-4d9cd0f86db1","name":"Giants Radiant Crusaders","world":{"region":"de","nr":2},"glory":6067,"trainerLevel":481,"treasuryLevel":322}
+{"guildId":"09d56fde-5aa3-4e6c-885e-62eb5dd889f9","name":"Hidden Titans Storm","world":{"region":"de","nr":1},"glory":8065,"trainerLevel":652,"treasuryLevel":145}
+{"guildId":"93b00b00-41ee-4414-958a-e41b66b07165","name":"Sentinels Serpents Chosen","world":{"region":"am","nr":2},"glory":4420,"trainerLevel":535,"treasuryLevel":151}
+{"guildId":"e4e2b547-2c40-4215-bc0d-281e5f1226fd","name":"Circle Forgotten Emerald","world":{"region":"hu","nr":1},"glory":5026,"trainerLevel":220,"treasuryLevel":653}
+{"guildId":"0106f00c-f37f-4841-817a-edfa772c2782","name":"Fabled Brotherhood Reapers","world":{"region":"fr","nr":1},"glory":4938,"trainerLevel":70,"treasuryLevel":118}
+{"guildId":"65b4cfd6-8e66-412e-8c24-7568bb8c548b","name":"Infinite Twilight Sentinels","world":{"region":"am","nr":2},"glory":4519,"trainerLevel":295,"treasuryLevel":354}
+{"guildId":"0ea8a978-5fa5-4963-b19b-3a7f3b23ee1b","name":"Infinite Circle Storm","world":{"region":"hu","nr":1},"glory":9673,"trainerLevel":925,"treasuryLevel":489}
+{"guildId":"73848946-05eb-4453-b5ca-3245de5c1967","name":"Astral Crusaders","world":{"region":"cz","nr":2},"glory":4656,"trainerLevel":45,"treasuryLevel":244}
+{"guildId":"a654f375-a88c-49b5-b8fb-0d5ce0aa9fe0","name":"Celestial Savage Keepers","world":{"region":"de","nr":1},"glory":9347,"trainerLevel":66,"treasuryLevel":978}
+{"guildId":"eeab0d65-688b-4a2c-8499-01210ccfecf6","name":"Mystic Order Wolves","world":{"region":"fr","nr":1},"glory":5610,"trainerLevel":53,"treasuryLevel":910}
+{"guildId":"ceaa94e0-82d2-4b8a-ad9c-cbd8fda76029","name":"Guardians Golden Archons","world":{"region":"int","nr":2},"glory":1664,"trainerLevel":817,"treasuryLevel":519}
+{"guildId":"a71d83f9-6eeb-4b78-8736-12c23ead735b","name":"Blazing Wraiths Unbroken","world":{"region":"int","nr":1},"glory":637,"trainerLevel":510,"treasuryLevel":977}
+{"guildId":"449f3ad6-c1db-4417-be4e-e35b960a8bbe","name":"Sacred Storm Crusaders","world":{"region":"eu","nr":2},"glory":4249,"trainerLevel":325,"treasuryLevel":711}
+{"guildId":"f52a1d15-4ee0-4090-a34b-3d2157229b28","name":"Coven Ravens Shadow","world":{"region":"am","nr":2},"glory":8271,"trainerLevel":278,"treasuryLevel":323}
+{"guildId":"b2f653ed-39a9-4066-92f4-1519a9fab4db","name":"Archons Fabled Golden","world":{"region":"pl","nr":1},"glory":4828,"trainerLevel":447,"treasuryLevel":178}
+{"guildId":"d88391a1-055c-4574-897d-82e536c8c711","name":"Fury Lost Order","world":{"region":"int","nr":2},"glory":9928,"trainerLevel":181,"treasuryLevel":619}
+{"guildId":"276ef103-5157-470a-ba0b-12b30429897d","name":"Ancient Banshees Keepers","world":{"region":"pl","nr":2},"glory":3106,"trainerLevel":331,"treasuryLevel":62}
+{"guildId":"561bdce1-838b-4b04-aeea-9fcfe6a33026","name":"Silent Bound Fury","world":{"region":"int","nr":2},"glory":2801,"trainerLevel":141,"treasuryLevel":816}
+{"guildId":"1aa814a5-7fa0-45d7-adbf-564af6c0c4ed","name":"Emberborn Pact","world":{"region":"pl","nr":2},"glory":2891,"trainerLevel":521,"treasuryLevel":916}
+{"guildId":"5bf30f6d-2780-4728-af02-9ccc046c23f9","name":"Titans Hidden Brotherhood","world":{"region":"int","nr":2},"glory":2185,"trainerLevel":827,"treasuryLevel":101}
+{"guildId":"868f7667-cec6-481b-b3b8-68873c54d9d2","name":"Keepers Wolves Mystic","world":{"region":"de","nr":1},"glory":6203,"trainerLevel":26,"treasuryLevel":576}
+{"guildId":"dbbbc2df-16dd-479a-a61d-f943065f7986","name":"Blazing Crusaders Demons","world":{"region":"cz","nr":2},"glory":7649,"trainerLevel":236,"treasuryLevel":815}
+{"guildId":"cb7d3e28-0805-4cb2-a037-ad1c816718c8","name":"Ancient Hunters Dragons","world":{"region":"pl","nr":2},"glory":6233,"trainerLevel":917,"treasuryLevel":725}
+{"guildId":"6b638241-5583-4b30-9dce-0a489e684e63","name":"Giants Radiant Savage","world":{"region":"hu","nr":2},"glory":8359,"trainerLevel":469,"treasuryLevel":206}
+{"guildId":"958737ce-0955-4761-9caa-aee8fc1235f7","name":"Forgotten Silent Order","world":{"region":"int","nr":2},"glory":7281,"trainerLevel":712,"treasuryLevel":446}
+{"guildId":"fa03fdb4-ccc2-416d-b6d4-458e952b55f0","name":"Blazing Hidden Vanguard","world":{"region":"am","nr":2},"glory":3294,"trainerLevel":91,"treasuryLevel":138}
+{"guildId":"eb332d83-e654-4f5e-819d-2bd919854b32","name":"Giants Unbroken Alliance","world":{"region":"fr","nr":2},"glory":9926,"trainerLevel":757,"treasuryLevel":717}
+{"guildId":"60a78025-6ede-4900-aa71-9783bb774249","name":"Vanguard Infinite Giants","world":{"region":"cz","nr":1},"glory":1603,"trainerLevel":260,"treasuryLevel":412}
+{"guildId":"23c56cda-7c47-4304-bf69-808d09a3bbdf","name":"Hunters Reapers Hidden","world":{"region":"cz","nr":1},"glory":7625,"trainerLevel":858,"treasuryLevel":69}
+{"guildId":"05339fae-fd09-46fb-80d8-4c99bb6f5de2","name":"Thunderwolf Clan","world":{"region":"cz","nr":2},"glory":3198,"trainerLevel":689,"treasuryLevel":61}
+{"guildId":"51114727-90fb-4020-a730-b9c7f3665a53","name":"Fabled Hunters Ravens","world":{"region":"am","nr":1},"glory":352,"trainerLevel":772,"treasuryLevel":999}
+{"guildId":"21ca5c13-507d-460c-a716-8face60ae0ce","name":"Banshees Forgotten Golden","world":{"region":"de","nr":1},"glory":9376,"trainerLevel":241,"treasuryLevel":742}
+{"guildId":"155001b3-23f8-4451-9fab-f557cd02148f","name":"Prime Reapers Crimson","world":{"region":"de","nr":1},"glory":4598,"trainerLevel":974,"treasuryLevel":884}
+{"guildId":"c93bf50d-9391-49b2-aced-17a1f440c6b3","name":"Lions Celestial Prime","world":{"region":"hu","nr":2},"glory":9923,"trainerLevel":306,"treasuryLevel":828}
+{"guildId":"66fd3614-93cc-4c30-aade-e2925862efd2","name":"Noble Order Serpents","world":{"region":"de","nr":2},"glory":1448,"trainerLevel":321,"treasuryLevel":798}
+{"guildId":"a2af290f-2921-4828-881a-81afb90c1686","name":"Prime Vanguard Demons","world":{"region":"cz","nr":2},"glory":2875,"trainerLevel":267,"treasuryLevel":54}
+{"guildId":"f09e5dbb-a858-4f8e-b220-3341a501d431","name":"Guardians Wolves Infinite","world":{"region":"am","nr":1},"glory":5586,"trainerLevel":612,"treasuryLevel":979}
+{"guildId":"44f54584-ab8f-4a79-9cd9-7589cf543bba","name":"Serpents Feral Keepers","world":{"region":"pl","nr":1},"glory":197,"trainerLevel":884,"treasuryLevel":218}
+{"guildId":"d96d5f2d-51e1-4d31-b342-6bf9c1dd9767","name":"Frost Prime Ravens","world":{"region":"am","nr":1},"glory":6694,"trainerLevel":830,"treasuryLevel":365}
+{"guildId":"f7d8d57a-4826-42c3-8621-adcde351687d","name":"Crusaders Chosen Fury","world":{"region":"hu","nr":2},"glory":1046,"trainerLevel":770,"treasuryLevel":937}
+{"guildId":"ce4b56ca-668a-4255-8ab2-e170c2610a83","name":"Serpent\u0027s Kiss","world":{"region":"hu","nr":1},"glory":2533,"trainerLevel":193,"treasuryLevel":684}
+{"guildId":"0f80c4de-7ef3-437f-8528-542e88eba36a","name":"Fabled Phantoms Coven","world":{"region":"eu","nr":2},"glory":846,"trainerLevel":834,"treasuryLevel":572}
+{"guildId":"cade1908-0f84-43fb-9238-e682cf756690","name":"Silent Sacred Archons","world":{"region":"cz","nr":2},"glory":7099,"trainerLevel":595,"treasuryLevel":796}
+{"guildId":"a2c384cd-737f-445d-9370-145327b334c6","name":"Noble Obsidian Reapers","world":{"region":"fr","nr":1},"glory":5636,"trainerLevel":190,"treasuryLevel":803}
+{"guildId":"f2831c0c-46ae-41ca-adf8-13155116e4d5","name":"Wraiths Golden Archons","world":{"region":"am","nr":2},"glory":6732,"trainerLevel":852,"treasuryLevel":100}
+{"guildId":"5013ad54-5261-43e3-86d6-596655bf5617","name":"Demons Azure Wanderers","world":{"region":"eu","nr":1},"glory":2985,"trainerLevel":637,"treasuryLevel":781}
+{"guildId":"64fe9a2d-4d65-4170-b06b-33fd5c447087","name":"Celestial Savage Circle","world":{"region":"int","nr":2},"glory":592,"trainerLevel":879,"treasuryLevel":361}
+{"guildId":"5a6c44ff-359e-42df-ade8-4858b263e8a8","name":"Legion Fury Eternal","world":{"region":"eu","nr":1},"glory":3885,"trainerLevel":221,"treasuryLevel":622}
+{"guildId":"ebac3c84-7976-446b-9704-8f3856f52d59","name":"Sentinels Knights Prime","world":{"region":"fr","nr":1},"glory":6197,"trainerLevel":557,"treasuryLevel":214}
+{"guildId":"bbde33fe-1a00-4fa5-b012-6396f7a24ecb","name":"Ravens Bound Guardians","world":{"region":"fr","nr":1},"glory":2885,"trainerLevel":347,"treasuryLevel":971}
+{"guildId":"f78f069b-d163-474b-801b-eb38e836c1b4","name":"Storm Sentinels Unbroken","world":{"region":"pl","nr":2},"glory":7821,"trainerLevel":835,"treasuryLevel":991}
+{"guildId":"6d706fc5-1e0b-409c-89ce-3f8ce74d9c3d","name":"Moonlight Vanguard","world":{"region":"de","nr":1},"glory":3093,"trainerLevel":418,"treasuryLevel":323}
+{"guildId":"83cd7cc9-558c-474b-a726-fd44c6ff0eca","name":"Alliance Eternal Reapers","world":{"region":"cz","nr":2},"glory":75,"trainerLevel":181,"treasuryLevel":284}
+{"guildId":"fa77928b-9762-4061-842d-b58eca9d0712","name":"Angels Coven Shadow","world":{"region":"pl","nr":1},"glory":3393,"trainerLevel":134,"treasuryLevel":343}
+{"guildId":"c0992e25-0769-494d-a0a7-b6e1ff2aa4e0","name":"Sentinels Obsidian Prime","world":{"region":"eu","nr":2},"glory":3983,"trainerLevel":75,"treasuryLevel":259}
+{"guildId":"8c8e8568-4078-4031-acfa-f2c6b3f39fe6","name":"Blazing Chosen Lions","world":{"region":"int","nr":2},"glory":7564,"trainerLevel":463,"treasuryLevel":506}
+{"guildId":"5fa76018-a9cb-4b76-9e03-67756dcb618c","name":"Fabled Mystic Wanderers","world":{"region":"de","nr":2},"glory":1148,"trainerLevel":529,"treasuryLevel":104}
+{"guildId":"b7e9ff48-4de5-4344-9624-a505bfb2f2f9","name":"Lions Radiant Infinite","world":{"region":"am","nr":1},"glory":279,"trainerLevel":584,"treasuryLevel":224}
+{"guildId":"5212d81b-8a34-432c-87d9-d7525aeb45df","name":"Keepers Twilight Ravens","world":{"region":"am","nr":1},"glory":9554,"trainerLevel":111,"treasuryLevel":274}
+{"guildId":"7d924f6d-b703-4fdd-b3d6-bb1fa287ccfc","name":"Order Infinite Iron","world":{"region":"de","nr":1},"glory":6890,"trainerLevel":467,"treasuryLevel":344}
+{"guildId":"dd3c4caf-d4ea-48eb-bf92-595c1f6cb6be","name":"Storm Vanguard Phantoms","world":{"region":"eu","nr":2},"glory":2288,"trainerLevel":5,"treasuryLevel":324}
+{"guildId":"3eb97814-aca4-4ce2-87d7-a43792d2196b","name":"Hunters Fabled Golden","world":{"region":"fr","nr":2},"glory":8013,"trainerLevel":756,"treasuryLevel":923}
+{"guildId":"b6437769-bca6-4555-8a27-5b77c7fac5d0","name":"Bloodstone Marauders","world":{"region":"pl","nr":1},"glory":4939,"trainerLevel":9,"treasuryLevel":968}
+{"guildId":"a617ca78-673f-403c-9586-91a8a0f6a77d","name":"Eternal Reapers Vanguard","world":{"region":"cz","nr":1},"glory":7448,"trainerLevel":858,"treasuryLevel":316}
+{"guildId":"c66078af-6de7-4976-b8f9-70bfba71b7df","name":"Unbroken Titans Keepers","world":{"region":"eu","nr":1},"glory":2434,"trainerLevel":639,"treasuryLevel":162}
+{"guildId":"12e331a7-9181-4219-981c-4d9f777628aa","name":"Shadow Serpents Wanderers","world":{"region":"eu","nr":2},"glory":3833,"trainerLevel":243,"treasuryLevel":775}
+{"guildId":"7c1e0159-3ae9-4f90-bc55-d4a2901d50d2","name":"Banshees Golden Alliance","world":{"region":"int","nr":2},"glory":3113,"trainerLevel":882,"treasuryLevel":824}
+{"guildId":"a9fa38a4-2344-459e-bac5-6789798957ca","name":"Knights Hidden Legion","world":{"region":"eu","nr":1},"glory":1559,"trainerLevel":838,"treasuryLevel":17}
+{"guildId":"ede5abac-46a7-43d5-8378-5eb12c6d9bf3","name":"Twilight Angels Bound","world":{"region":"hu","nr":1},"glory":6687,"trainerLevel":316,"treasuryLevel":289}
+{"guildId":"237d777b-53ca-4833-afbb-1cd17293c0b5","name":"Hunters Blazing Eternal","world":{"region":"cz","nr":2},"glory":2382,"trainerLevel":803,"treasuryLevel":718}
+{"guildId":"40d41b8c-0cc1-4d5a-88cb-5e2aa8d9a625","name":"Golden Sentinels Giants","world":{"region":"int","nr":1},"glory":9776,"trainerLevel":228,"treasuryLevel":674}
+{"guildId":"7f87609e-a111-472a-b37d-d0de3c19e603","name":"Circle Demons Lost","world":{"region":"pl","nr":2},"glory":4661,"trainerLevel":550,"treasuryLevel":732}
+{"guildId":"072954c4-98a5-4e92-8140-3911f709895f","name":"Radiant Titans Wanderers","world":{"region":"eu","nr":2},"glory":2172,"trainerLevel":892,"treasuryLevel":968}
+{"guildId":"c8572cc5-67ec-43f8-b33e-9791e5a08322","name":"Eternal Phoenix Order","world":{"region":"int","nr":2},"glory":4944,"trainerLevel":161,"treasuryLevel":559}
+{"guildId":"563a3d3e-9b61-45d0-a9aa-a4993861ffc9","name":"Nebula Reapers","world":{"region":"fr","nr":2},"glory":8761,"trainerLevel":61,"treasuryLevel":943}
+{"guildId":"bddb151a-f2ad-4476-abc4-c0fbe6ff89cf","name":"Eternal Crusaders Phantoms","world":{"region":"cz","nr":1},"glory":6717,"trainerLevel":379,"treasuryLevel":145}
+{"guildId":"f4e9074e-4643-4da3-a950-8b6dffab4ecf","name":"Hidden Order Titans","world":{"region":"int","nr":2},"glory":8334,"trainerLevel":529,"treasuryLevel":919}
+{"guildId":"89f39192-91a2-4b12-a475-fa01c7dd3e84","name":"Storm Serpents Wanderers","world":{"region":"de","nr":2},"glory":8066,"trainerLevel":938,"treasuryLevel":53}
+{"guildId":"7abb39aa-55c4-4116-9b60-6d10c43d8882","name":"Noble Titans Keepers","world":{"region":"int","nr":1},"glory":8657,"trainerLevel":607,"treasuryLevel":792}
+{"guildId":"fb055756-d504-41a9-bd8a-e20d6d00497c","name":"Twilight Reapers Feral","world":{"region":"cz","nr":1},"glory":6945,"trainerLevel":3,"treasuryLevel":916}
+{"guildId":"ad66c00c-ccb5-4384-8a31-9d92978ce3fa","name":"Ancient Celestial Keepers","world":{"region":"hu","nr":1},"glory":9010,"trainerLevel":216,"treasuryLevel":680}
+{"guildId":"d9b4e583-15ad-43b1-aa46-e683c0fff62f","name":"Titans Emerald Hidden","world":{"region":"de","nr":1},"glory":8210,"trainerLevel":301,"treasuryLevel":545}
+{"guildId":"ebe1e040-78d8-403a-92a9-fb61fc8d500f","name":"Radiant Wardens Phantoms","world":{"region":"cz","nr":1},"glory":2497,"trainerLevel":272,"treasuryLevel":175}
+{"guildId":"94491c9a-ccb4-426e-b89c-c63322295146","name":"Vanguard Ravens Frost","world":{"region":"int","nr":1},"glory":3616,"trainerLevel":368,"treasuryLevel":755}
+{"guildId":"6234bed6-54fe-43bc-899e-5d82bce8b504","name":"Order Wolves Feral","world":{"region":"de","nr":1},"glory":3377,"trainerLevel":102,"treasuryLevel":917}
+{"guildId":"3b5819aa-3940-4374-a0ab-e4a8e6189d1f","name":"Frostbane Covenant","world":{"region":"am","nr":2},"glory":5788,"trainerLevel":949,"treasuryLevel":844}
+{"guildId":"b2e93279-2483-4697-a818-35070b00d070","name":"Angels Brotherhood Twilight","world":{"region":"cz","nr":2},"glory":2053,"trainerLevel":249,"treasuryLevel":465}
+{"guildId":"fc7f1752-fce1-407b-a292-c2fb269f771f","name":"Blazing Crusaders Fury","world":{"region":"cz","nr":2},"glory":4791,"trainerLevel":847,"treasuryLevel":803}
+{"guildId":"e9e37693-7bac-4486-900f-1ec5af18296a","name":"Shadow Sentinels Savage","world":{"region":"int","nr":1},"glory":1863,"trainerLevel":822,"treasuryLevel":255}
+{"guildId":"1cc5ad78-958b-4667-880c-917b949fd5f2","name":"Bound Radiant Reapers","world":{"region":"int","nr":2},"glory":1338,"trainerLevel":207,"treasuryLevel":597}
+{"guildId":"db641596-9bbf-43ac-8fb7-3f154fc4256b","name":"Chosen Obsidian Titans","world":{"region":"int","nr":2},"glory":5512,"trainerLevel":442,"treasuryLevel":353}
+{"guildId":"571e4e92-f4a2-4524-ad25-a8c0b568fcc0","name":"Silent Hidden Wolves","world":{"region":"am","nr":1},"glory":700,"trainerLevel":647,"treasuryLevel":112}
+{"guildId":"6ae4948f-2beb-41aa-a6cc-f0923116630d","name":"Radiant Vanguard Archons","world":{"region":"int","nr":1},"glory":8922,"trainerLevel":892,"treasuryLevel":135}
+{"guildId":"64314be5-c59a-4ce6-b29c-d334d71953e9","name":"Angels Wardens Feral","world":{"region":"int","nr":1},"glory":5051,"trainerLevel":949,"treasuryLevel":974}
+{"guildId":"dfdcdbe6-9855-49b5-be9e-43c9f518ad0d","name":"Crusaders Giants Prime","world":{"region":"de","nr":1},"glory":4982,"trainerLevel":973,"treasuryLevel":16}
+{"guildId":"8ef0fedb-7bf7-41b1-a630-f27bf9096db4","name":"Wardens Blazing Knights","world":{"region":"am","nr":2},"glory":9544,"trainerLevel":60,"treasuryLevel":801}
+{"guildId":"035243eb-598a-44b6-8e52-36582e906255","name":"Radiant Dawn","world":{"region":"int","nr":1},"glory":2813,"trainerLevel":455,"treasuryLevel":969}
+{"guildId":"5d7005bb-aadb-4f9a-9f44-01e2ae32ca07","name":"Crusaders Banshees Golden","world":{"region":"fr","nr":1},"glory":1404,"trainerLevel":868,"treasuryLevel":706}
+{"guildId":"a95e0a2f-3925-4d6c-941c-347605a9cda8","name":"Order Iron Noble","world":{"region":"cz","nr":2},"glory":2254,"trainerLevel":808,"treasuryLevel":505}
+{"guildId":"11e6aab3-744d-4f21-b8ed-65aeb3286fa3","name":"Emerald Wolves Hunters","world":{"region":"int","nr":2},"glory":4620,"trainerLevel":986,"treasuryLevel":9}
+{"guildId":"2c4547a7-3b4a-4d80-ae68-4ae793aee13c","name":"Crimson Angels Wraiths","world":{"region":"int","nr":2},"glory":1064,"trainerLevel":195,"treasuryLevel":669}
+{"guildId":"968fcb25-5936-4bb7-b679-679fe822d119","name":"Crusaders Infinite Frost","world":{"region":"int","nr":1},"glory":5360,"trainerLevel":865,"treasuryLevel":283}
+{"guildId":"8b9dff61-b9ca-46a0-8d91-89d27a95aace","name":"Angels Hidden Radiant","world":{"region":"cz","nr":1},"glory":4668,"trainerLevel":645,"treasuryLevel":581}
+{"guildId":"a0cd8760-26f3-4a68-a23f-965282779ffc","name":"Bound Phantoms Radiant","world":{"region":"de","nr":2},"glory":6874,"trainerLevel":831,"treasuryLevel":64}
+{"guildId":"c3baf446-5186-4cc6-a26b-3e13a14e71d6","name":"Blazing Circle Dragons","world":{"region":"eu","nr":2},"glory":9123,"trainerLevel":501,"treasuryLevel":464}
+{"guildId":"e963187d-59c4-4e51-8de8-f42dac2095b3","name":"Archons Infinite Coven","world":{"region":"de","nr":1},"glory":6789,"trainerLevel":397,"treasuryLevel":22}
+{"guildId":"62a2608b-93b5-4efe-800f-4c27ff82813d","name":"Savage Ravens Emerald","world":{"region":"int","nr":1},"glory":8035,"trainerLevel":615,"treasuryLevel":340}
+{"guildId":"d5969bac-0bed-40e5-8dbf-2db14416be5b","name":"Blackthorn Society","world":{"region":"am","nr":2},"glory":3316,"trainerLevel":710,"treasuryLevel":830}
+{"guildId":"19329ea0-0aaf-4164-9523-078f3a11a10d","name":"Hidden Crimson Angels","world":{"region":"de","nr":2},"glory":3322,"trainerLevel":93,"treasuryLevel":846}
+{"guildId":"44856f80-4b27-491e-9f95-e54602235f28","name":"Frost Angels Bound","world":{"region":"fr","nr":1},"glory":3682,"trainerLevel":432,"treasuryLevel":670}
+{"guildId":"2df18424-5780-46d3-af7a-271be72d00c1","name":"Ravens Crusaders Bound","world":{"region":"pl","nr":1},"glory":7502,"trainerLevel":596,"treasuryLevel":546}
+{"guildId":"74966664-b981-4e80-801c-62c6075123e2","name":"Brotherhood Storm Demons","world":{"region":"am","nr":2},"glory":2371,"trainerLevel":22,"treasuryLevel":795}
+{"guildId":"5eedd030-b73e-4826-bf61-1eae85da98f3","name":"Feral Lions Sentinels","world":{"region":"fr","nr":2},"glory":5428,"trainerLevel":64,"treasuryLevel":282}
+{"guildId":"2833b837-0a22-46f0-9d83-8b9384ad1bf5","name":"Unbroken Titans Twilight","world":{"region":"cz","nr":2},"glory":9502,"trainerLevel":210,"treasuryLevel":86}
+{"guildId":"3ef336f2-82a6-4b66-9470-d4638e8bd837","name":"Azure Wardens Demons","world":{"region":"int","nr":1},"glory":7932,"trainerLevel":704,"treasuryLevel":461}
+{"guildId":"5b39e40a-a574-4fc2-9e4c-d44dc4d681d7","name":"Radiant Alliance Reapers","world":{"region":"fr","nr":1},"glory":5320,"trainerLevel":814,"treasuryLevel":714}
+{"guildId":"687f6361-8fe6-4958-9d24-6a59abcba01a","name":"Frost Feral Circle","world":{"region":"hu","nr":2},"glory":9910,"trainerLevel":985,"treasuryLevel":884}
+{"guildId":"37fb2a49-d00e-4a89-98a4-02c426e37e84","name":"Lions Hunters Eternal","world":{"region":"de","nr":2},"glory":6598,"trainerLevel":95,"treasuryLevel":675}
+{"guildId":"5aeff0e4-bfc5-4305-8a62-cf53381596a8","name":"Solar Flare Syndicate","world":{"region":"cz","nr":1},"glory":411,"trainerLevel":76,"treasuryLevel":469}
+{"guildId":"78bd8f02-5813-473b-840b-6854aeb3a5cc","name":"Phantoms Storm Infinite","world":{"region":"eu","nr":2},"glory":9001,"trainerLevel":945,"treasuryLevel":984}
+{"guildId":"13a7f786-6030-4de0-bb6e-79d6a7b7f7e3","name":"Sacred Shadow Wardens","world":{"region":"pl","nr":2},"glory":9921,"trainerLevel":386,"treasuryLevel":977}
+{"guildId":"53bd49de-4b45-42d1-aa70-674dc95e1a61","name":"Reapers Feral Coven","world":{"region":"eu","nr":1},"glory":3228,"trainerLevel":133,"treasuryLevel":98}
+{"guildId":"e7c0f908-594f-4f68-a98a-5c53ee13ff25","name":"Lost Angels Brotherhood","world":{"region":"de","nr":2},"glory":6761,"trainerLevel":197,"treasuryLevel":650}
+{"guildId":"607f9d3b-ef06-48e1-9cd6-e48dd4a11637","name":"Fury Ancient Crusaders","world":{"region":"hu","nr":1},"glory":5234,"trainerLevel":1,"treasuryLevel":252}
+{"guildId":"a63281b2-37e7-4dc8-9d9d-c5cbe694488b","name":"Feral Demons Emerald","world":{"region":"int","nr":1},"glory":7903,"trainerLevel":806,"treasuryLevel":184}
+{"guildId":"c3ece589-031e-4da4-8646-e5467655db7f","name":"Shadow Demons Brotherhood","world":{"region":"fr","nr":1},"glory":1000,"trainerLevel":82,"treasuryLevel":463}
+{"guildId":"36865c18-2a6c-4b1b-affd-ca76c528c07d","name":"Silent Noble Titans","world":{"region":"cz","nr":2},"glory":1571,"trainerLevel":452,"treasuryLevel":379}
+{"guildId":"8237246a-e74a-46ed-bf46-dbc8dbd1489a","name":"Circle Archons Twilight","world":{"region":"hu","nr":2},"glory":7333,"trainerLevel":494,"treasuryLevel":959}
+{"guildId":"d9187c69-1cbe-4f55-903e-5e4e9424b28f","name":"Sacred Storm Legion","world":{"region":"am","nr":2},"glory":4046,"trainerLevel":927,"treasuryLevel":88}
+{"guildId":"2f5c0c03-9f0a-43dd-b472-dbec0c4ed8de","name":"Eclipse Wanderers","world":{"region":"fr","nr":2},"glory":5270,"trainerLevel":977,"treasuryLevel":669}
+{"guildId":"6d3f8898-a6b1-4bd8-8216-46edef2b1d03","name":"Guardians Crimson Reapers","world":{"region":"eu","nr":2},"glory":9649,"trainerLevel":152,"treasuryLevel":831}
+{"guildId":"f7298c23-5364-43ad-aa3a-156a37b4b055","name":"Azure Knights Guardians","world":{"region":"hu","nr":1},"glory":2450,"trainerLevel":870,"treasuryLevel":344}
+{"guildId":"5d5f59b4-b0d7-4aba-aed6-3df8a511f855","name":"Frost Sentinels Savage","world":{"region":"cz","nr":1},"glory":5684,"trainerLevel":266,"treasuryLevel":675}
+{"guildId":"6d1befe8-4ac8-4077-89c3-54456dca044c","name":"Mystic Vanguard Savage","world":{"region":"eu","nr":2},"glory":2949,"trainerLevel":922,"treasuryLevel":806}
+{"guildId":"f98c9090-3cb0-47dc-9e9e-6083a8102bda","name":"Order Iron Infinite","world":{"region":"cz","nr":2},"glory":1816,"trainerLevel":915,"treasuryLevel":926}
+{"guildId":"41b807d0-52df-4fd8-8a29-64507744323c","name":"Golden Crusaders Lions","world":{"region":"int","nr":1},"glory":6565,"trainerLevel":383,"treasuryLevel":791}
+{"guildId":"a4855317-5140-494d-96c5-c6962dff4de9","name":"Serpents Vanguard Celestial","world":{"region":"cz","nr":1},"glory":7970,"trainerLevel":27,"treasuryLevel":985}
+{"guildId":"a86d44be-f6e2-4a59-a026-04e6247ec8f5","name":"Angels Eternal Twilight","world":{"region":"am","nr":1},"glory":4494,"trainerLevel":698,"treasuryLevel":979}
+{"guildId":"c44418e7-400f-4891-ba78-508ea6f16bc3","name":"Unbroken Lions Blazing","world":{"region":"eu","nr":2},"glory":3504,"trainerLevel":510,"treasuryLevel":292}
+{"guildId":"f89718f1-32dd-4503-811f-93bc94ba95c7","name":"Crimson Lions Legion","world":{"region":"int","nr":1},"glory":7878,"trainerLevel":322,"treasuryLevel":33}
+{"guildId":"d4d79ea8-60e3-4620-9c08-2237c7725bd4","name":"Dragonheart Battalion","world":{"region":"int","nr":1},"glory":5397,"trainerLevel":790,"treasuryLevel":826}
+{"guildId":"2e572ae7-ed27-4431-be00-9f06d6849a39","name":"Fury Eternal Obsidian","world":{"region":"pl","nr":1},"glory":2516,"trainerLevel":584,"treasuryLevel":635}
+{"guildId":"3fe195bb-8f6d-4ff5-a0de-6c077b4b57b6","name":"Silent Wolves Hidden","world":{"region":"pl","nr":2},"glory":9371,"trainerLevel":320,"treasuryLevel":316}
+{"guildId":"655bd0a3-647c-4650-96ac-89f5a1ff7f96","name":"Reapers Unbroken Sentinels","world":{"region":"hu","nr":2},"glory":2461,"trainerLevel":732,"treasuryLevel":106}
+{"guildId":"18fc2aff-c86a-4b86-9efa-796078affbbf","name":"Unbroken Silent Coven","world":{"region":"pl","nr":2},"glory":1649,"trainerLevel":14,"treasuryLevel":278}
+{"guildId":"db2473ed-55f4-4dbe-a11e-8ba897437a13","name":"Wardens Banshees Azure","world":{"region":"eu","nr":2},"glory":7358,"trainerLevel":392,"treasuryLevel":121}
+{"guildId":"b88681cf-8e59-4208-89cc-221239da5868","name":"Reapers Unbroken Legion","world":{"region":"eu","nr":2},"glory":3338,"trainerLevel":900,"treasuryLevel":271}
+{"guildId":"aa5d3a90-d7f3-400c-9636-e5b31223f199","name":"Crimson Brotherhood Savage","world":{"region":"fr","nr":2},"glory":7552,"trainerLevel":410,"treasuryLevel":8}
+{"guildId":"c3637064-8471-48fc-b155-00561de840c5","name":"Keepers Archons Chosen","world":{"region":"cz","nr":2},"glory":5145,"trainerLevel":884,"treasuryLevel":757}
+{"guildId":"8fe89630-06b5-4b21-aa7e-4a53c942e0fe","name":"Coven Phantoms Eternal","world":{"region":"fr","nr":2},"glory":5271,"trainerLevel":941,"treasuryLevel":785}
+{"guildId":"600bc99d-f72a-44cb-a840-31786179c2ef","name":"Banshees Prime Wanderers","world":{"region":"de","nr":2},"glory":1290,"trainerLevel":618,"treasuryLevel":978}
+{"guildId":"7c3d4af4-0bf9-4a50-bff9-e3e147e1be47","name":"Silent Storm","world":{"region":"int","nr":2},"glory":9171,"trainerLevel":779,"treasuryLevel":773}
+{"guildId":"331327b8-14eb-47a5-9550-656df62435aa","name":"Fury Noble Legion","world":{"region":"am","nr":1},"glory":7434,"trainerLevel":182,"treasuryLevel":213}
+{"guildId":"9bb4dd4f-779f-43e5-8f65-0076d522bbd2","name":"Alliance Eternal Silent","world":{"region":"cz","nr":2},"glory":7932,"trainerLevel":784,"treasuryLevel":39}
+{"guildId":"5b9e4855-fca2-4e2a-90b1-8bd22a3e19e2","name":"Silent Ancient Circle","world":{"region":"pl","nr":2},"glory":2658,"trainerLevel":747,"treasuryLevel":488}
+{"guildId":"e55589d3-afa6-4c39-a447-a50a2293fe51","name":"Ravens Prime Hunters","world":{"region":"am","nr":2},"glory":2215,"trainerLevel":82,"treasuryLevel":481}
+{"guildId":"15d5bf62-dcda-4ff8-ac51-607d801159c6","name":"Wraiths Chosen Banshees","world":{"region":"eu","nr":2},"glory":271,"trainerLevel":601,"treasuryLevel":17}
+{"guildId":"c630a3f0-53de-4f27-a429-b0e4cbbfc63b","name":"Ravens Alliance Frost","world":{"region":"int","nr":1},"glory":281,"trainerLevel":876,"treasuryLevel":313}
+{"guildId":"ee88828e-1df9-469f-b215-dc57ded6ef0d","name":"Prime Obsidian Vanguard","world":{"region":"pl","nr":1},"glory":9413,"trainerLevel":35,"treasuryLevel":351}
+{"guildId":"d0d50549-2048-4bb0-9cdc-1bde1770ba39","name":"Demons Shadow Crusaders","world":{"region":"de","nr":1},"glory":7844,"trainerLevel":224,"treasuryLevel":317}
+{"guildId":"cbb75d38-606e-4166-829f-e38c2c2b6cd6","name":"Crusaders Forgotten Angels","world":{"region":"de","nr":1},"glory":983,"trainerLevel":392,"treasuryLevel":566}
+{"guildId":"9de779b6-0aa2-40b9-bda5-68548bcaaa20","name":"Coven Hidden Crimson","world":{"region":"de","nr":2},"glory":9876,"trainerLevel":156,"treasuryLevel":719}
+{"guildId":"1b093480-035c-4fec-8c85-66dc81e7d931","name":"Warborn Outriders","world":{"region":"eu","nr":1},"glory":4411,"trainerLevel":270,"treasuryLevel":365}
+{"guildId":"b390d731-d426-44a9-be1d-c92cf947cbf3","name":"Emerald Wanderers Infinite","world":{"region":"cz","nr":1},"glory":9597,"trainerLevel":498,"treasuryLevel":475}
+{"guildId":"8c0e2188-00c3-4d53-af42-a8204ea46f29","name":"Celestial Wolves Legion","world":{"region":"int","nr":1},"glory":648,"trainerLevel":224,"treasuryLevel":125}
+{"guildId":"90179c68-b338-4426-841a-c9a13af20090","name":"Titans Unbroken Twilight","world":{"region":"fr","nr":2},"glory":2273,"trainerLevel":64,"treasuryLevel":614}
+{"guildId":"ee0a26f4-0151-419c-b75d-6cdf4a7b25fa","name":"Noble Knights Keepers","world":{"region":"cz","nr":1},"glory":2515,"trainerLevel":666,"treasuryLevel":406}
+{"guildId":"c7060682-ba9c-42a5-9dd9-93b439df09d6","name":"Archons Forgotten Mystic","world":{"region":"am","nr":2},"glory":2902,"trainerLevel":86,"treasuryLevel":81}
+{"guildId":"a277a4e9-31a4-4e97-9ced-d80b3825b68b","name":"Feral Archons Crusaders","world":{"region":"am","nr":1},"glory":6922,"trainerLevel":50,"treasuryLevel":224}
+{"guildId":"a71b789e-90af-48a2-9524-164a03d72d2d","name":"Feral Brotherhood Wolves","world":{"region":"int","nr":1},"glory":6623,"trainerLevel":306,"treasuryLevel":935}
+{"guildId":"61209d3f-4fe5-459e-8aa9-0f173fe92009","name":"Crimson Knights Infinite","world":{"region":"cz","nr":1},"glory":6308,"trainerLevel":768,"treasuryLevel":214}
+{"guildId":"759d0cd7-4fc9-4bc6-a736-b1bccbc09f12","name":"Mystic Unbroken Keepers","world":{"region":"eu","nr":1},"glory":4590,"trainerLevel":322,"treasuryLevel":404}
+{"guildId":"c6f61a7d-9f5e-46e5-aee8-8a72ff0dd74f","name":"Brotherhood Obsidian Serpents","world":{"region":"hu","nr":1},"glory":7216,"trainerLevel":652,"treasuryLevel":787}
+{"guildId":"aee072b4-8b7a-4f70-8143-f341f4fe8081","name":"Phoenix Ascendant","world":{"region":"cz","nr":2},"glory":7290,"trainerLevel":400,"treasuryLevel":498}
+{"guildId":"115dc78f-b056-4a70-8e48-2e478fade2a7","name":"Keepers Wolves Sacred","world":{"region":"eu","nr":2},"glory":1031,"trainerLevel":654,"treasuryLevel":193}
+{"guildId":"7a33de13-4a9c-48b4-93d5-6cb0797b771a","name":"Banshees Golden Vanguard","world":{"region":"am","nr":2},"glory":3363,"trainerLevel":661,"treasuryLevel":825}
+{"guildId":"a3552bd7-ba95-4505-976e-76512f7c3f27","name":"Radiant Angels Brotherhood","world":{"region":"pl","nr":2},"glory":4318,"trainerLevel":739,"treasuryLevel":692}
+{"guildId":"1b934dd1-e162-487c-a122-6e2ff6178132","name":"Fury Prime Emerald","world":{"region":"hu","nr":2},"glory":8087,"trainerLevel":203,"treasuryLevel":869}
+{"guildId":"dc3c8b70-a32e-4353-a5f7-71a861ab193a","name":"Eternal Guardians Silent","world":{"region":"pl","nr":1},"glory":2629,"trainerLevel":782,"treasuryLevel":677}
+{"guildId":"7c091030-1d1b-4f66-b1cc-4447500146c1","name":"Archons Prime Keepers","world":{"region":"eu","nr":2},"glory":9148,"trainerLevel":867,"treasuryLevel":291}
+{"guildId":"20f151ae-ae8f-47b5-9dc5-25d0ec23232b","name":"Silent Ravens Eternal","world":{"region":"pl","nr":2},"glory":5084,"trainerLevel":399,"treasuryLevel":567}
+{"guildId":"0cd43c0b-9b2e-41b9-bb5c-3842307897c2","name":"Chosen Wanderers Dragons","world":{"region":"fr","nr":1},"glory":9458,"trainerLevel":516,"treasuryLevel":8}
+{"guildId":"8aded344-a4e0-453b-ab71-3b16d504e242","name":"Twilight Feral Guardians","world":{"region":"hu","nr":2},"glory":8568,"trainerLevel":88,"treasuryLevel":744}
+{"guildId":"728159f9-8741-429d-a2ef-a07a1bbf1720","name":"Phantoms Mystic Prime","world":{"region":"pl","nr":2},"glory":6263,"trainerLevel":894,"treasuryLevel":83}
+{"guildId":"13add6a2-ac00-4aad-a91b-a66a91c9b651","name":"Obsidian Serpents","world":{"region":"cz","nr":1},"glory":2854,"trainerLevel":316,"treasuryLevel":467}
+{"guildId":"c4e6cb9c-e064-4339-9502-68e80637b3b2","name":"Abyssal Watchers","world":{"region":"am","nr":1},"glory":3033,"trainerLevel":429,"treasuryLevel":357}
+{"guildId":"dc083f6a-0573-4ef4-99e5-615b62072538","name":"Keepers Prime Reapers","world":{"region":"pl","nr":1},"glory":3310,"trainerLevel":358,"treasuryLevel":132}
+{"guildId":"7308dbaf-4654-47fe-897c-e528c72db9fa","name":"Obsidian Lost Circle","world":{"region":"cz","nr":2},"glory":1825,"trainerLevel":682,"treasuryLevel":888}
+{"guildId":"d14dc193-4ae0-4f43-b3f9-3e3b37b66f5d","name":"Blazing Savage Lions","world":{"region":"am","nr":2},"glory":8509,"trainerLevel":979,"treasuryLevel":124}
+{"guildId":"425bc6d9-4746-4ae5-9f79-19df9a09b9a4","name":"Frost Infinite Ravens","world":{"region":"eu","nr":1},"glory":8391,"trainerLevel":147,"treasuryLevel":304}
+{"guildId":"933473d2-3f5d-4d88-bcc7-d1feb7d83209","name":"Ancient Legion Serpents","world":{"region":"cz","nr":2},"glory":2982,"trainerLevel":211,"treasuryLevel":875}
+{"guildId":"cf3a0f6b-f79c-45b8-b4ff-c6ebacd91096","name":"Unbroken Golden Crusaders","world":{"region":"cz","nr":2},"glory":7186,"trainerLevel":849,"treasuryLevel":239}
+{"guildId":"e9a4cef0-d4e2-4767-867c-5e8dedbde016","name":"Infinite Twilight Dragons","world":{"region":"cz","nr":1},"glory":3407,"trainerLevel":241,"treasuryLevel":563}
+{"guildId":"93d506bd-d1d8-44ea-9a90-5b05d6a1a4d9","name":"Dragons Unbroken Frost","world":{"region":"hu","nr":1},"glory":9626,"trainerLevel":891,"treasuryLevel":308}
+{"guildId":"e70907e4-061e-4dfd-a492-06668b3d1d68","name":"Legion Blazing Fabled","world":{"region":"am","nr":2},"glory":5986,"trainerLevel":462,"treasuryLevel":82}
+{"guildId":"f353fb48-6219-4e9a-8352-ec6ca7e64d5c","name":"Storm Banshees Hidden","world":{"region":"hu","nr":1},"glory":8565,"trainerLevel":675,"treasuryLevel":461}
+{"guildId":"32e49687-f5fa-4947-b1b3-8af30f475bbb","name":"Valiant Horizon","world":{"region":"pl","nr":2},"glory":9584,"trainerLevel":627,"treasuryLevel":341}
+{"guildId":"124b4f19-428a-4b22-800a-18e2a07f2f4e","name":"Chosen Iron Angels","world":{"region":"pl","nr":1},"glory":8383,"trainerLevel":988,"treasuryLevel":35}
+{"guildId":"7c77c538-c67d-4f71-9bca-3f8b5f08a6fc","name":"Twilight Noble Coven","world":{"region":"de","nr":2},"glory":8940,"trainerLevel":345,"treasuryLevel":217}
+{"guildId":"49e00d70-34bc-40c3-86ca-c15a6e20af23","name":"Ravens Hunters Eternal","world":{"region":"pl","nr":2},"glory":106,"trainerLevel":524,"treasuryLevel":732}
+{"guildId":"4e922bd0-0885-4ea4-9481-cb2a92c704e9","name":"Alliance Sacred Radiant","world":{"region":"eu","nr":2},"glory":6390,"trainerLevel":529,"treasuryLevel":663}
+{"guildId":"b5db15e6-9a02-4966-87c8-d340752e426a","name":"Iron Phantoms Fabled","world":{"region":"int","nr":2},"glory":3747,"trainerLevel":110,"treasuryLevel":786}
+{"guildId":"7a7a813f-f2c9-4c77-95af-1cb2948b71d1","name":"Sacred Twilight Angels","world":{"region":"eu","nr":2},"glory":5244,"trainerLevel":444,"treasuryLevel":765}
+{"guildId":"6bc1976b-d8b6-47a9-a273-4465a27d89b8","name":"Giants Emerald Crusaders","world":{"region":"de","nr":2},"glory":8575,"trainerLevel":5,"treasuryLevel":178}
+{"guildId":"3e27e3de-e085-4b5d-9cad-08d168cdffee","name":"Forgotten Knights Emerald","world":{"region":"pl","nr":2},"glory":4408,"trainerLevel":323,"treasuryLevel":268}
+{"guildId":"4712408d-1182-4b7a-b7f6-54aff2f9f1d0","name":"Dragons Eternal Silent","world":{"region":"hu","nr":1},"glory":4090,"trainerLevel":120,"treasuryLevel":978}
+{"guildId":"b3a5f931-5019-43e7-9327-adfd24c1baa7","name":"Fabled Reapers Vanguard","world":{"region":"am","nr":2},"glory":9263,"trainerLevel":489,"treasuryLevel":885}
+{"guildId":"a5c29784-0fa5-4d34-9e89-ae710ff8b0dd","name":"Nightshade Brotherhood","world":{"region":"cz","nr":1},"glory":4265,"trainerLevel":666,"treasuryLevel":565}
+{"guildId":"b347a95c-ca8b-41ea-9f29-6783366551d6","name":"Titans Unbroken Wardens","world":{"region":"pl","nr":2},"glory":8525,"trainerLevel":807,"treasuryLevel":599}
+{"guildId":"2bdaf1c4-7558-4a29-9018-a9015de9365d","name":"Hunters Crimson Feral","world":{"region":"int","nr":2},"glory":1587,"trainerLevel":5,"treasuryLevel":422}
+{"guildId":"c23c3560-efec-45fc-a13c-c0a2c30e643e","name":"Ravens Iron Guardians","world":{"region":"fr","nr":2},"glory":1424,"trainerLevel":428,"treasuryLevel":719}
+{"guildId":"a77e67df-f12f-4e99-92d0-7ea532b26df5","name":"Coven Silent Phantoms","world":{"region":"eu","nr":1},"glory":3910,"trainerLevel":707,"treasuryLevel":63}
+{"guildId":"adbd45af-5bfd-43dd-b89f-465c3c1f6d1b","name":"Prime Fury Keepers","world":{"region":"pl","nr":2},"glory":31,"trainerLevel":828,"treasuryLevel":408}
+{"guildId":"fcecffb0-f0f0-4cf7-ae77-4e12e3a906f3","name":"Titans Storm Unbroken","world":{"region":"cz","nr":1},"glory":3,"trainerLevel":526,"treasuryLevel":679}
+{"guildId":"4adace96-e5a3-4975-a436-6a8594b5ef57","name":"Mystic Lost Wanderers","world":{"region":"int","nr":1},"glory":4832,"trainerLevel":379,"treasuryLevel":748}
+{"guildId":"b6280edc-5687-4826-8264-2ea7327d2be8","name":"Emerald Wraiths Demons","world":{"region":"fr","nr":2},"glory":2304,"trainerLevel":464,"treasuryLevel":466}
+{"guildId":"d92d79a5-8dfa-4de2-97d5-220151da3fd1","name":"Crimson Guardians Angels","world":{"region":"hu","nr":2},"glory":6180,"trainerLevel":241,"treasuryLevel":631}
+{"guildId":"4be31cbb-4e16-419a-9cd3-8da6d5bd8652","name":"Hunters Storm Knights","world":{"region":"fr","nr":1},"glory":8143,"trainerLevel":771,"treasuryLevel":49}
+{"guildId":"acc898a5-7d78-416b-bcb8-37e8a869b9ee","name":"Ironfang Warband","world":{"region":"de","nr":2},"glory":6851,"trainerLevel":362,"treasuryLevel":287}
+{"guildId":"a610646b-b793-42cc-83f9-22fb514e499e","name":"Alliance Silent Infinite","world":{"region":"am","nr":2},"glory":9488,"trainerLevel":576,"treasuryLevel":564}
+{"guildId":"5d3df395-3289-4cf4-9d5e-3cd5ae2adb09","name":"Ravens Mystic Keepers","world":{"region":"eu","nr":2},"glory":7613,"trainerLevel":138,"treasuryLevel":28}
+{"guildId":"f493bbf8-b532-4f3c-bde2-be7ddc4cf906","name":"Knights Sacred Radiant","world":{"region":"fr","nr":1},"glory":8740,"trainerLevel":641,"treasuryLevel":756}
+{"guildId":"a29dad8a-ec7c-4fb0-94e6-1a00771c257a","name":"Wardens Golden Bound","world":{"region":"hu","nr":2},"glory":8153,"trainerLevel":468,"treasuryLevel":439}
+{"guildId":"ad24d3d7-116c-4407-94bc-27b46ce3d434","name":"Dragons Infinite Frost","world":{"region":"fr","nr":1},"glory":9598,"trainerLevel":537,"treasuryLevel":661}
+{"guildId":"3b5a7d4f-6497-49ea-8616-8b303d32b1df","name":"Ravens Iron Prime","world":{"region":"pl","nr":2},"glory":4734,"trainerLevel":458,"treasuryLevel":296}
+{"guildId":"26689a22-d91f-47a0-ba4b-eb48981ef405","name":"Noble Knights Crimson","world":{"region":"de","nr":1},"glory":1444,"trainerLevel":236,"treasuryLevel":768}
+{"guildId":"fc27cdfe-dca7-46d5-bdf0-4f1923a38548","name":"Angels Sacred Celestial","world":{"region":"fr","nr":1},"glory":2120,"trainerLevel":804,"treasuryLevel":747}
+{"guildId":"523d1ea1-02bc-4285-ac7e-99fa6900cba1","name":"Golden Brotherhood Prime","world":{"region":"de","nr":2},"glory":8589,"trainerLevel":172,"treasuryLevel":119}
+{"guildId":"271d966a-e937-487f-b449-d897748a82d7","name":"Circle Ancient Fury","world":{"region":"hu","nr":1},"glory":6167,"trainerLevel":330,"treasuryLevel":189}
+{"guildId":"6d90a4b9-a931-479a-8a8a-9f03230a5458","name":"Celestial Arbiters","world":{"region":"de","nr":1},"glory":6275,"trainerLevel":917,"treasuryLevel":541}
+{"guildId":"58d1f057-6682-4bba-a745-eaa88052e4f8","name":"Twilight Circle Ancient","world":{"region":"fr","nr":2},"glory":3754,"trainerLevel":708,"treasuryLevel":705}
+{"guildId":"f7febd12-0dd5-45e5-b438-5104954dbcc2","name":"Order Azure Savage","world":{"region":"eu","nr":2},"glory":4509,"trainerLevel":930,"treasuryLevel":627}
+{"guildId":"83865513-cd69-4bda-9160-80918dc2dbe7","name":"Twilight Crusaders Eternal","world":{"region":"de","nr":1},"glory":2416,"trainerLevel":870,"treasuryLevel":948}
+{"guildId":"5f5cf90b-db21-47c1-bc95-5a641e12fe21","name":"Lost Wanderers Wolves","world":{"region":"am","nr":1},"glory":1981,"trainerLevel":187,"treasuryLevel":912}
+{"guildId":"c755206f-95ed-4418-be94-f963b9d57dfe","name":"Emerald Crusaders Hidden","world":{"region":"am","nr":2},"glory":3222,"trainerLevel":406,"treasuryLevel":502}
+{"guildId":"93a67374-3927-44af-80dd-f82dc0ff5736","name":"Wanderers Chosen Iron","world":{"region":"pl","nr":1},"glory":6656,"trainerLevel":402,"treasuryLevel":679}
+{"guildId":"054aebc9-b51b-4980-8b65-20af43de982f","name":"Sentinels Feral Fury","world":{"region":"int","nr":2},"glory":8436,"trainerLevel":77,"treasuryLevel":534}
+{"guildId":"4037182b-1b3f-448e-b2cc-a4af5b4cf281","name":"Chosen Radiant Lions","world":{"region":"eu","nr":1},"glory":8140,"trainerLevel":121,"treasuryLevel":552}
+{"guildId":"fbe7bd55-5797-4291-b2f1-4922446091ef","name":"Blazing Hidden Ravens","world":{"region":"pl","nr":2},"glory":6110,"trainerLevel":341,"treasuryLevel":864}
+{"guildId":"f9ae8cf6-9fb8-45c3-b0c0-516e0d939f6e","name":"Savage Radiant Archons","world":{"region":"fr","nr":2},"glory":2978,"trainerLevel":41,"treasuryLevel":575}
+{"guildId":"4b3d7807-7d3c-43cb-a360-9fd1458ad081","name":"Crimson Oath","world":{"region":"hu","nr":2},"glory":6622,"trainerLevel":155,"treasuryLevel":196}
+{"guildId":"495f6fe7-a269-4a80-b273-b83147076e05","name":"Ancient Shadow Order","world":{"region":"de","nr":1},"glory":3689,"trainerLevel":841,"treasuryLevel":838}
+{"guildId":"3fc25e1f-1a48-4237-9a93-bbd932ab993f","name":"Demons Feral Circle","world":{"region":"hu","nr":1},"glory":24,"trainerLevel":679,"treasuryLevel":80}
+{"guildId":"34896dbe-bf69-4fb4-a3cd-ea0cdd5c1adb","name":"Wardens Fury Ancient","world":{"region":"int","nr":2},"glory":5935,"trainerLevel":373,"treasuryLevel":409}
+{"guildId":"36af79d5-e241-4430-b5d4-fb869bce7645","name":"Storm Knights Hidden","world":{"region":"eu","nr":1},"glory":3469,"trainerLevel":40,"treasuryLevel":845}
+{"guildId":"88ce267a-a6a5-4f32-abcb-efbc296a497c","name":"Knights Crimson Sacred","world":{"region":"fr","nr":2},"glory":9345,"trainerLevel":523,"treasuryLevel":396}
+{"guildId":"4a536fec-4e32-4d89-825f-b3a53ab1b930","name":"Radiant Giants Guardians","world":{"region":"pl","nr":1},"glory":2491,"trainerLevel":995,"treasuryLevel":986}
+{"guildId":"fea12edb-cf5f-4916-a153-44301f365280","name":"Fury Golden Bound","world":{"region":"hu","nr":1},"glory":3452,"trainerLevel":647,"treasuryLevel":129}
+{"guildId":"39a3f8f0-fcd5-4e1c-9934-21fd58235108","name":"Chosen Alliance Archons","world":{"region":"int","nr":2},"glory":9353,"trainerLevel":73,"treasuryLevel":996}
+{"guildId":"c4e71773-1876-4965-b013-6e35a954bbd3","name":"Fabled Guardians Serpents","world":{"region":"cz","nr":1},"glory":4215,"trainerLevel":683,"treasuryLevel":212}
+{"guildId":"b26a7e70-43c0-48ae-9ff2-ac59d8f39a55","name":"Lions Keepers Silent","world":{"region":"pl","nr":1},"glory":8418,"trainerLevel":737,"treasuryLevel":39}
+{"guildId":"12de9031-ed03-4325-b5e4-7c884ce4a546","name":"Stormborn Exiles","world":{"region":"am","nr":1},"glory":6676,"trainerLevel":237,"treasuryLevel":939}
+{"guildId":"fd80c5da-02fb-4bd4-9535-1b9a9440c4db","name":"Prime Sentinels Archons","world":{"region":"pl","nr":1},"glory":2408,"trainerLevel":238,"treasuryLevel":711}
+{"guildId":"84febee6-e462-43a3-847c-f54c3e4d0d31","name":"Banshees Circle Storm","world":{"region":"fr","nr":1},"glory":8044,"trainerLevel":785,"treasuryLevel":462}
+{"guildId":"861f9fe6-2549-45a9-9ccd-61e7ffd4a539","name":"Eternal Dragons Circle","world":{"region":"de","nr":2},"glory":3074,"trainerLevel":402,"treasuryLevel":753}
+{"guildId":"d0dcefd0-f001-4f63-aeb6-dd8fc73576d2","name":"Wolves Vanguard Prime","world":{"region":"fr","nr":2},"glory":2304,"trainerLevel":358,"treasuryLevel":28}
+{"guildId":"8f877871-ec92-46cb-84bb-f62101332a57","name":"Azure Wolves Wraiths","world":{"region":"int","nr":1},"glory":3070,"trainerLevel":508,"treasuryLevel":618}
+{"guildId":"e2769ad5-3ce3-4ed2-940f-1e7850286c49","name":"Mystic Lost Wolves","world":{"region":"am","nr":1},"glory":5304,"trainerLevel":512,"treasuryLevel":174}
+{"guildId":"b6037751-88f8-4ca0-9ec1-e6ef063867fd","name":"Sentinels Ancient Titans","world":{"region":"de","nr":1},"glory":1834,"trainerLevel":651,"treasuryLevel":492}
+{"guildId":"29e4584d-ccbd-40a6-b616-022329069d2f","name":"Emerald Crusaders Demons","world":{"region":"eu","nr":2},"glory":3197,"trainerLevel":948,"treasuryLevel":276}
+{"guildId":"13788cbb-5f34-41e1-b436-8e0e7179e46e","name":"Wraiths Iron Lions","world":{"region":"int","nr":2},"glory":2458,"trainerLevel":344,"treasuryLevel":806}
+{"guildId":"b3330560-4b64-4f41-9981-47478a855bb9","name":"Radiant Banshees Hidden","world":{"region":"de","nr":2},"glory":2372,"trainerLevel":507,"treasuryLevel":670}
+{"guildId":"322bb433-f8e3-435b-a015-6a2d1411ed68","name":"Voidborn Collective","world":{"region":"hu","nr":1},"glory":4690,"trainerLevel":845,"treasuryLevel":637}
+{"guildId":"17d75077-489c-4aa3-bb3b-d2eea50c7bcc","name":"Coven Emerald Ravens","world":{"region":"am","nr":1},"glory":3144,"trainerLevel":568,"treasuryLevel":36}
+{"guildId":"a3dfc4ec-5f16-47c9-8d85-e80a4ca82c2c","name":"Feral Twilight Demons","world":{"region":"hu","nr":1},"glory":354,"trainerLevel":952,"treasuryLevel":912}
+{"guildId":"98ca852f-ff7e-434e-9bea-39367be6f27b","name":"Azure Titans Wanderers","world":{"region":"hu","nr":1},"glory":2662,"trainerLevel":597,"treasuryLevel":24}
+{"guildId":"c180b40a-1bac-431e-81e5-bd14dbfcc25c","name":"Prime Blazing Knights","world":{"region":"de","nr":1},"glory":3383,"trainerLevel":854,"treasuryLevel":904}
+{"guildId":"db1355d3-90e3-4484-af52-a2f7736e8932","name":"Archons Blazing Infinite","world":{"region":"am","nr":2},"glory":9267,"trainerLevel":586,"treasuryLevel":513}
+{"guildId":"c9d48605-d0ab-496a-a5e4-340347d8368d","name":"Reapers Fabled Silent","world":{"region":"eu","nr":1},"glory":2637,"trainerLevel":850,"treasuryLevel":275}
+{"guildId":"ff252ea3-417d-4ad3-af93-50078067b399","name":"Alliance Shadow Eternal","world":{"region":"cz","nr":2},"glory":541,"trainerLevel":399,"treasuryLevel":4}
+{"guildId":"1737b86d-ed6c-46d0-a179-1405ae814239","name":"Hidden Wanderers Phantoms","world":{"region":"fr","nr":1},"glory":3706,"trainerLevel":998,"treasuryLevel":992}
+{"guildId":"602e8591-cf1d-4491-aa31-9524c569d9a5","name":"Savage Giants Storm","world":{"region":"fr","nr":1},"glory":6972,"trainerLevel":824,"treasuryLevel":610}
+{"guildId":"6b7f8958-d998-4ea4-b0f9-db37c76ab715","name":"Brotherhood Savage Demons","world":{"region":"cz","nr":1},"glory":4398,"trainerLevel":185,"treasuryLevel":899}
+{"guildId":"dd08ca9d-2b7e-4421-9b50-f1411867654a","name":"Eternal Watch","world":{"region":"am","nr":1},"glory":4934,"trainerLevel":678,"treasuryLevel":567}
+{"guildId":"6790cb65-5108-40cc-bf19-983a7cb8fb9b","name":"Forgotten Obsidian Vanguard","world":{"region":"hu","nr":2},"glory":7779,"trainerLevel":290,"treasuryLevel":796}
+{"guildId":"61e7b1a5-6554-4874-b974-72bd4666cdb5","name":"Ancient Azure Brotherhood","world":{"region":"cz","nr":1},"glory":4353,"trainerLevel":115,"treasuryLevel":888}
+{"guildId":"59b13988-5c60-454d-9aaf-1a10979694ff","name":"Order Golden Eternal","world":{"region":"eu","nr":1},"glory":1771,"trainerLevel":304,"treasuryLevel":947}
+{"guildId":"1aba8ffb-eca4-45c6-b074-715be7c5cd43","name":"Emerald Serpents Circle","world":{"region":"de","nr":2},"glory":8947,"trainerLevel":624,"treasuryLevel":561}
+{"guildId":"198d5c63-a7cc-461c-93a0-a1c6c24228d4","name":"Wolves Chosen Crimson","world":{"region":"de","nr":1},"glory":72,"trainerLevel":526,"treasuryLevel":920}
+{"guildId":"5b7b3b3b-c607-4f94-9f67-7de2c888b29e","name":"Azure Hidden Keepers","world":{"region":"de","nr":1},"glory":6026,"trainerLevel":730,"treasuryLevel":916}
+{"guildId":"81a7c6fa-ba98-4ed6-8ecf-b6235894d811","name":"Legion Fury Forgotten","world":{"region":"hu","nr":2},"glory":3097,"trainerLevel":874,"treasuryLevel":584}
+{"guildId":"018e8577-96a1-40f6-a31b-c0fb38b3423c","name":"Shadow Giants Guardians","world":{"region":"hu","nr":1},"glory":6583,"trainerLevel":723,"treasuryLevel":793}
+{"guildId":"0683efd8-dda1-487a-b319-200867e70006","name":"Shadow Crusaders Demons","world":{"region":"am","nr":2},"glory":3576,"trainerLevel":913,"treasuryLevel":600}
+{"guildId":"653a4331-2fb8-4396-b047-13cd3f261f9f","name":"Knights Celestial Noble","world":{"region":"pl","nr":2},"glory":8346,"trainerLevel":147,"treasuryLevel":518}
+{"guildId":"573098f2-4d41-4c35-a67e-1bce98775933","name":"Onyx Vanguard","world":{"region":"pl","nr":2},"glory":4784,"trainerLevel":553,"treasuryLevel":343}
+{"guildId":"00dc8d03-6369-4784-adc3-7b6349e54881","name":"Infinite Obsidian Titans","world":{"region":"fr","nr":1},"glory":2011,"trainerLevel":625,"treasuryLevel":587}
+{"guildId":"03651b8d-3ef8-401d-b57c-bbeff0f0cb18","name":"Phantoms Hidden Crusaders","world":{"region":"int","nr":2},"glory":5490,"trainerLevel":525,"treasuryLevel":988}
+{"guildId":"3d2c3963-44b0-439f-b977-c518fde4acd4","name":"Lions Golden Forgotten","world":{"region":"fr","nr":1},"glory":4113,"trainerLevel":323,"treasuryLevel":281}
+{"guildId":"a498d55d-e29a-4c6b-bc21-5e472965451b","name":"Sacred Phantoms Iron","world":{"region":"eu","nr":2},"glory":88,"trainerLevel":821,"treasuryLevel":669}
+{"guildId":"707b6993-7e11-4f92-81e8-b5c581179cab","name":"Wanderers Eternal Azure","world":{"region":"pl","nr":1},"glory":3355,"trainerLevel":662,"treasuryLevel":126}
+{"guildId":"9593b855-7414-4b9e-83ae-9eef64d9f2f4","name":"Emerald Unbroken Reapers","world":{"region":"de","nr":2},"glory":1475,"trainerLevel":310,"treasuryLevel":131}
+{"guildId":"7e911955-e63a-4391-9e54-15c05290eb4e","name":"Ancient Azure Archons","world":{"region":"am","nr":1},"glory":5492,"trainerLevel":140,"treasuryLevel":808}
+{"guildId":"1359bff1-3b0f-47eb-803c-c44cec8a28d9","name":"Savage Brotherhood Radiant","world":{"region":"cz","nr":2},"glory":3506,"trainerLevel":267,"treasuryLevel":377}
+{"guildId":"71742d67-4f23-4823-bff7-6eb58bfbd232","name":"Giants Sacred Guardians","world":{"region":"eu","nr":2},"glory":7877,"trainerLevel":895,"treasuryLevel":437}
+{"guildId":"2cde2b18-e038-4ef9-8aa1-14a5bfcab0e1","name":"Order Frost Serpents","world":{"region":"hu","nr":1},"glory":9432,"trainerLevel":648,"treasuryLevel":79}
+{"guildId":"dd7fe7cb-cfb8-4055-928b-87ada99d59bc","name":"Celestial Harbingers","world":{"region":"de","nr":1},"glory":2941,"trainerLevel":943,"treasuryLevel":753}
+{"guildId":"f9e0db9c-e52e-46cb-b1ab-dfa692853f95","name":"Duskrend Raiders","world":{"region":"de","nr":1},"glory":6252,"trainerLevel":495,"treasuryLevel":320}
+{"guildId":"d1c6fedf-2812-4414-b042-7a7f7ab99163","name":"Twilight Reapers Legion","world":{"region":"cz","nr":2},"glory":1154,"trainerLevel":26,"treasuryLevel":378}
+{"guildId":"4a39420f-0bf1-4990-8c91-2f6b72e94d41","name":"Shadow Keepers Serpents","world":{"region":"eu","nr":1},"glory":904,"trainerLevel":11,"treasuryLevel":729}
+{"guildId":"461c78ca-a4ed-4b32-bbb0-08b4413475d5","name":"Reapers Crusaders Unbroken","world":{"region":"am","nr":2},"glory":595,"trainerLevel":41,"treasuryLevel":613}
+{"guildId":"ca0ddc9c-9614-4897-90e5-10954960bf79","name":"Emerald Vanguard Titans","world":{"region":"am","nr":1},"glory":739,"trainerLevel":674,"treasuryLevel":94}
+{"guildId":"4cca6302-9de4-4afc-b042-84d3ac625f11","name":"Reapers Crusaders Crimson","world":{"region":"am","nr":2},"glory":4056,"trainerLevel":80,"treasuryLevel":587}
+{"guildId":"eb5a44d4-b35b-4800-af7f-d6a7d5f7515f","name":"Fury Alliance Unbroken","world":{"region":"eu","nr":2},"glory":2530,"trainerLevel":575,"treasuryLevel":405}
+{"guildId":"3bdf886a-d23e-4e8c-81fe-74523dde9b0f","name":"Wardens Forgotten Radiant","world":{"region":"pl","nr":2},"glory":9805,"trainerLevel":607,"treasuryLevel":553}
+{"guildId":"331cc41b-03bc-4159-9a16-a57774080803","name":"Chosen Titans Frost","world":{"region":"int","nr":1},"glory":181,"trainerLevel":836,"treasuryLevel":153}
+{"guildId":"7f51220a-4b43-4e3a-9c0b-f0f36d4e134f","name":"Lost Crusaders Obsidian","world":{"region":"int","nr":2},"glory":2144,"trainerLevel":963,"treasuryLevel":323}
+{"guildId":"aeec9a99-faa9-4490-8f2d-35d1a3dd11a9","name":"Vanguard Angels Mystic","world":{"region":"int","nr":1},"glory":7546,"trainerLevel":175,"treasuryLevel":958}
+{"guildId":"276e178b-7678-4ae9-b762-2c278f0ad410","name":"Sanguine Circle","world":{"region":"de","nr":1},"glory":3000,"trainerLevel":750,"treasuryLevel":830}
+{"guildId":"cf9b4305-1569-4b50-932d-53eaab86cb2d","name":"Fury Obsidian Keepers","world":{"region":"fr","nr":2},"glory":3732,"trainerLevel":847,"treasuryLevel":865}
+{"guildId":"32caf159-3fa0-412a-b3e5-83dfd7b339b2","name":"Lions Hunters Ancient","world":{"region":"am","nr":2},"glory":1786,"trainerLevel":343,"treasuryLevel":372}
+{"guildId":"bd5a240b-72c2-4ba5-a757-267050b17b11","name":"Lions Wardens Azure","world":{"region":"am","nr":2},"glory":7541,"trainerLevel":388,"treasuryLevel":416}
+{"guildId":"df075e28-4e7e-44fe-b31c-80b4867848ab","name":"Twilight Wanderers Titans","world":{"region":"int","nr":2},"glory":8256,"trainerLevel":111,"treasuryLevel":91}
+{"guildId":"00429573-7da7-41c1-9a9c-50efecbca723","name":"Silent Guardians Wolves","world":{"region":"am","nr":1},"glory":2952,"trainerLevel":846,"treasuryLevel":754}
+{"guildId":"26207583-c3c1-4d96-bc6a-15fa3ac5bdde","name":"Blazing Noble Knights","world":{"region":"eu","nr":1},"glory":6510,"trainerLevel":511,"treasuryLevel":113}
+{"guildId":"ee2cd7b7-1658-4e8f-b0c3-27d48a7c4dde","name":"Order Chosen Titans","world":{"region":"eu","nr":1},"glory":199,"trainerLevel":147,"treasuryLevel":555}
+{"guildId":"ad0a697a-4405-4a2e-957e-178d2caa3f46","name":"Crimson Wolves Infinite","world":{"region":"pl","nr":1},"glory":7193,"trainerLevel":393,"treasuryLevel":680}
+{"guildId":"09cefa65-02a8-4ea8-befc-4c769fd3cd13","name":"Mystic Savage Banshees","world":{"region":"fr","nr":2},"glory":5611,"trainerLevel":507,"treasuryLevel":809}
+{"guildId":"1634cdd1-dfa3-4c81-a0e0-84f458eef96f","name":"Fabled Circle Reapers","world":{"region":"hu","nr":1},"glory":6258,"trainerLevel":333,"treasuryLevel":824}
+{"guildId":"ee502d95-efab-474a-b816-9406a1aae6d8","name":"Astral Defenders","world":{"region":"de","nr":2},"glory":5226,"trainerLevel":275,"treasuryLevel":37}
+{"guildId":"aef3017c-cfc1-4125-9185-f75d64ad9f01","name":"Hunters Eternal Iron","world":{"region":"am","nr":2},"glory":4829,"trainerLevel":762,"treasuryLevel":760}
+{"guildId":"788e8427-3f17-44cf-8341-cb34635dd50e","name":"Crusaders Azure Sacred","world":{"region":"int","nr":1},"glory":2093,"trainerLevel":155,"treasuryLevel":494}
+{"guildId":"828f3468-1e58-4bb7-adbe-0863c1b63120","name":"Radiant Keepers Chosen","world":{"region":"hu","nr":1},"glory":9437,"trainerLevel":464,"treasuryLevel":635}
+{"guildId":"c53d31eb-357b-4a1a-808b-bbc215018c98","name":"Noble Shadow Fury","world":{"region":"pl","nr":2},"glory":2299,"trainerLevel":29,"treasuryLevel":469}
+{"guildId":"2d030d50-e078-4ce7-878a-39fdc2fc30ac","name":"Wraiths Serpents Infinite","world":{"region":"eu","nr":1},"glory":9085,"trainerLevel":902,"treasuryLevel":190}
+{"guildId":"b7105359-934f-4c9a-a67f-ec9007cef35e","name":"Lions Iron Infinite","world":{"region":"pl","nr":2},"glory":2960,"trainerLevel":896,"treasuryLevel":422}
+{"guildId":"3a9aeae6-95ea-4292-b5dc-2653249a3398","name":"Sentinels Emerald Archons","world":{"region":"am","nr":1},"glory":3078,"trainerLevel":66,"treasuryLevel":457}
+{"guildId":"a4971906-e854-41df-8c85-cb1a19b0216d","name":"Vanguard Sacred Titans","world":{"region":"pl","nr":2},"glory":7967,"trainerLevel":197,"treasuryLevel":279}
+{"guildId":"bec19f9d-94e3-45ed-8b15-d0c7a0404e97","name":"Wardens Iron Dragons","world":{"region":"int","nr":2},"glory":3889,"trainerLevel":126,"treasuryLevel":50}
+{"guildId":"957d5748-8c49-43e5-a275-8e13349c2589","name":"Fabled Obsidian Order","world":{"region":"hu","nr":1},"glory":2398,"trainerLevel":361,"treasuryLevel":783}
+{"guildId":"cf6c81fc-db91-4436-97d0-aaf5e2963218","name":"Emberfang Tribe","world":{"region":"int","nr":1},"glory":4674,"trainerLevel":961,"treasuryLevel":980}
+{"guildId":"4ddd6468-9054-4f60-a11d-3d2cae8ff5a3","name":"Obsidian Demons Chosen","world":{"region":"cz","nr":2},"glory":32,"trainerLevel":996,"treasuryLevel":102}
+{"guildId":"9e51b37a-49d8-4127-b6ba-65da834c98c5","name":"Hidden Banshees Wanderers","world":{"region":"int","nr":1},"glory":4540,"trainerLevel":746,"treasuryLevel":7}
+{"guildId":"97e44387-6de3-4c57-afd4-819c83928045","name":"Wardens Forgotten Demons","world":{"region":"cz","nr":1},"glory":5847,"trainerLevel":711,"treasuryLevel":767}
+{"guildId":"8df58251-34a6-4b41-b564-d5602c0e6d37","name":"Silent Order Archons","world":{"region":"hu","nr":2},"glory":35,"trainerLevel":547,"treasuryLevel":565}
+{"guildId":"1d52b9c3-8594-4e21-b567-ec0f246a6e36","name":"Celestial Bound Legion","world":{"region":"cz","nr":1},"glory":1988,"trainerLevel":85,"treasuryLevel":567}
+{"guildId":"208e42bd-c960-4d21-a827-7f9ca9ed602b","name":"Sacred Storm Wanderers","world":{"region":"de","nr":2},"glory":9728,"trainerLevel":101,"treasuryLevel":856}
+{"guildId":"b71cef6c-c409-44c2-9f07-be8de6ab4dbf","name":"Frost Guardians Lions","world":{"region":"pl","nr":2},"glory":8208,"trainerLevel":992,"treasuryLevel":463}
+{"guildId":"8950b246-8aa8-4448-a4ad-f9a44e6f8ebe","name":"Feral Ravens Brotherhood","world":{"region":"pl","nr":2},"glory":4775,"trainerLevel":231,"treasuryLevel":831}
+{"guildId":"bd2445d7-0e40-420b-a3a7-66f4358bece2","name":"Feral Obsidian Fury","world":{"region":"pl","nr":1},"glory":5245,"trainerLevel":822,"treasuryLevel":606}
+{"guildId":"f6f69ceb-90ff-473b-bdf0-dc37f3e8b90d","name":"Storm Fabled Vanguard","world":{"region":"de","nr":2},"glory":8916,"trainerLevel":97,"treasuryLevel":255}
+{"guildId":"f484a796-6105-4969-9044-2f548b28bc28","name":"Thunderpeak Sentinels","world":{"region":"int","nr":1},"glory":3209,"trainerLevel":150,"treasuryLevel":817}
+{"guildId":"b1ae1b46-ee73-4676-b6f5-cdb4419851bc","name":"Golden Unbroken Banshees","world":{"region":"pl","nr":2},"glory":3599,"trainerLevel":698,"treasuryLevel":2}
+{"guildId":"e52a78e6-659d-4ad1-bf0e-4188e34d460b","name":"Wanderers Ancient Angels","world":{"region":"fr","nr":1},"glory":8837,"trainerLevel":710,"treasuryLevel":767}
+{"guildId":"e37282ab-49b0-4603-8fb7-3c70a2ab819f","name":"Wraiths Silent Demons","world":{"region":"hu","nr":1},"glory":7926,"trainerLevel":655,"treasuryLevel":1000}
+{"guildId":"7b4930e7-f1f4-4fa8-be87-5564fd35e328","name":"Prime Wanderers Banshees","world":{"region":"eu","nr":1},"glory":2472,"trainerLevel":650,"treasuryLevel":356}
+{"guildId":"589a2f84-76d0-42f7-a739-039bd11ba335","name":"Ravens Storm Wraiths","world":{"region":"fr","nr":1},"glory":3484,"trainerLevel":192,"treasuryLevel":413}
+{"guildId":"bb4cb80b-363a-4589-9e7a-31c1e330b4ac","name":"Twilight Fabled Wraiths","world":{"region":"cz","nr":2},"glory":3804,"trainerLevel":900,"treasuryLevel":474}
+{"guildId":"53d1d6dc-fad5-41cd-9e46-11485cba4ac4","name":"Prime Dragons Crusaders","world":{"region":"pl","nr":1},"glory":4295,"trainerLevel":93,"treasuryLevel":190}
+{"guildId":"2c3784d5-54ba-4baf-8adb-df2802e27687","name":"Wraiths Twilight Infinite","world":{"region":"hu","nr":2},"glory":1992,"trainerLevel":83,"treasuryLevel":669}
+{"guildId":"f18d2395-f1d6-4b68-9e5a-3d4702b771d3","name":"Forgotten Wolves Obsidian","world":{"region":"hu","nr":2},"glory":2030,"trainerLevel":87,"treasuryLevel":916}
+{"guildId":"f64cc140-a095-49fe-9c00-72b5ce7d2537","name":"Wraiths Forgotten Shadow","world":{"region":"am","nr":2},"glory":2005,"trainerLevel":819,"treasuryLevel":849}
+{"guildId":"e0e78d15-92cd-4887-b54b-044c9028c076","name":"Serpent\u0027s Fang","world":{"region":"am","nr":2},"glory":9197,"trainerLevel":521,"treasuryLevel":866}
+{"guildId":"7cadc7fc-f469-403a-90d4-168577bd5c5b","name":"Legion Crimson Knights","world":{"region":"fr","nr":1},"glory":1091,"trainerLevel":116,"treasuryLevel":31}
+{"guildId":"6ab6ea8e-1569-4c91-a27a-1ddb268c09f9","name":"Crusaders Lost Ravens","world":{"region":"am","nr":2},"glory":9639,"trainerLevel":686,"treasuryLevel":242}
+{"guildId":"5f3d97bf-1a27-42d7-a3c8-dd2c49d877fa","name":"Crusaders Chosen Crimson","world":{"region":"cz","nr":1},"glory":7643,"trainerLevel":282,"treasuryLevel":332}
+{"guildId":"fbb930aa-eeb0-43fe-bed5-9049b551cf7f","name":"Iron Guardians Savage","world":{"region":"int","nr":1},"glory":2854,"trainerLevel":124,"treasuryLevel":277}
+{"guildId":"5ec2765d-16cb-486a-9154-b5a18d1cfa2d","name":"Silent Ravens Coven","world":{"region":"eu","nr":1},"glory":6184,"trainerLevel":437,"treasuryLevel":863}
+{"guildId":"58275317-31d7-4282-861f-3ce3a7497b8e","name":"Lions Azure Forgotten","world":{"region":"cz","nr":1},"glory":891,"trainerLevel":626,"treasuryLevel":990}
+{"guildId":"29e25208-4d95-4e3d-8a16-3fdfa95f7c97","name":"Blazing Ancient Titans","world":{"region":"eu","nr":2},"glory":6121,"trainerLevel":310,"treasuryLevel":791}
+{"guildId":"aa23f228-a785-4ce4-9e1f-a390a62349bc","name":"Coven Golden Chosen","world":{"region":"eu","nr":1},"glory":9736,"trainerLevel":6,"treasuryLevel":204}
+{"guildId":"d5d2f8b8-7638-40af-b665-bac1e88b7317","name":"Wardens Phantoms Silent","world":{"region":"de","nr":2},"glory":7751,"trainerLevel":60,"treasuryLevel":504}
+{"guildId":"536d1e73-791b-4ce2-8ce4-a5566cae92c8","name":"Golden Circle Ancient","world":{"region":"eu","nr":2},"glory":7680,"trainerLevel":233,"treasuryLevel":326}
+{"guildId":"e3096e28-9fa2-4635-88ea-5cfb399b6cb8","name":"Moonshadow Enclave","world":{"region":"hu","nr":1},"glory":414,"trainerLevel":334,"treasuryLevel":75}
+{"guildId":"bc3905e2-a977-403a-a134-22c3c4a92717","name":"Giants Wanderers Chosen","world":{"region":"de","nr":1},"glory":7602,"trainerLevel":554,"treasuryLevel":39}
+{"guildId":"a666a68a-9f39-4252-8799-86920152a358","name":"Forgotten Emerald Reapers","world":{"region":"eu","nr":2},"glory":8278,"trainerLevel":840,"treasuryLevel":727}
+{"guildId":"9d1b82fe-4c5e-4586-bfc3-b16f81f5513d","name":"Wanderers Dragons Mystic","world":{"region":"de","nr":1},"glory":2928,"trainerLevel":471,"treasuryLevel":245}
+{"guildId":"df455f2b-3f45-417a-b3c2-759d979ccb27","name":"Fabled Dragons Guardians","world":{"region":"fr","nr":2},"glory":4296,"trainerLevel":835,"treasuryLevel":528}
+{"guildId":"96728405-c631-4ec9-bcdd-21567e33bd00","name":"Lions Prime Mystic","world":{"region":"pl","nr":2},"glory":4432,"trainerLevel":647,"treasuryLevel":76}
+{"guildId":"78cc6a99-7cea-4dd5-a04d-d0defda60dcf","name":"Angels Unbroken Sentinels","world":{"region":"pl","nr":2},"glory":9547,"trainerLevel":427,"treasuryLevel":515}
+{"guildId":"1f4acd6b-8382-403c-9566-a537459ff150","name":"Demons Shadow Forgotten","world":{"region":"eu","nr":2},"glory":3162,"trainerLevel":591,"treasuryLevel":610}
+{"guildId":"1443deff-f87c-48fd-af61-6c1f9cd29361","name":"Giants Hidden Order","world":{"region":"hu","nr":2},"glory":2823,"trainerLevel":689,"treasuryLevel":21}
+{"guildId":"fd16e93d-7b4f-4869-ae5f-2c99854d5656","name":"Frost Eternal Phantoms","world":{"region":"cz","nr":1},"glory":6877,"trainerLevel":234,"treasuryLevel":712}
+{"guildId":"0bc56c49-5b42-4c1a-a579-549bdc49c964","name":"Serpents Brotherhood Prime","world":{"region":"fr","nr":1},"glory":180,"trainerLevel":576,"treasuryLevel":260}
+{"guildId":"a55b665f-1f95-4eed-9891-2d6fb09bd987","name":"Bloodmoon Hunters","world":{"region":"hu","nr":1},"glory":5807,"trainerLevel":627,"treasuryLevel":628}
+{"guildId":"76819984-1acf-48d7-8392-f23ea94f6570","name":"Wolves Shadow Circle","world":{"region":"pl","nr":1},"glory":9182,"trainerLevel":562,"treasuryLevel":36}
+{"guildId":"75bb63f7-eb0f-4f5c-a13c-79b06b0ef37e","name":"Iron Phantoms Sacred","world":{"region":"de","nr":1},"glory":2395,"trainerLevel":335,"treasuryLevel":956}
+{"guildId":"7fe12097-80f6-4e8b-8965-db95ce03fed9","name":"Giants Golden Crusaders","world":{"region":"hu","nr":1},"glory":8084,"trainerLevel":26,"treasuryLevel":311}
+{"guildId":"b9fc694c-aa17-4d3b-b0cb-f9b3b1586c31","name":"Giants Noble Azure","world":{"region":"de","nr":2},"glory":1560,"trainerLevel":936,"treasuryLevel":744}
+{"guildId":"17d13a9c-a310-44fc-9607-198d7366b7b5","name":"Silent Keepers Serpents","world":{"region":"de","nr":2},"glory":8429,"trainerLevel":226,"treasuryLevel":803}
+{"guildId":"91862f26-6477-41a7-9389-23b4deae010f","name":"Wolves Silent Sacred","world":{"region":"cz","nr":1},"glory":3049,"trainerLevel":473,"treasuryLevel":831}
+{"guildId":"84b13496-9b92-4e0d-9d90-58ee1df8a311","name":"Storm Bound Coven","world":{"region":"hu","nr":2},"glory":6160,"trainerLevel":47,"treasuryLevel":602}
+{"guildId":"03dad06a-1bae-44a6-a1ba-8ef8c38d7459","name":"Mystic Angels Wraiths","world":{"region":"int","nr":2},"glory":5962,"trainerLevel":75,"treasuryLevel":246}
+{"guildId":"e7046923-10ea-4726-812e-ffe27956a931","name":"Vanguard Eternal Celestial","world":{"region":"cz","nr":2},"glory":133,"trainerLevel":190,"treasuryLevel":796}
+{"guildId":"3dd6bcf6-6252-4ed7-b496-40f0b84f27a3","name":"Celestial Wraiths Ravens","world":{"region":"fr","nr":2},"glory":482,"trainerLevel":156,"treasuryLevel":483}
+{"guildId":"71fcf715-7898-4bff-8d11-2a95fb82a6ba","name":"Nova Vanguard","world":{"region":"eu","nr":2},"glory":9638,"trainerLevel":677,"treasuryLevel":881}
+{"guildId":"e8e58e31-d96c-4b53-9aef-e04863bf9eef","name":"Infinite Emerald Coven","world":{"region":"int","nr":2},"glory":8451,"trainerLevel":321,"treasuryLevel":320}
+{"guildId":"08d0555e-defa-4f89-bb4d-06e8f6fbb30b","name":"Twilight Sacred Keepers","world":{"region":"pl","nr":1},"glory":4882,"trainerLevel":243,"treasuryLevel":714}
+{"guildId":"ab81f33d-f8ca-4d21-ac59-d7a45984eb61","name":"Coven Giants Unbroken","world":{"region":"am","nr":1},"glory":9499,"trainerLevel":623,"treasuryLevel":152}
+{"guildId":"93f999e9-b70a-4d7d-9407-46c311fb65d4","name":"Brotherhood Azure Fabled","world":{"region":"eu","nr":2},"glory":3471,"trainerLevel":923,"treasuryLevel":816}
+{"guildId":"14108422-33bd-4ca8-9113-43a0a8efdabf","name":"Lost Alliance Reapers","world":{"region":"de","nr":2},"glory":7898,"trainerLevel":521,"treasuryLevel":185}
+{"guildId":"ecbc79da-0b75-4e25-8674-336311df0861","name":"Ancient Silent Brotherhood","world":{"region":"am","nr":2},"glory":371,"trainerLevel":346,"treasuryLevel":106}
+{"guildId":"9883340a-dbad-4201-8840-705dbf60739f","name":"Wardens Iron Feral","world":{"region":"hu","nr":1},"glory":4509,"trainerLevel":289,"treasuryLevel":905}
+{"guildId":"39cf86f1-a550-401d-92bc-2d667c9e6ac2","name":"Chosen Guardians Ravens","world":{"region":"eu","nr":2},"glory":7118,"trainerLevel":173,"treasuryLevel":820}
+{"guildId":"c7bde2d2-89c1-43ac-8a69-72732ed40a1e","name":"Archons Circle Lost","world":{"region":"fr","nr":1},"glory":8157,"trainerLevel":496,"treasuryLevel":869}
+{"guildId":"8a2a6c14-8341-4588-840d-42724ef96875","name":"Storm Brotherhood Fabled","world":{"region":"int","nr":1},"glory":3001,"trainerLevel":326,"treasuryLevel":591}
+{"guildId":"ad5b11f0-4590-41e1-80e3-f752867ae702","name":"Frostveil Order","world":{"region":"eu","nr":1},"glory":4528,"trainerLevel":58,"treasuryLevel":837}
+{"guildId":"0b58916a-5c6b-4317-8020-9832416fec46","name":"Banshees Storm Noble","world":{"region":"eu","nr":2},"glory":5744,"trainerLevel":545,"treasuryLevel":63}
+{"guildId":"1944b2e2-7a8f-49c4-8f43-bb1dd3558b8d","name":"Hunters Crimson Demons","world":{"region":"int","nr":1},"glory":6688,"trainerLevel":968,"treasuryLevel":671}
+{"guildId":"111d8f46-c3d2-4f3c-b6eb-dac80c474910","name":"Noble Radiant Coven","world":{"region":"cz","nr":1},"glory":3689,"trainerLevel":223,"treasuryLevel":928}
+{"guildId":"3b3d515c-82e3-440c-8629-cbd7ab392628","name":"Frost Archons Lost","world":{"region":"hu","nr":2},"glory":2216,"trainerLevel":490,"treasuryLevel":471}
+{"guildId":"bc39ee10-26af-4dbd-b2cf-f9d99932a029","name":"Wraiths Infinite Demons","world":{"region":"hu","nr":2},"glory":6271,"trainerLevel":655,"treasuryLevel":276}
+{"guildId":"e47d6981-f6b1-4ad9-8b7b-ce98829dd48a","name":"Vanguard Iron Fury","world":{"region":"de","nr":1},"glory":7291,"trainerLevel":329,"treasuryLevel":805}
+{"guildId":"803e527b-f3d1-4215-919c-a21aeb0fb8e5","name":"Crimson Circle Titans","world":{"region":"fr","nr":1},"glory":1534,"trainerLevel":321,"treasuryLevel":984}
+{"guildId":"d69942b1-2dcc-45bb-98cf-b42976f6dae1","name":"Mystic Titans Wanderers","world":{"region":"int","nr":1},"glory":7478,"trainerLevel":601,"treasuryLevel":229}
+{"guildId":"ee7376ef-46fb-4cbd-bb03-7f9b34605354","name":"Brotherhood Ravens Celestial","world":{"region":"int","nr":2},"glory":2204,"trainerLevel":493,"treasuryLevel":160}
+{"guildId":"9f169d4c-7e15-41f6-9bad-f742205e0640","name":"Mystic Feral Demons","world":{"region":"int","nr":2},"glory":8523,"trainerLevel":535,"treasuryLevel":262}
+{"guildId":"656e2275-a80f-4507-a640-6e1e7a202264","name":"Crimson Dawn Brigade","world":{"region":"int","nr":2},"glory":3794,"trainerLevel":332,"treasuryLevel":59}
+{"guildId":"2df4e8f0-ac9f-4840-bc26-3e60f541b858","name":"Radiant Crusade","world":{"region":"fr","nr":2},"glory":5432,"trainerLevel":291,"treasuryLevel":938}
+{"guildId":"06863d34-ca87-47de-b0b2-036c1990a677","name":"Keepers Azure Serpents","world":{"region":"de","nr":1},"glory":4983,"trainerLevel":799,"treasuryLevel":781}
+{"guildId":"7395e545-329e-4a86-8c44-27375bfe8974","name":"Blackwater Corsairs","world":{"region":"am","nr":2},"glory":9859,"trainerLevel":59,"treasuryLevel":660}
+{"guildId":"f69df16a-86be-472e-a211-7910a69426de","name":"Solaris Conclave","world":{"region":"pl","nr":1},"glory":2916,"trainerLevel":819,"treasuryLevel":799}
+{"guildId":"3a253025-0dae-45e9-9ddb-412d0e81f040","name":"Eclipse Phantoms","world":{"region":"fr","nr":1},"glory":9214,"trainerLevel":242,"treasuryLevel":969}
+{"guildId":"470b4d53-db4c-4eca-aeb1-a8bc8e40a17a","name":"Dragonclaw Alliance","world":{"region":"de","nr":2},"glory":1983,"trainerLevel":36,"treasuryLevel":333}
+{"guildId":"c818d991-5450-4d52-ad6b-a20cdd947bff","name":"Silent Tempest","world":{"region":"cz","nr":1},"glory":9222,"trainerLevel":25,"treasuryLevel":224}
+{"guildId":"305d2a07-54df-460c-90ba-5b007fdccfa5","name":"Warbringer Clan","world":{"region":"eu","nr":1},"glory":9702,"trainerLevel":311,"treasuryLevel":502}
+{"guildId":"aca1623a-0b15-4d16-bc03-6e0e42621db5","name":"Phoenix Vow","world":{"region":"hu","nr":2},"glory":5809,"trainerLevel":494,"treasuryLevel":76}
+{"guildId":"7185b2c3-ecd3-42ae-bb66-5d1a2a98ae5e","name":"Abyssal Legion","world":{"region":"cz","nr":2},"glory":939,"trainerLevel":946,"treasuryLevel":216}
+{"guildId":"ddcbadca-b223-4e12-b10f-11838312ddbf","name":"Valiant Storm","world":{"region":"pl","nr":2},"glory":3618,"trainerLevel":200,"treasuryLevel":124}
+{"guildId":"66dd209f-bd41-4e38-a737-1949ba617d6b","name":"Voidwalkers Syndicate","world":{"region":"am","nr":2},"glory":710,"trainerLevel":404,"treasuryLevel":387}
+{"guildId":"ed9fe279-71d9-4b10-a1b1-9d2e25466386","name":"Nightfall Syndicate","world":{"region":"hu","nr":2},"glory":8168,"trainerLevel":953,"treasuryLevel":957}
+{"guildId":"7a00a8ab-257b-46eb-8155-5555b043b99f","name":"Ironstorm Brotherhood","world":{"region":"eu","nr":1},"glory":9220,"trainerLevel":123,"treasuryLevel":936}
+{"guildId":"3bb8b718-b254-4231-b712-8b63b2fea2e0","name":"Celestial Dawn","world":{"region":"hu","nr":1},"glory":1993,"trainerLevel":680,"treasuryLevel":486}
+{"guildId":"79fd8598-69b0-41be-b205-8ec1a591cfb1","name":"Crimson Talons","world":{"region":"de","nr":2},"glory":3343,"trainerLevel":429,"treasuryLevel":446}
+{"guildId":"33db0efc-1fcd-46bd-8c2e-49c2fd1883f3","name":"Stormchaser Guild","world":{"region":"eu","nr":2},"glory":3080,"trainerLevel":684,"treasuryLevel":811}
+{"guildId":"a2628fbe-0cd6-4dd0-befd-3f3380a611c4","name":"Voidwalker Pact","world":{"region":"cz","nr":2},"glory":4468,"trainerLevel":138,"treasuryLevel":281}
+{"guildId":"627bc3f2-b447-4d7d-875d-997bdaaca628","name":"Eternal Flame","world":{"region":"eu","nr":2},"glory":5914,"trainerLevel":95,"treasuryLevel":809}
+{"guildId":"5469c24f-e170-48d9-bc01-e662350ea21e","name":"Onyx Harbingers","world":{"region":"eu","nr":1},"glory":9301,"trainerLevel":733,"treasuryLevel":550}
+{"guildId":"c860dd3f-ec28-4a34-8c98-717da02dbeb8","name":"Duskveil Sentinels","world":{"region":"pl","nr":2},"glory":9429,"trainerLevel":13,"treasuryLevel":329}
+{"guildId":"6e281a3c-e8d4-4bf1-befc-065ddc881a70","name":"Sanguine Tide","world":{"region":"de","nr":1},"glory":1286,"trainerLevel":206,"treasuryLevel":219}
+{"guildId":"20a0bea0-0062-46c1-9b75-8d5063f4b311","name":"Ironclad Brotherhood","world":{"region":"cz","nr":2},"glory":871,"trainerLevel":737,"treasuryLevel":519}
+{"guildId":"365af4dc-0207-4f22-8247-2c72eee0e368","name":"Astral Reavers","world":{"region":"de","nr":1},"glory":5957,"trainerLevel":842,"treasuryLevel":189}
+{"guildId":"dd49debe-4616-4258-9190-b8adaf40495a","name":"Emberstorm Collective","world":{"region":"hu","nr":2},"glory":1079,"trainerLevel":718,"treasuryLevel":943}
+{"guildId":"7b37739d-13f3-4d00-9700-7b853a09593f","name":"Thunderhead Marauders","world":{"region":"de","nr":2},"glory":4455,"trainerLevel":610,"treasuryLevel":260}
+{"guildId":"97d28e97-59c1-482a-ad12-9e783fbca14c","name":"Serpent\u0027s Wrath","world":{"region":"hu","nr":2},"glory":7611,"trainerLevel":942,"treasuryLevel":116}
+{"guildId":"97bf8f03-0cb0-4c85-af4b-6968891bc945","name":"Moonflare Order","world":{"region":"eu","nr":2},"glory":9569,"trainerLevel":469,"treasuryLevel":315}
+{"guildId":"1def31c1-44bb-4356-a312-85570806eafd","name":"Bloodthorn Vanguard","world":{"region":"pl","nr":2},"glory":8289,"trainerLevel":539,"treasuryLevel":162}
+{"guildId":"ca44df77-18ec-439c-bb44-dfec934a62bd","name":"Nebula Sentinels","world":{"region":"cz","nr":1},"glory":6546,"trainerLevel":734,"treasuryLevel":430}
+{"guildId":"99a4a8d8-a461-4339-8051-a3821b893605","name":"Frostgale Syndicate","world":{"region":"hu","nr":1},"glory":9441,"trainerLevel":119,"treasuryLevel":632}
+{"guildId":"5bb2faab-51b4-4e19-a4f6-5364bf0d67e6","name":"Radiant Phoenix","world":{"region":"am","nr":2},"glory":2966,"trainerLevel":982,"treasuryLevel":681}
+{"guildId":"51408483-a298-4ce6-ab7c-e92c0d452f30","name":"Blackscale Warband","world":{"region":"cz","nr":1},"glory":57,"trainerLevel":469,"treasuryLevel":252}
+{"guildId":"ec49cc05-b13c-45bb-8046-8136d28656a0","name":"Arcane Tempest","world":{"region":"cz","nr":1},"glory":6353,"trainerLevel":664,"treasuryLevel":601}
+{"guildId":"3b4d92f0-af4c-48ab-a76e-6b3caeb7e628","name":"Solarflare Enigma","world":{"region":"hu","nr":2},"glory":9271,"trainerLevel":595,"treasuryLevel":831}
+{"guildId":"4e190d14-b182-4e95-b943-8cf34f9b3966","name":"Eclipse Revenants","world":{"region":"pl","nr":2},"glory":5229,"trainerLevel":728,"treasuryLevel":434}
+{"guildId":"021bcc70-92e8-4625-95fc-7b19174b29e8","name":"Dragonfang Brotherhood","world":{"region":"am","nr":2},"glory":4952,"trainerLevel":341,"treasuryLevel":396}
+{"guildId":"ca62583c-04e6-4a44-bf38-4b24059d1773","name":"Silent Dawn","world":{"region":"cz","nr":2},"glory":1440,"trainerLevel":831,"treasuryLevel":917}
+{"guildId":"50a226d7-2962-4a44-a0ae-f05d9cffe88d","name":"Warborn Phoenix","world":{"region":"hu","nr":1},"glory":6233,"trainerLevel":179,"treasuryLevel":770}
+{"guildId":"76459725-bbfe-416f-8ff6-c1e29f3850e4","name":"Phoenix Dominion","world":{"region":"pl","nr":2},"glory":5215,"trainerLevel":38,"treasuryLevel":777}
+{"guildId":"7860d72c-3596-49fe-886b-edb015747ad3","name":"Abyssal Storm","world":{"region":"cz","nr":1},"glory":9115,"trainerLevel":886,"treasuryLevel":793}
+{"guildId":"1cc9c3db-a0d5-4a56-b57b-a023084827ba","name":"Valiant Vanguard","world":{"region":"eu","nr":1},"glory":8356,"trainerLevel":467,"treasuryLevel":177}
+{"guildId":"650e4f6e-0d10-4d5e-8429-622a01268fa8","name":"Nightshade Phantoms","world":{"region":"cz","nr":1},"glory":582,"trainerLevel":843,"treasuryLevel":218}
+{"guildId":"beb77faf-33f0-499e-aad8-10e1e3153c13","name":"Ironclad Crusaders","world":{"region":"am","nr":1},"glory":1037,"trainerLevel":264,"treasuryLevel":943}
+{"guildId":"6b590041-65eb-46b6-8230-2976e7cd9fc4","name":"Sapphire Sentinels","world":{"region":"int","nr":2},"glory":6359,"trainerLevel":450,"treasuryLevel":109}
+{"guildId":"71be0821-6a89-4d89-a833-1a84fe93c183","name":"Celestial Storm","world":{"region":"eu","nr":1},"glory":1889,"trainerLevel":407,"treasuryLevel":334}
+{"guildId":"3d9542eb-0e7b-430b-a23d-a533ca5c8bf1","name":"Crimson Fang","world":{"region":"am","nr":1},"glory":9586,"trainerLevel":608,"treasuryLevel":335}
+{"guildId":"d0fb1573-9d3c-457c-a5bb-143774c0f681","name":"Stormborn Vow","world":{"region":"int","nr":1},"glory":7979,"trainerLevel":540,"treasuryLevel":320}
+{"guildId":"d44855bf-45a4-493e-a895-c5c6fd8ab974","name":"Voidrend Collective","world":{"region":"cz","nr":1},"glory":1384,"trainerLevel":852,"treasuryLevel":391}
+{"guildId":"ef772693-b366-47ba-abb3-6f9cda3be6f3","name":"Eternal Serpents","world":{"region":"eu","nr":1},"glory":7812,"trainerLevel":936,"treasuryLevel":49}
+{"guildId":"8831bb1d-5d28-4e05-bb08-1e4532ddd916","name":"Onyx Tempest","world":{"region":"pl","nr":2},"glory":9695,"trainerLevel":654,"treasuryLevel":797}
+{"guildId":"d06bb550-146b-48fe-9b77-d5ff88cc579d","name":"Duskfall Harbingers","world":{"region":"hu","nr":2},"glory":2695,"trainerLevel":523,"treasuryLevel":109}
+{"guildId":"42f211e4-a82e-4516-b442-a3b326868737","name":"Sanguine Storm","world":{"region":"de","nr":2},"glory":5284,"trainerLevel":951,"treasuryLevel":577}
+{"guildId":"dc67fce7-dc1b-4594-b2a8-d6bdae1e0ecc","name":"Astral Vanguard","world":{"region":"am","nr":2},"glory":7364,"trainerLevel":771,"treasuryLevel":28}
+{"guildId":"6f540ed7-dc02-4616-b1b9-1969b073e603","name":"Emberclaw Syndicate","world":{"region":"am","nr":2},"glory":3242,"trainerLevel":340,"treasuryLevel":324}
